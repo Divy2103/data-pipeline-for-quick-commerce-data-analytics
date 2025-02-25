@@ -1,0 +1,1 @@
+print('select * from divy')

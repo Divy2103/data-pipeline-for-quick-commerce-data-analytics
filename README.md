@@ -1,3 +1,3 @@
 # Internship_project
 
-This is my first commit.
+This is the project fro swiggy data.

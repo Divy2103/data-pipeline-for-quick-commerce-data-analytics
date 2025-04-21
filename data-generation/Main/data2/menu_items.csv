@@ -1,0 +1,252 @@
+MenuItemID,RestaurantID,ItemName,Description,Price,Category,Availability,ItemType,Ratings,CreatedDate,ModifiedDate
+524,44,Dahi Puri,Traditional Indian Dahi Puri with rich flavors.,223,Appetizers,True,Veg,,2025-04-24 01:30:23,2025-04-24 01:30:23.940681
+525,44,Lemon Herb Fish,Traditional Indian Lemon Herb Fish with rich flavors.,182,Italian & Continental,True,Non-Veg,,2025-04-19 23:49:34,2025-04-19 23:49:34.401118
+526,44,Sambar Rice,Classic Sambar Rice with a twist.,176,South Indian,True,Veg,,2025-04-07 11:50:44,2025-04-07 11:50:44.157896
+527,44,Iced Tea,Traditional Indian Iced Tea with rich flavors.,484,Beverages,True,Veg,,2025-04-19 05:00:41,2025-04-19 05:00:41.338970
+528,44,Manchow Soup,A must-try Manchow Soup from India.,95,Chinese & Indo-Chinese,True,Veg,,2025-03-29 20:49:56,2025-03-29 20:58:47.000000
+529,44,Margherita Pizza,A popular Indian dish.,198,Italian & Continental,True,Veg,,2025-03-30 09:21:08,2025-03-31 00:53:02.000000
+530,44,Bruschetta,Traditional Indian Bruschetta with rich flavors.,223,Italian & Continental,True,Veg,,2025-03-19 15:38:19,2025-03-19 21:06:50.000000
+531,44,Tiramisu,A must-try Tiramisu from India.,453,Desserts,True,Veg,,2025-04-06 08:42:03,2025-04-06 08:42:03.746112
+532,44,Masala Chai,Delicious and authentic Masala Chai.,168,Beverages,True,Veg,,2025-05-07 04:53:56,2025-05-07 04:53:56.024275
+533,44,Chicken Tikka,Delicious and authentic Chicken Tikka.,357,Appetizers,True,Non-Veg,,2025-04-21 06:20:19,2025-04-21 06:20:19.212932
+534,44,Fruit Juice,A popular Indian dish.,304,Beverages,True,Veg,,2025-05-07 18:33:41,2025-05-07 18:33:41.194727
+535,44,Tomato Uttapam,Classic Tomato Uttapam with a twist.,242,South Indian,True,Veg,,2025-03-31 21:18:33,2025-03-31 21:18:33.631247
+536,44,Dabeli,A popular Indian dish.,403,Snacks & Street Food,True,Veg,,2025-03-30 11:54:19,2025-03-30 15:20:02.000000
+596,50,Phirni,Delicious and authentic Phirni.,259,Desserts,True,Veg,,2025-02-27 17:42:00,2025-03-11 22:17:45.000000
+597,50,Lemon Herb Fish,Classic Lemon Herb Fish with a twist.,118,Italian & Continental,True,Non-Veg,,2025-02-17 16:16:50,2025-03-23 10:47:06.000000
+598,50,Chicken Rezala,Delicious and authentic Chicken Rezala.,474,Main Course,True,Non-Veg,,2025-02-28 23:26:01,2025-03-02 23:37:03.000000
+599,50,Hara Bhara Kebab,A must-try Hara Bhara Kebab from India.,54,Appetizers,True,Veg,,2025-03-07 21:46:02,2025-03-30 01:39:28.000000
+600,50,Stuffed Mushrooms,Delicious and authentic Stuffed Mushrooms.,465,Appetizers,True,Veg,,2025-02-15 13:41:31,2025-03-25 17:24:36.000000
+601,50,Manchow Soup,Classic Manchow Soup with a twist.,447,Chinese & Indo-Chinese,True,Veg,,2025-03-18 19:49:51,2025-03-23 11:16:53.000000
+602,50,Tandoori Prawns,Classic Tandoori Prawns with a twist.,434,Appetizers,True,Non-Veg,,2025-03-01 03:04:19,2025-03-01 06:03:15.000000
+603,50,Sugarcane Juice,Classic Sugarcane Juice with a twist.,165,Beverages,True,Veg,,2025-03-20 04:11:51,2025-03-24 22:30:29.000000
+604,50,Plain Dosa,A must-try Plain Dosa from India.,459,South Indian,True,Veg,,2025-02-10 10:28:49,2025-03-31 01:11:06.000000
+605,50,Honey Chilli Potatoes,Classic Honey Chilli Potatoes with a twist.,170,Appetizers,True,Veg,,2025-02-27 21:44:07,2025-03-04 15:42:17.000000
+606,50,Burritos,Traditional Indian Burritos with rich flavors.,354,Italian & Continental,True,Veg,,2025-02-16 17:52:14,2025-02-28 05:48:51.000000
+5186,411,Mysore Pak,A popular Indian dish.,405,Desserts,True,Veg,,2025-02-21 18:31:18,2025-03-28 16:02:31.000000
+5187,411,Rava Dosa,Delicious and authentic Rava Dosa.,101,South Indian,True,Veg,,2025-02-22 02:51:41,2025-03-14 23:28:48.000000
+5188,411,Medu Vada,Traditional Indian Medu Vada with rich flavors.,407,South Indian,True,Veg,,2025-02-16 12:43:56,2025-03-02 15:25:44.000000
+5189,411,Virgin Mojito,Traditional Indian Virgin Mojito with rich flavors.,443,Beverages,True,Veg,,2025-03-12 00:21:58,2025-03-27 05:52:27.000000
+5190,411,Fish Curry,Classic Fish Curry with a twist.,351,Main Course,True,Non-Veg,,2025-02-19 01:12:08,2025-03-13 08:35:44.000000
+5191,411,Fruit Custard,A must-try Fruit Custard from India.,291,Desserts,True,Veg,,2025-01-28 03:32:55,2025-02-08 13:29:06.000000
+5192,411,Seekh Kebab,Delicious and authentic Seekh Kebab.,409,Appetizers,True,Non-Veg,,2025-03-17 05:28:01,2025-03-25 12:09:16.000000
+5193,411,Pav Bhaji,Traditional Indian Pav Bhaji with rich flavors.,269,Snacks & Street Food,True,Veg,,2025-03-09 09:05:33,2025-03-24 14:08:36.000000
+5194,411,Rasam Rice,Classic Rasam Rice with a twist.,150,South Indian,True,Veg,,2025-01-27 11:27:47,2025-02-18 00:00:33.000000
+5195,411,Plain Dosa,Delicious and authentic Plain Dosa.,186,South Indian,True,Veg,,2025-02-14 21:04:51,2025-02-25 01:06:34.000000
+5196,411,Chilli Paneer,Traditional Indian Chilli Paneer with rich flavors.,239,Chinese & Indo-Chinese,True,Veg,,2025-02-26 03:30:59,2025-03-19 04:37:40.000000
+6373,504,Batata Vada,Classic Batata Vada with a twist.,476,Snacks & Street Food,True,Veg,2.5,2025-04-03 03:17:38,2025-04-03 03:17:38.532531
+6374,504,Manchow Soup,Classic Manchow Soup with a twist.,301,Chinese & Indo-Chinese,True,Veg,3.6,2025-03-19 21:00:04,2025-03-27 09:27:06.000000
+6375,504,Fried Rice,A popular Indian dish.,108,Chinese & Indo-Chinese,True,Veg,3.9,2025-03-09 06:07:43,2025-03-14 05:35:17.000000
+6376,504,Cheese Balls,Classic Cheese Balls with a twist.,180,Appetizers,True,Veg,3.6,2025-03-26 21:55:45,2025-03-29 00:23:46.000000
+6377,504,Masala Chai,A popular Indian dish.,156,Beverages,True,Veg,,2025-04-21 01:17:06,2025-04-21 01:17:06.700995
+6378,504,Spaghetti Aglio e Olio,Classic Spaghetti Aglio e Olio with a twist.,478,Italian & Continental,True,Veg,2.8,2025-03-20 07:45:32,2025-03-24 21:30:30.000000
+6379,504,Rasgulla,Classic Rasgulla with a twist.,252,Desserts,True,Veg,4.2,2025-03-02 08:33:26,2025-03-12 16:18:58.000000
+6380,504,Pakora,A popular Indian dish.,259,Snacks & Street Food,True,Veg,4.0,2025-03-30 15:21:33,2025-03-31 11:43:48.000000
+6381,504,Coconut Water,Classic Coconut Water with a twist.,95,Beverages,True,Veg,4.1,2025-02-25 09:36:04,2025-03-07 07:53:48.000000
+6382,504,Stuffed Mushrooms,A must-try Stuffed Mushrooms from India.,275,Appetizers,True,Veg,4.0,2025-04-05 18:47:37,2025-04-05 18:47:37.453823
+6673,529,Mango Shrikhand,A must-try Mango Shrikhand from India.,161,Desserts,True,Veg,4.2,2024-09-14 20:28:12,2025-02-08 16:14:23.000000
+6674,529,Kachori,Traditional Indian Kachori with rich flavors.,154,Snacks & Street Food,True,Veg,3.7,2024-10-14 07:42:17,2024-12-01 19:56:25.000000
+6675,529,Spring Rolls,A must-try Spring Rolls from India.,67,Chinese & Indo-Chinese,True,Veg,4.3,2024-09-03 21:33:56,2024-09-11 11:10:33.000000
+6676,529,Pongal,Classic Pongal with a twist.,359,South Indian,True,Veg,4.1,2024-10-12 13:44:13,2025-01-21 03:44:26.000000
+6677,529,Sugarcane Juice,A must-try Sugarcane Juice from India.,306,Beverages,True,Veg,4.1,2024-10-02 18:49:09,2024-12-04 00:57:14.000000
+6678,529,Cold Brew Coffee,Traditional Indian Cold Brew Coffee with rich flavors.,466,Beverages,True,Veg,3.7,2024-08-24 19:27:06,2024-10-05 00:01:37.000000
+6679,529,Lasagna,Delicious and authentic Lasagna.,95,Italian & Continental,True,Veg,3.4,2024-09-10 16:40:25,2025-01-16 08:32:04.000000
+6680,529,Coconut Water,Delicious and authentic Coconut Water.,80,Beverages,True,Veg,4.0,2024-09-28 13:34:32,2024-12-25 18:08:51.000000
+6681,529,Badam Milk,Delicious and authentic Badam Milk.,206,Beverages,True,Veg,4.0,2024-10-03 04:40:17,2025-01-31 12:45:45.000000
+6682,529,Tacos,A popular Indian dish.,452,Italian & Continental,True,Veg,3.4,2024-10-06 09:16:13,2024-10-31 01:41:36.000000
+6683,529,Falooda,A popular Indian dish.,90,Beverages,True,Veg,4.2,2024-09-09 22:48:59,2025-02-16 03:06:44.000000
+6684,529,Dahi Puri,Traditional Indian Dahi Puri with rich flavors.,274,Appetizers,True,Veg,3.4,2024-09-28 04:41:29,2024-10-26 20:18:16.000000
+6685,529,Pani Puri,Delicious and authentic Pani Puri.,154,Snacks & Street Food,True,Veg,3.3,2024-09-22 15:50:27,2025-01-12 06:30:49.000000
+6686,530,Fish Fry,A must-try Fish Fry from India.,219,Appetizers,True,Non-Veg,3.7,2025-01-16 18:14:28,2025-02-05 16:20:44.000000
+6687,530,Lassi,Classic Lassi with a twist.,372,Beverages,True,Veg,3.9,2025-02-17 21:37:58,2025-02-25 06:29:07.000000
+6688,530,Chocolate Brownie,A must-try Chocolate Brownie from India.,362,Desserts,True,Veg,3.7,2025-02-02 12:21:40,2025-03-22 15:27:46.000000
+6689,530,Samosa Chaat,A popular Indian dish.,219,Snacks & Street Food,True,Veg,4.0,2025-02-03 13:13:37,2025-02-22 15:00:47.000000
+6690,530,Lasagna,Traditional Indian Lasagna with rich flavors.,132,Italian & Continental,True,Veg,3.2,2025-03-12 22:54:54,2025-03-19 13:04:09.000000
+6691,530,Chicken Manchurian,Traditional Indian Chicken Manchurian with rich flavors.,340,Chinese & Indo-Chinese,True,Non-Veg,3.0,2025-02-12 21:50:51,2025-02-17 06:53:30.000000
+6692,530,Bruschetta,A popular Indian dish.,429,Italian & Continental,True,Veg,4.2,2025-02-02 19:42:15,2025-03-27 10:29:22.000000
+6693,530,Rogan Josh,Traditional Indian Rogan Josh with rich flavors.,412,Main Course,True,Non-Veg,3.2,2025-01-20 10:15:19,2025-01-24 13:46:27.000000
+6694,530,Sugarcane Juice,A popular Indian dish.,379,Beverages,True,Veg,3.7,2025-02-03 00:12:47,2025-02-17 09:19:26.000000
+6695,530,Gobi Manchurian,Classic Gobi Manchurian with a twist.,105,Appetizers,True,Veg,4.2,2025-03-04 06:05:41,2025-03-22 06:48:11.000000
+6696,530,Chicken Wings,Delicious and authentic Chicken Wings.,384,Appetizers,True,Non-Veg,3.4,2025-03-13 11:15:56,2025-03-20 11:42:39.000000
+6697,530,Hyderabadi Biryani,Delicious and authentic Hyderabadi Biryani.,458,Main Course,True,Non-Veg,3.3,2025-02-11 09:28:18,2025-03-29 19:42:04.000000
+6698,530,Four Cheese Pasta,Traditional Indian Four Cheese Pasta with rich flavors.,51,Italian & Continental,True,Veg,4.0,2025-01-30 09:41:19,2025-02-15 07:26:05.000000
+6699,530,Rasgulla,Classic Rasgulla with a twist.,228,Desserts,True,Veg,3.7,2025-01-27 05:18:46,2025-03-23 06:06:30.000000
+6700,530,Chicken Tikka,A popular Indian dish.,395,Appetizers,True,Non-Veg,3.7,2025-02-26 17:17:25,2025-03-11 00:45:53.000000
+7437,589,Tacos,A must-try Tacos from India.,76,Italian & Continental,True,Veg,1.0,2025-04-12 12:08:33,2025-04-12 12:08:33.430627
+7438,589,Stuffed Mushrooms,Delicious and authentic Stuffed Mushrooms.,357,Appetizers,True,Veg,3.7,2025-03-26 17:05:41,2025-03-29 17:02:44.000000
+7439,589,Mutton Handi,Delicious and authentic Mutton Handi.,168,Main Course,True,Non-Veg,4.1,2025-02-27 14:32:58,2025-03-22 08:52:13.000000
+7440,589,Gajar Halwa,A popular Indian dish.,255,Desserts,True,Veg,,2025-04-17 18:40:05,2025-04-17 18:40:05.078886
+7441,589,Fried Rice,Classic Fried Rice with a twist.,126,Chinese & Indo-Chinese,True,Veg,,2025-04-14 08:32:15,2025-04-14 08:32:15.106926
+7442,589,Sarson Ka Saag & Makki Roti,A must-try Sarson Ka Saag & Makki Roti from India.,141,Main Course,True,Veg,3.0,2025-04-01 23:01:56,2025-04-01 23:01:56.936768
+7443,589,Sweet Corn Soup,Delicious and authentic Sweet Corn Soup.,223,Chinese & Indo-Chinese,True,Veg,,2025-04-25 09:34:08,2025-04-25 09:34:08.343049
+7444,589,Chettinad Chicken,Traditional Indian Chettinad Chicken with rich flavors.,322,Main Course,True,Non-Veg,4.3,2025-03-23 05:50:53,2025-03-25 20:35:57.000000
+7445,589,Sugarcane Juice,A popular Indian dish.,468,Beverages,True,Veg,4.5,2025-04-11 01:34:41,2025-04-11 01:34:41.545618
+7446,589,Kosha Mangsho,Traditional Indian Kosha Mangsho with rich flavors.,391,Main Course,True,Veg,3.8,2025-03-16 12:07:52,2025-03-18 16:24:39.000000
+7447,589,Triple Schezwan Rice,Delicious and authentic Triple Schezwan Rice.,242,Chinese & Indo-Chinese,True,Veg,,2025-04-04 18:34:58,2025-04-04 18:34:58.247751
+7448,589,Dal Makhani,Traditional Indian Dal Makhani with rich flavors.,205,Main Course,True,Veg,,2025-04-14 05:23:59,2025-04-14 05:23:59.172297
+7449,589,Set Dosa,Delicious and authentic Set Dosa.,482,South Indian,True,Veg,4.1,2025-03-14 13:31:47,2025-03-15 06:11:53.000000
+7450,589,Falooda,Traditional Indian Falooda with rich flavors.,355,Desserts,True,Veg,4.2,2025-02-27 10:44:51,2025-03-08 14:12:43.000000
+7778,615,Schezwan Noodles,A popular Indian dish.,307,Chinese & Indo-Chinese,True,Veg,5.0,2025-04-03 15:59:32,2025-04-03 15:59:32.644746
+7779,615,Stuffed Bell Peppers,A must-try Stuffed Bell Peppers from India.,111,Italian & Continental,True,Veg,4.2,2025-03-08 04:07:11,2025-03-16 20:43:03.000000
+7780,615,Pani Puri,Delicious and authentic Pani Puri.,310,Snacks & Street Food,True,Veg,4.6,2025-03-20 12:50:36,2025-03-21 00:44:32.000000
+7781,615,Chicken Rezala,Classic Chicken Rezala with a twist.,254,Main Course,True,Non-Veg,,2025-04-22 19:53:15,2025-04-22 19:53:15.750350
+7782,615,Chicken Manchurian,A popular Indian dish.,379,Chinese & Indo-Chinese,True,Non-Veg,3.6,2025-03-24 21:50:34,2025-03-28 06:47:40.000000
+7783,615,Triple Schezwan Rice,Traditional Indian Triple Schezwan Rice with rich flavors.,416,Chinese & Indo-Chinese,True,Veg,,2025-04-03 20:20:38,2025-04-03 20:20:38.775845
+7784,615,Rava Dosa,Traditional Indian Rava Dosa with rich flavors.,226,South Indian,True,Veg,4.1,2025-03-01 03:10:40,2025-03-01 20:07:46.000000
+7785,615,Sandesh,Traditional Indian Sandesh with rich flavors.,278,Desserts,True,Veg,,2025-04-08 00:26:35,2025-04-08 00:26:35.308891
+7786,615,Neer Dosa,A must-try Neer Dosa from India.,64,South Indian,True,Veg,,2025-04-03 17:22:33,2025-04-03 17:22:33.127770
+7787,615,Chicken Wings,Classic Chicken Wings with a twist.,362,Appetizers,True,Non-Veg,4.0,2025-03-05 04:43:37,2025-03-13 00:37:13.000000
+7788,615,Dabeli,Traditional Indian Dabeli with rich flavors.,134,Snacks & Street Food,True,Veg,3.8,2025-03-05 00:16:32,2025-03-28 12:07:13.000000
+7789,615,Ghee Roast Dosa,Traditional Indian Ghee Roast Dosa with rich flavors.,364,South Indian,True,Veg,4.0,2025-04-06 10:32:25,2025-04-06 10:32:25.786812
+7790,615,Kachori,Delicious and authentic Kachori.,161,Snacks & Street Food,True,Veg,4.9,2025-03-10 03:28:54,2025-03-25 09:40:13.000000
+7791,615,Corn on the Cob,Traditional Indian Corn on the Cob with rich flavors.,381,Snacks & Street Food,True,Veg,3.8,2025-03-27 02:58:23,2025-03-27 07:21:36.000000
+7792,615,Tandoori Prawns,A popular Indian dish.,451,Appetizers,True,Non-Veg,3.7,2025-03-04 22:36:31,2025-03-25 05:41:42.000000
+9339,738,Paneer Lababdar,Traditional Indian Paneer Lababdar with rich flavors.,197,Main Course,True,Veg,3.2,2025-04-04 13:29:29,2025-04-04 13:29:29.100128
+9340,738,Kosha Mangsho,Traditional Indian Kosha Mangsho with rich flavors.,59,Main Course,True,Veg,3.9,2025-03-24 16:48:29,2025-03-25 18:34:19.000000
+9341,738,Iced Tea,Classic Iced Tea with a twist.,335,Beverages,True,Veg,,2025-05-14 17:26:25,2025-05-14 17:26:25.732563
+9342,738,Kheer,Delicious and authentic Kheer.,328,Desserts,True,Veg,,2025-05-08 13:40:36,2025-05-08 13:40:36.892160
+9343,738,Dal Makhani,A must-try Dal Makhani from India.,397,Main Course,True,Veg,,2025-04-22 07:03:02,2025-04-22 07:03:02.458351
+9344,738,Kathi Roll,A must-try Kathi Roll from India.,152,Snacks & Street Food,True,Non-Veg,,2025-04-17 02:21:51,2025-04-17 02:21:51.793555
+9345,738,Burritos,Delicious and authentic Burritos.,336,Italian & Continental,True,Veg,,2025-05-11 15:33:11,2025-05-11 15:33:11.857096
+9346,738,Jalebi,Traditional Indian Jalebi with rich flavors.,364,Desserts,True,Veg,,2025-04-23 01:47:35,2025-04-23 01:47:35.355552
+9347,738,Sugarcane Juice,A must-try Sugarcane Juice from India.,241,Beverages,True,Veg,4.5,2025-04-14 11:46:14,2025-04-14 11:46:14.560222
+9348,738,Masala Puri,Delicious and authentic Masala Puri.,406,Snacks & Street Food,True,Veg,3.6,2025-03-25 12:34:42,2025-03-27 03:31:21.000000
+9891,783,Chicken Manchurian,Classic Chicken Manchurian with a twist.,309,Chinese & Indo-Chinese,True,Non-Veg,3.9,2023-02-13 13:32:37,2023-06-08 22:51:59.000000
+9892,783,Mysore Pak,Traditional Indian Mysore Pak with rich flavors.,60,Desserts,True,Veg,3.8,2023-03-08 17:21:26,2023-11-28 17:15:33.000000
+9893,783,Sambar Rice,Delicious and authentic Sambar Rice.,473,South Indian,True,Veg,3.8,2023-01-24 17:15:24,2024-04-08 03:41:52.000000
+9894,783,Aloo Tikki,Traditional Indian Aloo Tikki with rich flavors.,431,Appetizers,True,Veg,3.7,2023-02-19 20:33:30,2023-10-21 17:14:36.000000
+9895,783,Kulfi,A must-try Kulfi from India.,156,Desserts,True,Veg,3.6,2023-02-17 11:20:38,2024-01-22 09:45:52.000000
+9896,783,Onion Uttapam,Delicious and authentic Onion Uttapam.,73,South Indian,True,Veg,3.6,2023-01-11 01:24:06,2023-01-28 17:59:37.000000
+9897,783,Veg Frankie,Classic Veg Frankie with a twist.,484,Snacks & Street Food,True,Veg,3.9,2023-02-25 13:53:23,2023-12-23 20:30:15.000000
+9898,783,Shahi Tukda,A must-try Shahi Tukda from India.,313,Desserts,True,Veg,3.6,2023-02-05 17:13:03,2024-11-03 08:03:28.000000
+9899,783,Stuffed Bell Peppers,A popular Indian dish.,66,Italian & Continental,True,Veg,3.6,2023-01-24 18:22:11,2024-07-02 15:44:53.000000
+9900,783,Sandesh,A popular Indian dish.,59,Desserts,True,Veg,3.6,2023-03-07 10:06:58,2024-08-26 05:54:45.000000
+9901,783,Dal Makhani,Classic Dal Makhani with a twist.,264,Main Course,True,Veg,4.0,2023-02-27 00:44:01,2024-02-06 14:14:15.000000
+9902,783,Iced Tea,A popular Indian dish.,290,Beverages,True,Veg,3.8,2023-02-02 18:34:04,2024-10-19 14:57:53.000000
+9903,783,Tomato Uttapam,Traditional Indian Tomato Uttapam with rich flavors.,73,South Indian,True,Veg,3.9,2023-01-13 16:41:52,2023-06-29 17:09:08.000000
+10408,825,Buttermilk,A must-try Buttermilk from India.,244,Beverages,True,Veg,3.9,2024-10-29 15:41:18,2025-01-15 13:47:59.000000
+10409,825,Pesarattu,A must-try Pesarattu from India.,85,South Indian,True,Veg,3.7,2024-10-13 04:35:53,2025-02-13 05:05:56.000000
+10410,825,Dahi Puri,Classic Dahi Puri with a twist.,372,Appetizers,True,Veg,3.9,2024-09-26 08:08:23,2024-12-12 03:12:23.000000
+10411,825,Chicken Manchurian,Classic Chicken Manchurian with a twist.,61,Chinese & Indo-Chinese,True,Non-Veg,3.7,2024-10-18 05:42:52,2025-01-23 01:10:08.000000
+10412,825,Caesar Salad,A must-try Caesar Salad from India.,361,Italian & Continental,True,Veg,4.1,2024-11-13 06:46:55,2024-11-16 02:30:16.000000
+10413,825,Margherita Pizza,Traditional Indian Margherita Pizza with rich flavors.,69,Italian & Continental,True,Veg,4.0,2024-10-30 09:24:44,2025-03-30 21:51:24.000000
+10414,825,Jalebi,Traditional Indian Jalebi with rich flavors.,349,Desserts,True,Veg,3.6,2024-10-21 01:58:12,2024-11-24 09:09:21.000000
+10415,825,Stuffed Bell Peppers,Delicious and authentic Stuffed Bell Peppers.,174,Italian & Continental,True,Veg,3.4,2024-10-31 10:34:40,2024-11-30 19:56:14.000000
+10416,825,Kaju Katli,A popular Indian dish.,286,Desserts,True,Veg,3.5,2024-11-18 11:23:38,2024-12-07 10:15:41.000000
+10417,825,Cheese Balls,Delicious and authentic Cheese Balls.,59,Appetizers,True,Veg,3.7,2024-10-13 20:41:36,2025-01-09 09:12:13.000000
+10418,825,Rasgulla,Delicious and authentic Rasgulla.,444,Desserts,True,Veg,3.9,2024-10-27 10:43:45,2025-01-18 10:24:34.000000
+11651,926,Chocolate Mousse,Classic Chocolate Mousse with a twist.,398,Desserts,True,Veg,3.8,2023-06-11 15:51:34,2024-09-15 12:56:15.000000
+11652,926,Egg Roll,A popular Indian dish.,83,Snacks & Street Food,True,Non-Veg,3.8,2023-05-18 15:29:03,2023-05-29 18:20:26.000000
+11653,926,Spring Rolls,A must-try Spring Rolls from India.,360,Chinese & Indo-Chinese,True,Veg,3.9,2023-05-17 06:35:53,2023-12-01 17:31:23.000000
+11654,926,Garlic Bread,A must-try Garlic Bread from India.,206,Italian & Continental,True,Veg,4.0,2023-05-08 16:03:39,2024-12-01 23:18:21.000000
+11655,926,Chicken Manchurian,Delicious and authentic Chicken Manchurian.,114,Chinese & Indo-Chinese,True,Non-Veg,3.7,2023-06-13 17:57:33,2025-01-26 04:39:22.000000
+11656,926,Mutton Handi,A popular Indian dish.,63,Main Course,True,Non-Veg,3.9,2023-05-14 03:20:33,2024-08-04 05:16:38.000000
+11657,926,Keema Pav,Traditional Indian Keema Pav with rich flavors.,316,Snacks & Street Food,True,Non-Veg,3.6,2023-05-06 09:30:23,2025-03-28 15:54:37.000000
+11658,926,Fried Rice,A must-try Fried Rice from India.,108,Chinese & Indo-Chinese,True,Veg,3.9,2023-05-05 16:38:05,2023-05-22 11:56:20.000000
+11659,926,Corn on the Cob,A must-try Corn on the Cob from India.,119,Snacks & Street Food,True,Veg,3.7,2023-05-05 23:55:00,2025-03-19 21:56:57.000000
+11660,926,Tandoori Prawns,Classic Tandoori Prawns with a twist.,138,Appetizers,True,Non-Veg,3.8,2023-05-02 09:13:39,2024-04-14 13:26:16.000000
+12701,1008,Sambar Rice,Traditional Indian Sambar Rice with rich flavors.,67,South Indian,True,Veg,,2025-05-26 18:37:51,2025-05-26 18:37:51.499596
+12702,1008,Vada Pav,Traditional Indian Vada Pav with rich flavors.,485,Snacks & Street Food,True,Veg,,2025-05-27 00:34:08,2025-05-27 00:34:08.887405
+12703,1008,Palak Paneer,Delicious and authentic Palak Paneer.,71,Main Course,True,Veg,,2025-05-12 02:01:58,2025-05-12 02:01:58.429641
+12704,1008,Stuffed Bell Peppers,Traditional Indian Stuffed Bell Peppers with rich flavors.,123,Italian & Continental,True,Veg,,2025-05-01 12:23:15,2025-05-01 12:23:15.163954
+12705,1008,Aloo Chaat,Delicious and authentic Aloo Chaat.,422,Snacks & Street Food,True,Veg,,2025-04-22 15:34:32,2025-04-22 15:34:32.355976
+12706,1008,Grilled Chicken Steak,A must-try Grilled Chicken Steak from India.,178,Italian & Continental,True,Non-Veg,,2025-05-25 07:37:21,2025-05-25 07:37:21.275277
+12707,1008,Peda,A popular Indian dish.,84,Desserts,True,Veg,4.1,2025-04-14 18:23:05,2025-04-14 18:23:05.911204
+12708,1008,Vegetable Stew,Delicious and authentic Vegetable Stew.,171,South Indian,True,Veg,,2025-05-18 08:55:48,2025-05-18 08:55:48.312965
+12709,1008,Curd Rice,Traditional Indian Curd Rice with rich flavors.,100,South Indian,True,Veg,,2025-05-06 11:41:22,2025-05-06 11:41:22.712637
+12710,1008,Pesarattu,A must-try Pesarattu from India.,144,South Indian,True,Veg,,2025-05-06 12:15:31,2025-05-06 12:15:31.599045
+12711,1008,Tomato Uttapam,A popular Indian dish.,280,South Indian,True,Veg,,2025-05-17 18:36:34,2025-05-17 18:36:34.505107
+12712,1008,Paneer Tikka,Classic Paneer Tikka with a twist.,228,Appetizers,True,Veg,,2025-04-29 08:01:43,2025-04-29 08:01:43.265325
+12898,1024,Buttermilk,Traditional Indian Buttermilk with rich flavors.,70,Beverages,True,Veg,3.7,2024-08-30 07:56:04,2024-09-21 00:39:54.000000
+12899,1024,Kheer,A popular Indian dish.,68,Desserts,True,Veg,3.8,2024-07-15 02:42:42,2024-12-05 07:33:58.000000
+12900,1024,Masala Papad,A must-try Masala Papad from India.,145,Appetizers,True,Veg,3.5,2024-07-21 09:24:29,2024-09-10 14:23:34.000000
+12901,1024,Fried Rice,A popular Indian dish.,145,Chinese & Indo-Chinese,True,Veg,3.6,2024-08-28 05:30:32,2025-02-23 14:26:25.000000
+12902,1024,Tandoori Momos,Delicious and authentic Tandoori Momos.,309,Snacks & Street Food,True,Non-Veg,4.2,2024-09-02 15:47:55,2024-10-08 04:09:56.000000
+12903,1024,Tomato Uttapam,A popular Indian dish.,469,South Indian,True,Veg,3.7,2024-08-15 22:43:56,2025-02-03 13:07:27.000000
+12904,1024,Baingan Bharta,A must-try Baingan Bharta from India.,110,Main Course,True,Veg,4.1,2024-07-21 07:42:43,2025-02-08 01:45:44.000000
+12905,1024,Fruit Juice,Classic Fruit Juice with a twist.,499,Beverages,True,Veg,3.6,2024-08-18 20:24:34,2024-08-26 05:52:37.000000
+12906,1024,Cold Brew Coffee,Delicious and authentic Cold Brew Coffee.,387,Beverages,True,Veg,3.6,2024-08-25 16:59:33,2024-08-26 18:13:37.000000
+12907,1024,Egg Roll,Traditional Indian Egg Roll with rich flavors.,334,Snacks & Street Food,True,Non-Veg,3.7,2024-08-06 13:34:12,2024-12-20 16:44:04.000000
+12981,1031,Cheese Balls,A must-try Cheese Balls from India.,342,Appetizers,True,Veg,3.4,2024-11-23 20:59:04,2024-12-29 22:43:36.000000
+12982,1031,Chocolate Brownie,Delicious and authentic Chocolate Brownie.,433,Desserts,True,Veg,3.6,2024-10-21 20:12:02,2025-02-10 07:27:41.000000
+12983,1031,Garlic Bread,Delicious and authentic Garlic Bread.,250,Italian & Continental,True,Veg,4.1,2024-09-24 08:18:52,2024-10-21 16:56:55.000000
+12984,1031,Falooda,Traditional Indian Falooda with rich flavors.,258,Beverages,True,Veg,3.8,2024-10-31 03:15:08,2025-01-28 21:39:55.000000
+12985,1031,Kheer,Traditional Indian Kheer with rich flavors.,287,Desserts,True,Veg,4.3,2024-10-30 21:49:34,2024-12-08 02:39:03.000000
+12986,1031,Mushroom Masala,Classic Mushroom Masala with a twist.,127,Main Course,True,Veg,3.8,2024-10-03 01:45:02,2024-12-31 10:27:58.000000
+12987,1031,Chilli Chicken,Delicious and authentic Chilli Chicken.,120,Chinese & Indo-Chinese,True,Non-Veg,4.6,2024-10-20 08:37:34,2024-12-12 23:58:03.000000
+12988,1031,Sweet Corn Soup,Classic Sweet Corn Soup with a twist.,386,Chinese & Indo-Chinese,True,Veg,4.3,2024-11-23 11:46:11,2024-12-03 05:07:16.000000
+12989,1031,Chettinad Chicken Curry,Traditional Indian Chettinad Chicken Curry with rich flavors.,462,South Indian,True,Non-Veg,3.6,2024-09-26 19:38:19,2024-11-19 07:45:30.000000
+12990,1031,Bruschetta,Traditional Indian Bruschetta with rich flavors.,436,Italian & Continental,True,Veg,4.0,2024-10-24 14:41:20,2024-12-27 19:11:05.000000
+12991,1031,Tandoori Broccoli,Traditional Indian Tandoori Broccoli with rich flavors.,480,Appetizers,True,Veg,3.8,2024-10-30 20:50:04,2025-03-07 10:17:30.000000
+12992,1031,Kerala Parotta with Egg Curry,Classic Kerala Parotta with Egg Curry with a twist.,122,South Indian,True,Non-Veg,3.6,2024-10-21 20:15:36,2024-11-21 21:57:33.000000
+12993,1031,Hara Bhara Kebab,A must-try Hara Bhara Kebab from India.,347,Appetizers,True,Veg,4.1,2024-10-24 11:17:38,2025-01-02 06:50:50.000000
+12994,1031,Margherita Pizza,Delicious and authentic Margherita Pizza.,55,Italian & Continental,True,Veg,4.3,2024-11-21 20:12:13,2025-02-11 12:31:53.000000
+12995,1031,Butter Chicken,Traditional Indian Butter Chicken with rich flavors.,271,Main Course,True,Non-Veg,4.2,2024-09-25 14:55:07,2025-02-13 15:36:15.000000
+13035,1035,Mutton Curry,A must-try Mutton Curry from India.,291,Main Course,True,Non-Veg,4.0,2024-09-16 10:46:03,2025-02-13 22:09:10.000000
+13036,1035,Momos,Classic Momos with a twist.,421,Chinese & Indo-Chinese,True,Veg,4.2,2024-10-06 04:21:04,2025-02-23 22:18:21.000000
+13037,1035,Gobi Manchurian,A popular Indian dish.,112,Appetizers,True,Veg,3.4,2024-09-06 16:29:01,2025-01-24 02:03:52.000000
+13038,1035,Triple Schezwan Rice,Delicious and authentic Triple Schezwan Rice.,107,Chinese & Indo-Chinese,True,Veg,4.1,2024-10-01 17:33:38,2025-03-23 21:45:26.000000
+13039,1035,Spring Rolls,A must-try Spring Rolls from India.,184,Chinese & Indo-Chinese,True,Veg,3.2,2024-10-15 02:15:42,2025-01-15 00:36:45.000000
+13040,1035,Hara Bhara Kebab,Delicious and authentic Hara Bhara Kebab.,273,Appetizers,True,Veg,3.3,2024-09-10 16:51:27,2025-03-18 15:02:19.000000
+13041,1035,Quesadillas,Traditional Indian Quesadillas with rich flavors.,173,Italian & Continental,True,Veg,4.0,2024-10-03 03:26:21,2024-11-25 13:10:21.000000
+13042,1035,Pepperoni Pizza,Classic Pepperoni Pizza with a twist.,321,Italian & Continental,True,Non-Veg,4.1,2024-09-16 05:31:34,2024-12-08 04:51:58.000000
+13043,1035,Chicken Chettinad,Traditional Indian Chicken Chettinad with rich flavors.,494,Main Course,True,Non-Veg,3.5,2024-08-25 06:45:08,2024-09-14 12:39:37.000000
+13044,1035,Batata Vada,A must-try Batata Vada from India.,476,Snacks & Street Food,True,Veg,4.0,2024-09-09 08:26:50,2024-10-08 09:50:24.000000
+13045,1035,Kheer,Traditional Indian Kheer with rich flavors.,81,Desserts,True,Veg,3.8,2024-08-24 02:50:18,2024-11-08 22:38:03.000000
+13046,1035,Set Dosa,Classic Set Dosa with a twist.,255,South Indian,True,Veg,3.9,2024-10-17 00:24:58,2024-12-27 23:00:35.000000
+13047,1035,Bruschetta,Classic Bruschetta with a twist.,336,Italian & Continental,True,Veg,4.2,2024-09-19 03:23:30,2024-10-27 02:28:26.000000
+13264,1055,Tiramisu,Delicious and authentic Tiramisu.,277,Desserts,True,Veg,3.7,2022-02-08 07:09:56,2023-09-29 08:30:30.000000
+13265,1055,Sindhi Kadhi,Delicious and authentic Sindhi Kadhi.,156,Main Course,True,Veg,3.7,2022-03-12 08:39:21,2023-04-20 12:20:26.000000
+13266,1055,Fried Rice,Delicious and authentic Fried Rice.,183,Chinese & Indo-Chinese,True,Veg,3.8,2022-02-07 16:32:19,2024-01-19 00:41:48.000000
+13267,1055,Buttermilk,Traditional Indian Buttermilk with rich flavors.,198,Beverages,True,Veg,3.8,2022-02-03 05:15:32,2022-11-09 04:32:40.000000
+13268,1055,Chana Chaat,Traditional Indian Chana Chaat with rich flavors.,324,Snacks & Street Food,True,Veg,3.8,2022-03-21 13:05:29,2023-06-17 12:47:17.000000
+13269,1055,Bruschetta,Traditional Indian Bruschetta with rich flavors.,444,Italian & Continental,True,Veg,3.8,2022-04-01 02:51:41,2023-09-04 04:35:51.000000
+13270,1055,Keema Pav,A popular Indian dish.,50,Snacks & Street Food,True,Non-Veg,3.8,2022-03-15 01:25:57,2024-05-27 01:13:00.000000
+13271,1055,Falooda,Classic Falooda with a twist.,499,Beverages,True,Veg,3.8,2022-03-07 16:36:08,2024-10-25 18:59:50.000000
+13272,1055,Mango Lassi,A popular Indian dish.,283,Beverages,True,Veg,3.7,2022-03-02 19:44:49,2022-05-09 00:05:21.000000
+13273,1055,Spring Rolls,Delicious and authentic Spring Rolls.,411,Appetizers,True,Veg,3.7,2022-03-15 14:13:44,2023-07-30 20:03:10.000000
+13274,1055,Vada Pav,A must-try Vada Pav from India.,473,Snacks & Street Food,True,Veg,3.8,2022-03-25 16:18:37,2022-08-20 10:14:11.000000
+13275,1055,Lasagna,A popular Indian dish.,455,Italian & Continental,True,Veg,3.9,2022-03-14 13:20:37,2022-08-04 11:30:33.000000
+13276,1055,Nimbu Pani,A must-try Nimbu Pani from India.,131,Beverages,True,Veg,4.2,2022-02-05 14:23:35,2024-10-25 01:25:04.000000
+13277,1055,Rasam Rice,Traditional Indian Rasam Rice with rich flavors.,111,South Indian,True,Veg,3.7,2022-02-13 17:05:46,2023-02-14 07:48:41.000000
+14082,1121,Fruit Juice,Traditional Indian Fruit Juice with rich flavors.,95,Beverages,True,Veg,3.8,2024-11-02 20:08:56,2025-01-25 16:23:50.000000
+14083,1121,Triple Schezwan Rice,A must-try Triple Schezwan Rice from India.,123,Chinese & Indo-Chinese,True,Veg,3.8,2024-11-01 10:40:16,2024-12-14 22:30:41.000000
+14084,1121,Chana Chaat,Classic Chana Chaat with a twist.,52,Snacks & Street Food,True,Veg,3.9,2024-10-23 21:57:32,2025-03-25 11:35:34.000000
+14085,1121,Modak,Traditional Indian Modak with rich flavors.,357,Desserts,True,Veg,3.8,2024-10-20 11:17:15,2025-01-07 23:51:07.000000
+14086,1121,Tandoori Prawns,Traditional Indian Tandoori Prawns with rich flavors.,387,Appetizers,True,Non-Veg,4.3,2024-09-30 17:35:25,2024-10-24 02:57:41.000000
+14087,1121,Chicken Manchurian,Delicious and authentic Chicken Manchurian.,160,Chinese & Indo-Chinese,True,Non-Veg,4.3,2024-09-23 18:22:21,2024-11-27 06:34:41.000000
+14088,1121,Caesar Salad,A must-try Caesar Salad from India.,354,Italian & Continental,True,Veg,3.6,2024-09-29 04:00:44,2024-12-15 03:06:21.000000
+14089,1121,Lasagna,Delicious and authentic Lasagna.,280,Italian & Continental,True,Veg,4.0,2024-10-21 23:42:00,2025-02-01 18:50:22.000000
+14090,1121,Burritos,A popular Indian dish.,74,Italian & Continental,True,Veg,3.8,2024-10-25 21:31:50,2024-12-10 07:38:48.000000
+14091,1121,Batata Vada,A must-try Batata Vada from India.,307,Snacks & Street Food,True,Veg,3.8,2024-10-20 17:33:15,2025-03-23 14:32:34.000000
+14092,1121,Biryani,A must-try Biryani from India.,312,Main Course,True,Veg,3.9,2024-11-04 22:59:29,2025-03-16 00:06:09.000000
+14093,1121,Chicken Tikka,A popular Indian dish.,125,Appetizers,True,Non-Veg,3.9,2024-09-25 05:46:07,2024-10-21 17:56:15.000000
+14094,1121,Badam Milk,Delicious and authentic Badam Milk.,499,Beverages,True,Veg,3.8,2024-11-11 08:02:52,2025-03-10 10:51:28.000000
+15919,1270,Ghee Roast Dosa,A popular Indian dish.,416,South Indian,True,Veg,,2023-08-01 16:29:20,2024-12-17 03:11:18.000000
+15920,1270,Chilli Chicken,Classic Chilli Chicken with a twist.,230,Chinese & Indo-Chinese,True,Non-Veg,,2023-07-28 09:50:36,2025-02-18 05:24:42.000000
+15921,1270,Mysore Pak,A popular Indian dish.,295,Desserts,True,Veg,,2023-07-28 06:23:26,2024-11-24 14:17:38.000000
+15922,1270,Masala Puri,A must-try Masala Puri from India.,292,Snacks & Street Food,True,Veg,,2023-07-15 21:06:14,2023-11-26 08:48:23.000000
+15923,1270,Masala Papad,Traditional Indian Masala Papad with rich flavors.,388,Appetizers,True,Veg,,2023-09-01 05:47:44,2024-11-24 13:29:38.000000
+15924,1270,Hara Bhara Kebab,A must-try Hara Bhara Kebab from India.,96,Appetizers,True,Veg,,2023-07-15 15:47:04,2024-09-16 16:48:04.000000
+15925,1270,Chicken Rezala,Classic Chicken Rezala with a twist.,245,Main Course,True,Non-Veg,,2023-07-28 19:56:20,2025-01-06 02:09:59.000000
+15926,1270,Idli,A must-try Idli from India.,268,South Indian,True,Veg,,2023-08-19 23:49:26,2025-03-20 21:29:42.000000
+15927,1270,Filter Coffee,Classic Filter Coffee with a twist.,53,Beverages,True,Veg,,2023-07-28 20:26:35,2024-05-25 12:31:24.000000
+15928,1270,Gajar Halwa,Traditional Indian Gajar Halwa with rich flavors.,438,Desserts,True,Veg,,2023-08-30 00:56:58,2023-09-07 17:21:42.000000
+15929,1270,Frankie,A must-try Frankie from India.,178,Snacks & Street Food,True,Veg,,2023-08-02 20:00:58,2024-08-28 17:45:40.000000
+15930,1270,Bruschetta,Delicious and authentic Bruschetta.,78,Italian & Continental,True,Veg,,2023-09-09 14:49:45,2023-09-24 04:30:58.000000
+15931,1270,Sarson Ka Saag & Makki Roti,Traditional Indian Sarson Ka Saag & Makki Roti with rich flavors.,341,Main Course,True,Veg,,2023-08-01 20:21:52,2024-01-23 00:07:39.000000
+16478,1314,Corn on the Cob,Delicious and authentic Corn on the Cob.,286,Snacks & Street Food,True,Veg,,2025-04-14 15:09:53,2025-04-14 15:09:53.173360
+16479,1314,Chana Chaat,A must-try Chana Chaat from India.,275,Snacks & Street Food,True,Veg,,2025-04-29 19:06:46,2025-04-29 19:06:46.495319
+16480,1314,Chocolate Brownie,A popular Indian dish.,106,Desserts,True,Veg,,2025-04-09 18:08:11,2025-04-09 18:08:11.468877
+16481,1314,Gobi Manchurian,A popular Indian dish.,351,Chinese & Indo-Chinese,True,Veg,,2025-04-28 14:10:57,2025-04-28 14:10:57.840324
+16482,1314,Frankie,Traditional Indian Frankie with rich flavors.,128,Snacks & Street Food,True,Veg,,2025-04-04 19:51:50,2025-04-04 19:51:50.844096
+16483,1314,Thandai,Classic Thandai with a twist.,391,Beverages,True,Veg,,2025-04-20 08:18:08,2025-04-20 08:18:08.842840
+16484,1314,Crispy Honey Chilli Potatoes,A must-try Crispy Honey Chilli Potatoes from India.,113,Chinese & Indo-Chinese,True,Veg,,2025-04-27 01:40:44,2025-04-27 01:40:44.412968
+16485,1314,Chicken Chettinad,A popular Indian dish.,351,Main Course,True,Non-Veg,,2025-03-23 15:32:34,2025-03-25 16:19:21.000000
+16486,1314,Basundi,Traditional Indian Basundi with rich flavors.,167,Desserts,True,Veg,,2025-04-26 18:16:54,2025-04-26 18:16:54.484872
+16487,1314,Farmhouse Pizza,Traditional Indian Farmhouse Pizza with rich flavors.,187,Italian & Continental,True,Veg,,2025-04-26 01:52:52,2025-04-26 01:52:52.972792
+16488,1314,Vegetable Korma,A popular Indian dish.,216,Main Course,True,Veg,,2025-04-17 11:38:48,2025-04-17 11:38:48.684165
+16489,1314,Cheesecake,Classic Cheesecake with a twist.,78,Desserts,True,Veg,,2025-04-17 01:53:26,2025-04-17 01:53:26.018765
+16490,1314,Chicken Rezala,A must-try Chicken Rezala from India.,481,Main Course,True,Non-Veg,,2025-04-30 01:55:19,2025-04-30 01:55:19.665972
+16491,1314,Mango Lassi,A must-try Mango Lassi from India.,395,Beverages,True,Veg,,2025-04-04 10:34:14,2025-04-04 10:34:14.621886
+16492,1314,Chettinad Chicken Curry,Classic Chettinad Chicken Curry with a twist.,283,South Indian,True,Non-Veg,,2025-03-31 19:23:07,2025-03-31 19:23:07.093019

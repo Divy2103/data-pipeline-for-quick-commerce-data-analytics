@@ -120,7 +120,7 @@ from (
         FILE_FORMAT = (format_name = ''swiggy_db.STAGE_SCH.CSV_FILE_FORMAT'')';
          
 
-    MERGE INTO clean_sch.delivery_agent AS target
+MERGE INTO clean_sch.delivery_agent AS target
 USING stage_sch.deliveryagent_stm AS source
 ON target.delivery_agent_id = source.deliveryagent_id
 WHEN MATCHED and (
@@ -128,7 +128,7 @@ WHEN MATCHED and (
         target.vehicle_type != source.vehicle_type or
         target.status != source.status or 
         target.email != source.email or
-        equal_null(target.rating, TRY_TO_DECIMAL(source.rating,4,2))
+        not equal_null(target.rating, TRY_TO_DECIMAL(source.rating,4,2))
 ) THEN
     UPDATE SET
         target.mobile = source.mobile,

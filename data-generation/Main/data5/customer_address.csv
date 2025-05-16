@@ -1,0 +1,833 @@
+AddressID,CustomerID,FlatNo/HouseNo,Floor,Building,Landmark,Locality,City,State,PinCode,Coordinates,PrimaryFlag,AddressType,CreatedDate,ModifiedDate
+200412,100063,4,2.0,Sekhon-Saha Heights,"Beside Kala, Palla and Dash",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"29.648507127840396,78.17508638668235",True,Work,2020-11-29 06:21:44,2024-06-25 19:56:33
+200413,100063,2,11.0,Nori-Gulati Heights,"Behind Mitter, Chadha and Gera",Dwarka,jamnagar,Gujarat,887572,"31.128669159092055,78.482128980669",False,Work,2021-10-02 23:35:00,
+200414,100064,34,38.0,Chowdhury-Varkey Towers,Opp. Divan Inc,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"18.708181930578334,91.97471890974873",True,Work,2021-11-18 23:20:19,
+200415,100065,41,35.0,Narayanan Inc Complex,"B/h. Murty, Deol and Rajan",Hauz Khas,jamnagar,Gujarat,887572,"19.82845252040777,93.43494544061816",True,Home,2021-10-26 14:59:04,2024-08-11 08:36:59
+200416,100066,7,11.0,Ranganathan-Nori Heights,Near Dhar Ltd,Malviya Nagar,jamnagar,Gujarat,887572,"28.271461093031732,78.0609930442831",True,Other,2021-11-29 15:08:35,2023-09-28 20:17:13
+200417,100066,47,31.0,Borah LLC Residency,B/h. Wadhwa PLC,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"13.296236493318807,85.12891703215631",False,Work,2021-12-11 07:17:45,2024-01-04 23:00:00
+200418,100067,45,,Swaminathan Inc Complex,Behind Thaman-Rattan,Hauz Khas,jamnagar,Gujarat,887572,"28.443974283378687,71.61840164760096",True,Other,2021-10-14 16:18:19,
+200419,100068,26,2.0,Narayan PLC Towers,"Behind Gill, Kibe and Srivastava",South Extension,Visakhapatnam,Andhra Pradesh,780487,"36.322762153143806,95.81042555139206",True,Other,2021-05-14 06:17:46,2021-06-10 00:08:19
+200420,100068,40,32.0,Mammen-Baral Heights,B/h. Patla-Shenoy,Vasant Kunj,jamnagar,Gujarat,887572,"8.621987978141446,77.45398204053228",False,Other,2021-05-14 05:42:51,
+200421,100069,33,5.0,"Garde, Seth and Suri Apartments","Beside Raghavan, Ratti and Chaudhuri",Lajpat Nagar,jamnagar,Gujarat,887572,"22.540073323343655,70.03870480608694",True,Other,2021-12-07 00:15:17,2023-05-09 02:13:59
+200422,100069,22,18.0,Dugar-Mishra Apartments,Near Tak-Aurora,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"19.035331542323732,79.9638530010836",False,Home,2021-10-29 21:33:15,2024-12-23 04:42:34
+200423,100070,7,21.0,"Borde, Singh and Som Residency",Near Pall-Bose,Vasant Kunj,jamnagar,Gujarat,887572,"29.684828164178747,79.15244395049874",True,Home,2021-11-20 00:03:39,2022-11-04 22:36:34
+200424,100070,31,34.0,"Nazareth, Lalla and Deep Apartments","Opp. Nagi, Kunda and Bal",Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"20.846502368613663,93.01201882630208",False,Home,2021-06-30 17:05:23,
+200425,100071,18,10.0,"Rege, Bhatt and Balan Apartments",B/h. Varma Group,Hauz Khas,jamnagar,Gujarat,887572,"31.539664558652056,69.70473702262586",True,Work,2021-10-31 04:27:49,
+200426,100071,25,8.0,Cheema-Ganesh Complex,Behind Sawhney-Chandra,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"24.795379416317914,85.97479892419969",False,Home,2021-08-22 22:40:57,2022-12-02 22:49:46
+200427,100072,18,16.0,Amble-Sandal Complex,Behind Bava LLC,Janakpuri,jamnagar,Gujarat,887572,"33.408439123600644,78.64442908676436",True,Home,2021-12-24 14:44:34,2022-06-07 04:48:19
+200428,100073,36,28.0,Tella-Sidhu Towers,Near Murty-Jha,Rohini,jamnagar,Gujarat,887572,"33.62980506546368,85.36084138757622",True,Work,2021-12-11 18:46:06,2023-08-16 00:46:13
+200429,100073,29,18.0,Gandhi Inc Heights,Opp. Dar and Sons,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"22.787186376885835,78.34677447428143",False,Work,2021-11-29 04:20:23,2022-04-04 06:35:37
+200430,100074,18,22.0,Ramanathan and Sons Complex,Beside Jani-Gala,Rohini,jamnagar,Gujarat,887572,"31.660791520106613,77.75969389368744",True,Other,2021-08-28 02:13:14,2022-07-14 20:09:27
+200431,100074,19,,Prabhakar-Atwal Residency,B/h. Dada Group,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"34.98621313471203,96.32596198818845",False,Other,2021-08-31 01:59:11,2023-11-23 23:49:07
+200432,100075,2,,Sangha-Sarin Apartments,"Near Lanka, Upadhyay and Nigam",Saket,Visakhapatnam,Andhra Pradesh,780487,"12.9535396561574,77.46031831305457",True,Other,2021-09-15 12:12:59,
+200433,100075,42,5.0,Anand and Sons Residency,"Opp. Swaminathan, Saraf and Barad",Malviya Nagar,jamnagar,Gujarat,887572,"34.01925464953385,93.9120500884858",False,Home,2021-12-19 15:52:21,2022-06-05 20:42:27
+200434,100076,5,,"Pingle, Virk and Varghese Heights",B/h. Natt Ltd,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"9.386647656829487,74.5268057732588",True,Other,2021-11-11 11:58:31,2022-08-05 12:19:54
+200435,100076,48,,Kulkarni-Ramanathan Apartments,"B/h. Swamy, Lanka and Bail",South Extension,jamnagar,Gujarat,887572,"16.703398743664962,83.54054727988547",False,Other,2021-10-30 14:50:26,2024-12-28 07:34:25
+200436,100077,40,32.0,Mohanty Group Residency,Beside Goyal-Srinivasan,Mayur Vihar,jamnagar,Gujarat,887572,"28.558531207751635,95.4414466890733",True,Work,2021-04-21 08:55:00,2024-05-04 21:17:47
+200437,100077,41,19.0,Sanghvi Group Towers,"Opp. Bera, Tella and Verma",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"8.585869158717301,79.15769676009008",False,Other,2021-03-10 14:20:52,2021-08-29 14:12:07
+200438,100078,11,19.0,Thakkar-Badal Residency,Near Tara Group,Janakpuri,jamnagar,Gujarat,887572,"14.778408252576254,91.92734483916722",True,Other,2021-12-25 23:37:04,2024-09-23 16:28:54
+200439,100078,7,13.0,Mohanty Inc Apartments,"Opp. Swamy, Toor and Sethi",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"26.112113742394804,93.78585785638779",False,Other,2021-10-07 03:17:50,
+200440,100079,40,,Kalita-Ganesan Towers,"Pant, Malhotra and Sarna",Saket,Visakhapatnam,Andhra Pradesh,780487,"34.25607828664518,83.53431150717712",True,Work,2021-10-01 14:56:41,
+200441,100079,11,,Bhandari-Bains Complex,Beside Garde Inc,Rohini,jamnagar,Gujarat,887572,"9.107381328563266,73.41243844923373",False,Work,2021-01-02 13:44:44,2023-08-28 12:27:20
+200442,100080,6,12.0,Halder-Prakash Residency,B/h. Sankaran-Swamy,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"21.956433753436706,76.13272602499947",True,Work,2021-10-10 21:49:11,2023-04-01 09:08:39
+200443,100080,18,25.0,"Desai, Bahri and Kalla Residency",Behind Khanna-Oza,Saket,jamnagar,Gujarat,887572,"17.902679772372665,86.36135876011984",False,Other,2021-10-25 19:28:36,2024-11-04 20:34:42
+200444,100081,48,36.0,"Chowdhury, Parmar and Narayan Residency",Sidhu LLC,Connaught Place,jamnagar,Gujarat,887572,"19.860870512950548,84.38462999024105",True,Home,2021-09-18 22:25:36,2024-10-26 16:49:50
+200445,100081,8,12.0,Kakar Inc Apartments,Beside Raju Ltd,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"14.680000801317235,81.3447467258192",False,Other,2021-09-02 01:30:10,2023-02-01 10:12:13
+200446,100082,42,12.0,Mannan-Rao Apartments,B/h. Raj-Sant,Dwarka,jamnagar,Gujarat,887572,"13.438280774143308,85.16330242917503",True,Other,2021-06-22 06:11:49,2024-10-22 16:26:56
+200447,100082,14,11.0,"Borah, Ghose and Saxena Apartments",Tata-Kalita,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"31.742566492759266,87.4644047809982",False,Other,2021-08-20 14:23:09,
+200448,100083,16,10.0,"Chatterjee, Amble and Sahota Residency","Opp. Banik, Chadha and Nagar",Rohini,jamnagar,Gujarat,887572,"27.476934276668842,88.75552564208601",True,Home,2021-11-10 23:51:47,2024-10-19 06:31:50
+200449,100083,35,,"Basak, Mitter and Pradhan Complex",B/h. Vasa Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"20.601961537949528,82.6638970966834",False,Other,2021-12-25 07:50:18,2024-03-18 00:50:00
+200450,100084,32,,"Om, Nanda and Doctor Towers","B/h. Balay, Pal and Mahajan",Vasant Kunj,jamnagar,Gujarat,887572,"35.903431705915644,85.00329813060478",True,Work,2020-11-03 20:32:26,2022-05-20 18:07:42
+200451,100084,37,32.0,Raj Inc Complex,"Dash, Mukhopadhyay and Solanki",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"11.801184067647497,94.20291286041515",False,Other,2021-12-21 12:10:59,2022-05-12 01:40:32
+200452,100085,29,,Gandhi and Sons Complex,Opp. Rama Ltd,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"10.440568300582584,70.28274127061056",True,Home,2021-11-19 00:19:11,2023-11-22 18:36:32
+200453,100085,39,34.0,Gokhale-Keer Towers,Patla-Mohan,Connaught Place,jamnagar,Gujarat,887572,"14.655726077538453,88.91107747527343",False,Work,2021-12-23 00:31:37,
+200454,100086,34,,Lall-Lanka Residency,Near Bhandari-Gopal,Hauz Khas,jamnagar,Gujarat,887572,"28.11644237324797,96.4530331262483",True,Home,2021-10-17 17:20:07,2022-10-04 05:13:52
+200455,100086,26,4.0,"Dada, Rama and Jayaraman Complex","Opp. Bal, Dugal and Sahota",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"9.499587641615026,69.96949319038276",False,Other,2021-10-03 02:11:06,2022-12-16 02:05:52
+200456,100087,30,33.0,Edwin LLC Complex,Beside Chaudry Group,Rohini,jamnagar,Gujarat,887572,"28.361041102924226,88.4942748459165",True,Other,2021-11-12 02:18:47,2023-08-30 07:48:07
+200457,100087,24,23.0,Thakur-Sankar Residency,Opp. Dayal Group,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"24.021695401630524,95.08883861406261",False,Home,2021-07-12 10:46:48,
+200458,100088,20,,Magar-Merchant Towers,Mane and Sons,Connaught Place,jamnagar,Gujarat,887572,"32.188443648232855,93.1155496338442",True,Other,2021-08-26 23:34:20,2023-12-04 17:13:24
+200459,100088,30,,Krish-Swaminathan Residency,"Opp. Sandal, Venkataraman and Chaudhry",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"29.656367232345573,94.35330947235033",False,Home,2021-03-13 03:50:21,
+200460,100089,42,38.0,Master and Sons Heights,Sridhar Ltd,Saket,jamnagar,Gujarat,887572,"11.100271720003242,74.3768676295579",True,Work,2021-06-22 23:49:39,2024-10-30 16:45:56
+200461,100090,33,,Narayan Inc Complex,"Opp. Konda, Chadha and Ahluwalia",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"8.543444344663888,80.56493483950715",True,Work,2021-09-29 16:25:35,
+200462,100090,44,6.0,Vyas-Virk Complex,Near Pandit PLC,Dwarka,jamnagar,Gujarat,887572,"20.016329531474117,86.78044910921976",False,Other,2021-07-25 14:15:06,
+200463,100091,11,,"Raghavan, Mishra and Deshmukh Towers",Beside Sibal-Vohra,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"30.37766775844498,72.6865806548113",True,Home,2021-11-27 05:04:06,2024-03-24 13:16:25
+200464,100092,44,,"Sarma, Patel and Uppal Apartments","Beside Bhardwaj, Dass and Ray",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"11.451561547677759,94.77429471916842",True,Home,2021-09-22 09:47:22,
+200465,100092,47,,"Gaba, Tella and Mander Residency","Luthra, Mand and Tata",Rohini,jamnagar,Gujarat,887572,"27.72215607228373,95.12390016211108",False,Work,2021-12-10 05:49:54,2024-02-01 13:09:00
+200466,100093,40,14.0,Yogi-Mann Apartments,B/h. More PLC,Lajpat Nagar,jamnagar,Gujarat,887572,"14.019381548451616,79.5570968969188",True,Home,2021-12-22 22:32:52,2023-12-19 13:41:23
+200467,100094,12,20.0,Kalla and Sons Complex,"Near Nori, Choudhry and Shanker",Dwarka,jamnagar,Gujarat,887572,"30.71931422145687,76.75238434209463",True,Home,2021-05-08 06:36:17,
+200468,100094,2,26.0,Sundaram Inc Complex,Opp. Bal Group,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"18.244944226052166,68.94958860916692",False,Other,2021-02-23 23:44:16,2024-03-16 19:52:48
+200469,100095,10,25.0,"Barman, Vaidya and Venkataraman Residency","Near Shankar, Ravi and Raju",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"32.43855517557945,74.22881867999482",True,Work,2021-07-04 09:16:42,2022-12-23 10:01:32
+200470,100096,47,5.0,Dhaliwal-Guha Apartments,"Opp. Dubey, Sarna and Devan",Greater Kailash,jamnagar,Gujarat,887572,"27.874956290505878,85.72158847269839",True,Home,2021-03-05 04:46:09,2024-08-31 04:58:26
+200471,100096,38,2.0,Sridhar-Mani Apartments,Opp. Chacko LLC,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"11.864589727989339,76.56443827074838",False,Work,2021-07-17 21:20:12,2024-06-10 09:13:31
+200472,100097,21,25.0,Padmanabhan Inc Heights,Opp. Bava Inc,Vasant Kunj,jamnagar,Gujarat,887572,"33.11318959288024,76.10464993551513",True,Home,2021-10-31 03:58:27,2022-04-26 21:19:00
+200473,100097,50,,Brahmbhatt-Setty Residency,Beside Sandhu-Saxena,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"9.971409615396155,72.21487194135811",False,Other,2021-12-24 10:13:30,
+200474,100098,36,4.0,Parmer-Vohra Residency,Behind Mani-Pal,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"10.196341971598159,89.22291010506586",True,Home,2021-12-30 09:05:35,2022-06-16 06:35:13
+200475,100099,2,9.0,"Malhotra, Kadakia and Shan Residency",B/h. Dada PLC,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"27.382752692687895,94.426976010993",True,Work,2021-10-28 06:11:08,2022-09-24 05:57:38
+200476,100099,11,1.0,Minhas-Sachar Residency,"Chaudhari, Patla and Lall",Greater Kailash,jamnagar,Gujarat,887572,"33.70046615254365,69.6245341318016",False,Home,2021-10-06 06:21:34,
+200477,100100,24,26.0,Khanna-Sharma Towers,Behind Mutti-Wali,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"30.837644722188188,81.58957181701483",True,Work,2021-12-15 07:44:53,2025-02-12 18:51:03
+200478,100100,20,24.0,Sangha Inc Towers,"Behind Bhalla, Chowdhury and Pal",Malviya Nagar,jamnagar,Gujarat,887572,"31.12870554583337,78.63631722904546",False,Work,2021-12-20 01:05:07,2024-12-05 02:33:50
+200479,100101,16,,"Balasubramanian, Viswanathan and Oommen Apartments",Opp. Pandit-Mukherjee,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"32.05456403294286,81.88284476917966",True,Home,2021-03-31 10:38:56,
+200480,100102,4,33.0,Rau-Yogi Apartments,Near More LLC,Vasant Kunj,jamnagar,Gujarat,887572,"9.17804606212694,94.72240813100562",True,Work,2021-10-23 07:08:27,2023-01-13 03:40:04
+200481,100102,7,18.0,"Bahri, Gole and Salvi Apartments","Beside Dixit, Hari and Sethi",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"20.775114115144113,69.9168992690134",False,Home,2021-08-30 12:31:00,2023-02-07 02:10:54
+200482,100103,43,7.0,Mittal and Sons Residency,"Behind Basak, Bora and Prashad",Saket,jamnagar,Gujarat,887572,"33.758231751754465,71.78858519281032",True,Work,2021-11-24 04:23:25,2023-08-11 23:29:43
+200483,100103,30,,Rastogi-Devi Complex,Near Chaudhari LLC,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"21.626523379748015,75.73766074544461",False,Work,2021-12-02 22:27:16,2023-11-09 01:07:20
+200484,100104,6,19.0,Vaidya and Sons Heights,Behind Raja-Kamdar,South Extension,Visakhapatnam,Andhra Pradesh,780487,"22.76736728524348,74.39556888170027",True,Work,2021-06-04 21:34:26,
+200485,100104,46,,Banik and Sons Apartments,"Behind Ram, Malhotra and Rau",Karol Bagh,jamnagar,Gujarat,887572,"13.706395177460166,83.87979779866338",False,Other,2021-10-26 12:17:33,2024-06-14 20:38:00
+200486,100105,28,39.0,Issac-Sami Heights,"Beside Sidhu, Choudhary and Swamy",Saket,jamnagar,Gujarat,887572,"14.373207407582505,84.72391194854731",True,Work,2021-04-30 11:20:35,
+200487,100105,43,13.0,Yogi LLC Complex,Beside Sampath-Bhatia,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"32.41949505841798,94.95047488846659",False,Work,2021-08-17 00:38:15,2023-10-23 12:17:29
+200488,100106,26,10.0,"Pandit, Brahmbhatt and Ravi Apartments",B/h. Badal Group,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"10.270976860216146,75.56764067684327",True,Home,2021-11-23 06:21:42,2023-07-30 19:42:36
+200489,100106,31,,Palla Inc Apartments,B/h. Iyengar-Chaudhuri,Karol Bagh,jamnagar,Gujarat,887572,"20.512277448374448,71.55977277433624",False,Work,2021-12-02 12:27:11,2023-06-07 18:47:07
+200490,100107,49,,"Bajwa, Chaudhry and Chopra Apartments",Near Cheema PLC,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"25.58461717800116,87.72961788507617",True,Home,2021-11-10 04:59:17,2024-11-13 06:33:24
+200491,100108,2,17.0,"Buch, Dua and Deshpande Complex",Opp. Kalita and Sons,Janakpuri,jamnagar,Gujarat,887572,"30.833562766694406,84.46058874010906",True,Other,2021-10-13 21:04:29,2023-11-05 16:57:37
+200492,100109,46,18.0,Swaminathan-Oak Complex,Near Chatterjee LLC,Rohini,Visakhapatnam,Andhra Pradesh,780487,"15.679283284374495,97.17819681246326",True,Home,2021-04-24 22:57:00,2024-02-21 12:13:25
+200493,100109,12,,Minhas and Sons Complex,Behind Seshadri PLC,Janakpuri,jamnagar,Gujarat,887572,"9.506616020118388,85.5343856110968",False,Other,2021-04-12 08:57:50,2024-09-17 03:09:00
+200494,100110,26,34.0,Pandey PLC Towers,Desai Inc,Vasant Kunj,jamnagar,Gujarat,887572,"27.322385885577383,74.37185097765716",True,Other,2021-08-28 13:31:33,2021-12-08 22:02:10
+200495,100110,8,25.0,Virk and Sons Complex,Behind Sathe-Arora,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"16.94438772335662,80.43082987051876",False,Work,2021-12-23 21:55:26,2022-08-10 03:14:54
+200496,100111,14,4.0,Uppal-Bhavsar Towers,"Beside Chauhan, Konda and Banerjee",Lajpat Nagar,jamnagar,Gujarat,887572,"16.17228443658844,75.36068306917447",True,Home,2021-09-13 05:54:04,2025-02-09 13:25:15
+200497,100112,12,,"Borra, Chhabra and Pillai Complex",Bhatti-Peri,Lajpat Nagar,jamnagar,Gujarat,887572,"25.777543160631446,85.34076544627253",True,Home,2021-03-12 19:26:36,2025-02-27 17:35:55
+200498,100112,29,5.0,"Soni, Sarin and Bhatia Heights",Opp. Sharaf-Kala,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"20.978980499246333,96.90868898173264",False,Other,2021-10-02 21:08:41,
+200499,100113,30,,"Kalita, Roy and Bhatnagar Towers",Behind Shroff-Saxena,Mayur Vihar,jamnagar,Gujarat,887572,"13.40862296436863,71.24160146211595",True,Home,2021-08-16 05:21:42,2023-07-31 11:58:40
+200500,100114,43,17.0,Palan-Chada Apartments,Behind Dewan-Kulkarni,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"10.843699175627183,79.24571291795435",True,Other,2021-11-09 01:12:15,2023-09-05 14:23:37
+200501,100114,37,33.0,Bhandari-Mangal Complex,"Beside Kapadia, Muni and Korpal",Rajouri Garden,jamnagar,Gujarat,887572,"12.680892081599291,71.89636382225117",False,Work,2021-08-27 00:07:21,2023-03-25 02:07:32
+200502,100115,35,38.0,"Jhaveri, Khosla and Pillai Heights",Khanna PLC,Janakpuri,jamnagar,Gujarat,887572,"9.291644950265516,92.12095116680479",True,Home,2021-11-07 03:22:58,2024-04-13 02:52:52
+200503,100115,26,20.0,Divan Group Complex,Opp. Master Ltd,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"30.52871395283261,81.58436789014361",False,Work,2021-12-28 21:02:13,2024-07-10 21:56:14
+200504,100116,15,29.0,"Bhasin, Hayer and Bose Complex","B/h. Ram, Kalita and Narang",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"35.62920355749721,84.09129798208934",True,Home,2021-10-12 16:35:05,2023-06-02 21:23:36
+200505,100116,17,27.0,Pandit Group Towers,B/h. Srivastava-Chanda,Pitampura,jamnagar,Gujarat,887572,"27.864253690361636,92.36254372936502",False,Home,2021-11-21 15:50:14,2022-10-20 14:06:52
+200506,100117,37,,Lata Group Complex,"Beside Kumar, Ramaswamy and Warrior",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"30.726598868669555,87.77093602380997",True,Home,2021-10-26 12:51:53,2024-03-20 00:45:05
+200507,100117,32,38.0,"Sharma, Majumdar and Bansal Heights",Opp. Ranganathan-Kumar,Lajpat Nagar,jamnagar,Gujarat,887572,"27.976040398817183,84.67911838407682",False,Other,2021-06-01 20:50:04,
+200508,100118,49,31.0,"Zachariah, Maharaj and Narasimhan Apartments","B/h. Suri, Oommen and Suri",Saket,Visakhapatnam,Andhra Pradesh,780487,"25.594177037146125,75.24757892837417",True,Home,2021-11-12 02:42:35,
+200509,100118,6,28.0,Vyas-Thaker Apartments,B/h. Mander PLC,Karol Bagh,jamnagar,Gujarat,887572,"9.685418832564203,94.3832084827517",False,Other,2021-12-06 15:31:15,
+200510,100119,19,36.0,Jaggi-Chand Complex,Opp. Ramesh Inc,Rohini,Visakhapatnam,Andhra Pradesh,780487,"29.507667012659432,78.80791574496853",True,Work,2021-10-21 11:39:19,2024-01-19 10:16:49
+200511,100119,43,26.0,Sarna-Kapoor Residency,"B/h. Loke, Sami and Ramanathan",Malviya Nagar,jamnagar,Gujarat,887572,"9.71889331814058,85.9655214409812",False,Work,2021-10-03 02:39:03,2024-11-20 00:38:00
+200512,100120,40,35.0,"Tara, Sidhu and Mand Residency",Oza LLC,South Extension,jamnagar,Gujarat,887572,"35.71824996668604,80.95675034583718",True,Work,2021-02-22 17:16:52,2024-03-06 23:28:26
+200513,100120,20,,Char-Jayaraman Towers,Near Oak-Bhandari,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"24.776327796802846,71.61808622716703",False,Home,2021-02-11 19:04:51,
+200514,100121,38,27.0,Warrior LLC Heights,"Behind Mandal, Kapadia and Divan",Janakpuri,jamnagar,Gujarat,887572,"12.05168476112205,83.04731278141386",True,Other,2021-08-12 08:51:43,2022-10-18 17:20:55
+200515,100121,50,,Babu-Subramaniam Complex,Beside Bassi LLC,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"28.743284599876525,75.2080313189476",False,Home,2021-12-17 16:51:53,2023-09-30 17:24:09
+200516,100122,17,10.0,Bhagat Inc Complex,"Beside Mander, Badal and Mann",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"25.21190721683186,80.83130711115648",True,Other,2021-06-12 22:26:42,2023-04-22 21:58:27
+200517,100123,20,,Master LLC Apartments,Behind Gopal and Sons,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"30.49530718498866,89.3922078612338",True,Work,2021-07-12 11:32:00,2025-04-16 02:19:14
+200518,100124,41,14.0,Butala-Butala Towers,Near Gulati-Shroff,Vasant Kunj,jamnagar,Gujarat,887572,"14.629638819942052,89.24784757299652",True,Home,2021-06-23 10:15:06,2023-11-13 23:31:55
+200519,100124,16,,Pillai-Mukhopadhyay Heights,"B/h. Rajan, Ravel and Sethi",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"23.32247207430266,80.13736685619853",False,Other,2021-11-08 09:03:36,
+200520,100125,24,18.0,Kapur Group Heights,Beside Ravel Group,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"16.05573588637579,86.2947830846881",True,Work,2021-12-06 14:03:01,2023-10-21 04:12:18
+200521,100126,13,18.0,Kanda-Kapoor Apartments,Behind Krish Ltd,Karol Bagh,jamnagar,Gujarat,887572,"20.140290611071407,70.50377738900349",True,Other,2021-12-30 02:34:39,2023-06-18 06:06:28
+200522,100127,5,9.0,Kaur and Sons Heights,"Behind Behl, Barad and Bal",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"25.138449695615755,84.30603421554268",True,Home,2020-11-09 05:56:32,2023-05-27 16:49:27
+200523,100127,47,,Krishnan and Sons Towers,Beside Dyal-Prabhu,Mayur Vihar,jamnagar,Gujarat,887572,"24.493666230495556,71.46644106172982",False,Home,2021-06-28 05:33:17,2023-02-21 01:13:50
+200524,100128,34,7.0,Pai Group Residency,B/h. Mukherjee-Sahni,Lajpat Nagar,jamnagar,Gujarat,887572,"13.793472689674857,79.96353591225406",True,Work,2021-12-30 23:40:45,2023-06-07 11:32:23
+200525,100128,35,35.0,Kakar and Sons Complex,"Opp. Karan, Murty and Dasgupta",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"36.87746977051848,80.00087703231338",False,Other,2021-12-17 05:43:52,2022-03-28 23:59:57
+200526,100129,33,20.0,"Wagle, Mitter and Raval Apartments",B/h. Ben-Hayre,Rohini,Visakhapatnam,Andhra Pradesh,780487,"25.579883960094982,96.64748617002378",True,Other,2021-12-26 13:14:13,
+200527,100129,8,39.0,Zachariah-Rau Residency,Near Kalla-Memon,Mayur Vihar,jamnagar,Gujarat,887572,"28.473616725255127,82.33995424954763",False,Work,2021-12-13 07:35:44,
+200528,100130,45,,Golla and Sons Apartments,Near Sarma-Sarna,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"10.695304706219426,88.19297088526221",True,Home,2021-07-10 15:15:38,
+200529,100130,39,36.0,Pall-Sankaran Towers,"Opp. Ghose, Wali and Sidhu",Karol Bagh,jamnagar,Gujarat,887572,"17.580129856301426,80.42804290511403",False,Other,2021-11-14 10:23:26,2024-08-11 03:31:13
+200530,100131,33,21.0,"Kannan, Divan and Mammen Heights",Behind Bajaj-Murty,Saket,jamnagar,Gujarat,887572,"19.46630148423342,68.9192163303739",True,Home,2021-12-06 03:36:25,2022-10-10 09:02:35
+200531,100132,37,9.0,Nazareth Inc Heights,"Behind Konda, Ravi and Sawhney",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"15.706358358447883,70.04065966847696",True,Work,2021-10-13 06:38:27,2023-02-22 12:48:43
+200532,100132,44,36.0,"Kale, Dhar and Babu Complex",Beside Khatri Group,Karol Bagh,jamnagar,Gujarat,887572,"22.9271006702292,70.12756698937913",False,Work,2021-09-03 23:39:59,
+200533,100133,20,24.0,Dutta Inc Towers,Beside Setty-Mangal,Rohini,Visakhapatnam,Andhra Pradesh,780487,"24.09552433237387,69.53320902778246",True,Work,2021-08-12 01:24:46,2023-06-15 17:19:12
+200534,100134,50,15.0,Kaul-Peri Residency,Behind Menon-Chanda,Hauz Khas,jamnagar,Gujarat,887572,"26.171433014002645,80.8380742072011",True,Home,2021-12-16 11:13:38,2022-11-05 03:55:45
+200535,100134,24,,Mutti PLC Towers,Beside Banerjee Ltd,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"12.219539056310179,86.7873767883516",False,Work,2020-11-14 14:34:05,2024-07-21 17:59:10
+200536,100135,4,,Sandal and Sons Heights,"Behind Bakshi, Thakkar and Chatterjee",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"18.533085655301374,95.1188078987085",True,Home,2021-12-01 00:30:28,2025-02-03 08:05:59
+200537,100135,44,12.0,Anne Inc Apartments,"Opp. Dara, Wali and Sinha",Dwarka,jamnagar,Gujarat,887572,"16.98807992105546,96.20161458891738",False,Work,2021-04-28 07:01:49,2023-08-01 20:55:07
+200538,100136,45,20.0,Varghese Ltd Towers,Opp. Shroff Ltd,Hauz Khas,jamnagar,Gujarat,887572,"17.62735306551736,70.62233632757216",True,Home,2021-07-21 12:10:26,
+200539,100136,12,,Balay-Badami Apartments,"Near Dugal, Rajan and Wali",Rohini,Visakhapatnam,Andhra Pradesh,780487,"34.99299261267809,93.0185143029015",False,Work,2021-12-04 17:55:22,2024-12-05 09:29:57
+200540,100137,41,4.0,"Joshi, De and Batta Apartments","Behind Srinivas, Chandran and Kapoor",Saket,jamnagar,Gujarat,887572,"11.563757266535546,85.51052339255452",True,Work,2021-12-25 07:02:14,2024-03-03 12:00:37
+200541,100137,32,9.0,"Cheema, Warrior and Randhawa Residency",Near Keer LLC,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"25.272915522674566,93.89476259229698",False,Work,2021-10-08 00:27:39,2024-11-26 01:57:50
+200542,100138,18,27.0,Sarkar Inc Heights,Opp. Kala and Sons,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"32.11007851369422,70.87378813776891",True,Other,2021-12-20 18:14:05,
+200543,100139,4,,Kamdar-Subramaniam Heights,Opp. Palla Inc,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"30.58388678004846,82.3675076031565",True,Home,2021-10-22 12:17:57,2022-11-08 21:22:41
+200544,100140,38,35.0,Muni-Dhar Apartments,Beside Sabharwal-Krishnan,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"18.630348786951043,92.08247816410051",True,Home,2021-12-16 16:20:03,2023-04-26 15:28:11
+200545,100140,17,12.0,"Sarna, Patla and Magar Heights","Opp. Dhar, Sem and Keer",Connaught Place,jamnagar,Gujarat,887572,"28.01507449655808,88.53414533656945",False,Home,2021-12-03 02:44:12,2022-01-20 01:23:50
+200546,100141,24,18.0,Rana Inc Apartments,Near Upadhyay Group,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"35.981524298591374,75.96496663519824",True,Other,2021-12-25 08:36:04,2024-10-15 15:33:21
+200547,100141,42,10.0,Chandran-Keer Residency,"Near Mand, Mall and Raja",Connaught Place,jamnagar,Gujarat,887572,"12.486356144982267,74.22582652756108",False,Other,2021-12-01 03:38:57,2023-01-18 20:53:56
+200548,100142,50,32.0,"Raghavan, Sachdeva and Prakash Complex","Viswanathan, Shan and Varughese",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"37.11204914210819,81.56891580608477",True,Work,2021-10-02 02:42:46,2022-07-26 17:00:50
+200549,100142,16,11.0,Pandit-Ramesh Towers,Opp. Khare-Menon,Saket,jamnagar,Gujarat,887572,"13.995542187498563,92.4708451255991",False,Other,2021-11-30 17:09:26,2023-09-26 02:51:06
+200550,100143,5,23.0,"Ahuja, Keer and Yohannan Apartments","Ray, Pant and Raj",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"10.174723850152839,92.8759938647643",True,Other,2021-06-05 13:07:47,2022-03-30 06:10:59
+200551,100144,3,,Sridhar LLC Residency,Near Kala Ltd,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"26.179319010931515,91.33518709873019",True,Home,2021-03-06 21:37:32,2023-04-14 17:02:12
+200552,100145,33,18.0,Bumb Group Complex,Opp. Soni Group,Rohini,jamnagar,Gujarat,887572,"33.15489748047246,93.85530718657682",True,Home,2021-06-30 10:08:51,
+200553,100145,45,7.0,Cheema Group Complex,Near Narasimhan-Sengupta,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"33.87953926304802,81.27746243169585",False,Other,2021-07-08 02:14:03,
+200554,100146,28,12.0,"Shukla, Andra and Deol Heights","B/h. Magar, Dhar and Khurana",South Extension,Visakhapatnam,Andhra Pradesh,780487,"35.17026121590106,95.9798534848743",True,Work,2021-09-18 06:34:50,
+200555,100147,35,,"Babu, Wagle and Mane Complex",B/h. Suresh Ltd,Greater Kailash,jamnagar,Gujarat,887572,"10.32595566714744,85.90900941444858",True,Home,2021-03-09 16:53:46,2023-05-07 09:20:17
+200556,100148,7,,"Memon, Pant and Puri Heights",Opp. Chakrabarti and Sons,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"25.796087461719807,72.89923569910833",True,Work,2021-03-10 08:44:29,2023-03-27 03:11:47
+200557,100148,33,35.0,Dasgupta and Sons Towers,Behind Konda-Andra,Lajpat Nagar,jamnagar,Gujarat,887572,"25.314967939459386,96.9123103602946",False,Other,2021-08-27 12:38:36,2024-05-06 21:17:26
+200558,100149,49,4.0,"Pal, Chhabra and Som Heights",B/h. Dewan-Hayre,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"25.300235042943548,72.4927219339529",True,Work,2021-10-06 03:07:37,
+200559,100150,44,,Vyas and Sons Towers,Opp. Bassi Ltd,Saket,jamnagar,Gujarat,887572,"32.05853571753664,93.30575727045593",True,Other,2021-12-31 00:52:38,2022-04-21 14:34:45
+200560,100150,25,12.0,"Sehgal, Yadav and Toor Heights","Opp. Bhatt, Lad and Uppal",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"14.349064614504076,84.59512860231335",False,Home,2021-12-30 21:50:39,2024-07-20 23:59:24
+200561,100151,34,,"Oza, Ganguly and Butala Complex",Near Koshy-Dar,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"36.89294862815518,96.83118611682457",True,Other,2021-01-19 14:54:53,2022-10-24 19:51:31
+200562,100152,26,11.0,Aurora and Sons Complex,Opp. Kanda LLC,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"23.49876821424421,83.39422645706378",True,Home,2021-06-10 03:11:03,2025-01-14 14:40:03
+200563,100153,14,,Hegde-Om Apartments,"Near Choudhary, Jayaraman and Pathak",Mayur Vihar,jamnagar,Gujarat,887572,"11.8156108858821,73.98501251278114",True,Home,2021-02-02 13:06:58,2021-04-04 15:38:19
+200564,100153,2,,Nagarajan and Sons Complex,Beside Anand Inc,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"21.071939220119646,71.97223913776568",False,Home,2021-08-22 07:48:32,2023-12-23 14:19:09
+200565,100154,39,36.0,Virk Inc Towers,"Gole, Hayre and Sarma",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"11.953719084912235,84.33800630112816",True,Work,2021-11-26 05:31:07,
+200566,100154,25,19.0,Dada LLC Apartments,"Oak, Choudhry and Gill",Vasant Kunj,jamnagar,Gujarat,887572,"34.61403920165114,76.96131354391783",False,Work,2021-11-24 09:12:10,2024-04-20 20:10:44
+200567,100155,6,4.0,Agarwal-Ramanathan Towers,B/h. Khosla Inc,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"31.26472057649042,90.58170106220935",True,Other,2021-12-17 01:01:24,2025-04-02 19:43:58
+200568,100155,13,27.0,"Kanda, Minhas and Dugal Complex","B/h. Deep, Raj and Andra",Mayur Vihar,jamnagar,Gujarat,887572,"28.14741139613897,71.4881399742925",False,Home,2021-12-25 01:01:45,
+200569,100156,30,26.0,Prabhakar PLC Residency,Near Doshi Ltd,Rohini,Visakhapatnam,Andhra Pradesh,780487,"32.267196272424954,76.66395692404909",True,Work,2021-06-07 03:00:06,2022-04-13 03:31:50
+200570,100157,25,5.0,Bava-Dugal Heights,Near Munshi-Suri,Rajouri Garden,jamnagar,Gujarat,887572,"28.519722975384106,81.1452778544865",True,Other,2021-07-05 14:31:50,2022-06-15 08:15:11
+200571,100157,18,,"Chokshi, Contractor and Tella Apartments",Sandal-Venkataraman,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"35.15128431046217,77.23904281345928",False,Home,2021-12-29 22:23:02,2022-03-14 08:50:21
+200572,100158,15,1.0,Dada and Sons Towers,Behind Ratta Inc,Rohini,Visakhapatnam,Andhra Pradesh,780487,"11.336690229517519,86.23308318035548",True,Other,2021-08-06 00:40:55,
+200573,100158,40,34.0,Babu-Shere Complex,Near Pradhan-Gopal,Rohini,jamnagar,Gujarat,887572,"30.971762910497013,90.40396086839722",False,Work,2021-07-23 18:18:20,2025-01-25 07:01:45
+200574,100159,19,25.0,Gera Inc Complex,Sawhney and Sons,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"24.886370123605715,80.27007062284778",True,Work,2021-09-12 11:32:42,2024-06-03 12:35:09
+200575,100160,34,,"Sethi, Naik and Dhaliwal Towers","Behind Suresh, Bahl and Randhawa",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"23.585139201678473,86.83721747921587",True,Home,2021-07-20 22:50:23,2023-05-28 07:46:33
+200576,100161,43,40.0,Varkey-Kar Apartments,"B/h. Goyal, Choudhry and Datta",Saket,Visakhapatnam,Andhra Pradesh,780487,"19.23307593050034,85.58338241197866",True,Home,2021-02-02 13:55:41,2024-01-27 09:49:24
+200577,100161,5,25.0,Chandran PLC Apartments,Buch LLC,Lajpat Nagar,jamnagar,Gujarat,887572,"15.313028428658267,69.33600677944945",False,Home,2021-03-05 13:17:21,
+200578,100162,49,30.0,"Sharma, Lata and Mishra Complex",Behind Srivastava-Merchant,Janakpuri,jamnagar,Gujarat,887572,"32.6662808022075,74.03233972492076",True,Home,2021-12-19 23:35:32,2022-12-21 21:22:15
+200579,100162,6,1.0,"Bhargava, Pingle and Sane Complex","B/h. Bala, Sekhon and Sethi",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"12.464646135790343,70.77957231649908",False,Work,2021-06-22 15:03:27,2024-11-17 01:32:08
+200580,100163,21,8.0,"Shetty, Sekhon and Khanna Towers",Beside Kumar-Dube,Pitampura,jamnagar,Gujarat,887572,"16.890990023442633,71.27556217056534",True,Other,2021-12-29 21:54:24,
+200581,100163,19,12.0,Andra Inc Apartments,"Near Om, Dewan and Bedi",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"28.05084874390998,92.5331312296108",False,Other,2021-07-19 17:32:20,
+200582,100164,39,26.0,Tella-Yohannan Residency,Beside Chaudhry Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"13.569163691635346,72.72307399861646",True,Work,2021-05-18 12:58:04,2022-05-24 01:35:31
+200583,100165,5,17.0,"Modi, Karan and Kibe Heights",B/h. Iyer PLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"12.251198216325678,92.20542900974984",True,Work,2021-12-13 01:26:35,2024-08-06 19:44:47
+200584,100165,24,3.0,Viswanathan Inc Heights,Beside Jain Group,Hauz Khas,jamnagar,Gujarat,887572,"23.169290230359408,68.7823994440773",False,Other,2021-11-17 13:53:38,
+200585,100166,32,37.0,"Aggarwal, Ramachandran and Mahal Apartments",Savant-Rau,Saket,jamnagar,Gujarat,887572,"10.250384465291003,80.09997042133183",True,Other,2021-12-09 02:15:48,2022-09-13 02:15:45
+200586,100166,27,,Nagi-Batta Apartments,"Beside Hari, Narula and Magar",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"14.569145880316196,72.58315486460654",False,Work,2021-12-20 04:09:56,2023-10-18 12:59:45
+200587,100167,11,40.0,Sarin PLC Heights,Datta-Gokhale,Rajouri Garden,jamnagar,Gujarat,887572,"31.396385942220377,68.84437352283021",True,Home,2021-07-04 16:43:22,2023-09-02 09:12:51
+200588,100167,42,34.0,"Sekhon, Keer and Johal Residency",Opp. Behl Ltd,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"16.045072896321425,81.6224142049445",False,Home,2021-09-02 12:42:15,
+200589,100168,5,35.0,Sen-Natt Heights,Near Barman-Natarajan,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"10.32460367769293,91.14889878431998",True,Other,2021-04-24 06:27:09,2023-10-20 04:17:49
+200590,100168,49,6.0,"Barad, Jani and Peri Apartments",Behind Ray-Keer,Rohini,jamnagar,Gujarat,887572,"36.86195739828013,86.1274456179284",False,Work,2021-10-30 19:04:35,2024-08-14 13:58:49
+200591,100169,43,,Shanker Inc Residency,Beside Pandey and Sons,Connaught Place,jamnagar,Gujarat,887572,"30.22792074456266,69.94533939612982",True,Work,2021-11-18 20:55:24,
+200592,100170,4,9.0,"Iyer, Chand and Chanda Residency",Near Desai-Bandi,Saket,Visakhapatnam,Andhra Pradesh,780487,"21.901363289875544,91.81584974737366",True,Other,2021-07-19 10:32:44,2024-11-07 04:46:45
+200593,100170,1,,"Patla, Muni and Samra Towers",B/h. Dhaliwal Group,Rajouri Garden,jamnagar,Gujarat,887572,"28.859303008283163,96.90666515575042",False,Home,2021-09-21 05:39:59,2023-10-03 00:52:44
+200594,100171,20,21.0,"Ramaswamy, Deshpande and Patil Heights",Opp. Chander-Kumar,Hauz Khas,jamnagar,Gujarat,887572,"27.259104023224097,91.46716205628033",True,Other,2021-12-28 07:04:36,2022-10-27 06:19:35
+200595,100171,38,14.0,Kala Ltd Towers,"B/h. Palla, Srivastava and Mall",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"25.77919571628461,76.66626487455889",False,Work,2021-12-24 11:48:44,2024-03-21 10:06:36
+200596,100172,47,,Bera-Basu Complex,"Dhaliwal, Singh and Mall",Janakpuri,jamnagar,Gujarat,887572,"35.43030757996827,96.60489021045382",True,Home,2021-12-22 18:06:06,2023-02-19 10:27:07
+200597,100172,35,,Krishna-Behl Apartments,Near Kaur LLC,South Extension,Visakhapatnam,Andhra Pradesh,780487,"18.102872178895733,73.08896491634658",False,Other,2021-05-22 03:07:45,2021-10-10 09:16:09
+200598,100173,15,5.0,Swamy-Mannan Towers,"B/h. Jha, Anand and Badal",Vasant Kunj,jamnagar,Gujarat,887572,"36.74794991421805,91.07382293361104",True,Other,2021-10-15 15:16:34,2023-10-27 05:40:18
+200599,100173,17,16.0,Sinha-Pandya Heights,Opp. Wason-Bhakta,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"23.874238706871004,80.28078135148705",False,Work,2021-10-14 06:06:40,2024-10-10 22:30:08
+200600,100174,3,29.0,Babu Inc Residency,Behind Mammen Ltd,Janakpuri,jamnagar,Gujarat,887572,"14.795658383518544,89.19169969073545",True,Work,2021-05-25 06:36:32,2021-06-03 09:54:59
+200601,100174,35,36.0,Guha-Jani Heights,Opp. Sarin PLC,Rohini,Visakhapatnam,Andhra Pradesh,780487,"31.765896408656715,79.62394603564196",False,Other,2021-05-19 11:15:23,2023-06-25 04:28:56
+200602,100175,26,35.0,Ben Ltd Apartments,"B/h. Sunder, Deshmukh and Dora",Rohini,Visakhapatnam,Andhra Pradesh,780487,"9.949730722673753,92.00549073059649",True,Work,2021-12-28 07:45:23,2023-10-27 08:53:11
+200603,100175,26,40.0,"Khare, Taneja and Uppal Heights","B/h. Varkey, Gola and Seth",Connaught Place,jamnagar,Gujarat,887572,"19.035284713349427,80.03623127380358",False,Home,2021-12-30 18:17:39,2024-06-01 03:06:53
+200604,100176,1,35.0,Wali and Sons Heights,B/h. Date Ltd,Connaught Place,jamnagar,Gujarat,887572,"9.64115099613985,86.65635289758706",True,Work,2021-11-27 04:50:01,2023-11-28 16:25:34
+200605,100176,43,7.0,Mahajan-Palan Residency,Near Saraf-Rana,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"37.506016940798006,81.91007692395044",False,Other,2021-11-24 23:25:24,2022-09-01 12:40:10
+200606,100177,39,2.0,Edwin Inc Residency,"B/h. Hora, Desai and Korpal",Hauz Khas,jamnagar,Gujarat,887572,"17.012012605081946,95.60636161983041",True,Other,2021-09-23 12:10:04,2022-10-11 02:19:06
+200607,100178,45,,"Nayar, Korpal and Nayar Apartments",Beside Khalsa-Dora,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"26.53268923783088,94.94822060745369",True,Work,2021-02-11 19:12:30,2022-05-10 20:53:23
+200608,100178,18,6.0,"Rama, Mall and Banik Residency","Near Varughese, Mammen and Krish",Rajouri Garden,jamnagar,Gujarat,887572,"10.814635618570097,72.560906866215",False,Work,2021-08-22 02:37:34,2023-11-12 06:59:53
+200609,100179,23,4.0,Chawla LLC Apartments,Opp. Nadkarni PLC,Mayur Vihar,jamnagar,Gujarat,887572,"20.596278218766745,91.89561949763156",True,Home,2021-12-26 06:14:40,
+200610,100179,8,12.0,Chandra-Shukla Heights,Iyer LLC,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"28.442693355496644,76.11242708091746",False,Other,2021-12-22 20:49:25,2023-02-04 15:30:30
+200611,100180,3,3.0,Sule-Dora Towers,"Near Ramanathan, Lall and Karpe",Hauz Khas,jamnagar,Gujarat,887572,"21.333913542048535,74.16055387117851",True,Home,2021-10-16 19:09:50,2024-04-03 06:43:47
+200612,100180,36,,Chandra Inc Heights,Halder-Sibal,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"25.62470600368742,79.15379596638475",False,Home,2021-10-21 23:29:33,2021-12-23 18:03:52
+200613,100181,49,4.0,"Sen, Upadhyay and Taneja Apartments","Beside Gara, Mander and Andra",South Extension,Visakhapatnam,Andhra Pradesh,780487,"36.355864594758465,86.45926192941828",True,Work,2021-12-13 04:36:47,2023-09-02 06:18:15
+200614,100181,1,,"Date, Bala and Tara Complex","Near Karan, Ahuja and Kohli",Saket,jamnagar,Gujarat,887572,"16.50107719427143,72.29891326815623",False,Home,2021-12-04 01:29:52,2023-10-12 07:28:41
+200615,100182,3,19.0,Kar-Ghosh Apartments,Near Gade LLC,Janakpuri,jamnagar,Gujarat,887572,"17.156843297960915,86.21345288139898",True,Home,2021-05-07 23:49:04,2022-10-26 05:17:05
+200616,100182,42,40.0,"Khalsa, Rege and Bhatt Complex",Opp. Salvi and Sons,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"18.88788582761853,90.39700629982144",False,Home,2021-05-09 22:35:17,2024-10-26 23:42:16
+200617,100183,37,3.0,"Subramanian, Bakshi and Sane Heights",Beside De-Chaudhuri,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"9.371123779805648,80.3357545607923",True,Work,2021-12-10 23:35:52,2022-12-05 02:06:24
+200618,100183,37,,Patel-Loyal Apartments,"Beside Amble, Kannan and Sahni",Lajpat Nagar,jamnagar,Gujarat,887572,"20.91141646752368,94.79490474087885",False,Other,2021-11-25 01:33:12,
+200619,100184,25,31.0,Sehgal-Pandey Heights,Near Bedi and Sons,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"28.707193944951953,75.59870526298216",True,Work,2021-12-05 11:37:27,2023-06-24 13:07:32
+200620,100184,45,14.0,"Singh, Pandya and Khare Residency",Behind Kadakia Inc,Mayur Vihar,jamnagar,Gujarat,887572,"16.838100100735552,85.289067870403",False,Work,2021-12-14 09:33:07,2022-10-06 18:44:44
+200621,100185,1,30.0,Kalla-Tank Towers,"Opp. Sagar, Anne and Gera",Rohini,Visakhapatnam,Andhra Pradesh,780487,"17.980278609954254,74.92293522609336",True,Other,2021-03-26 20:49:52,2021-05-09 23:10:45
+200622,100186,5,25.0,Mannan LLC Heights,B/h. Bora LLC,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"34.64624325202375,73.94306169272633",True,Home,2021-12-31 18:20:23,2024-06-16 19:28:20
+200623,100187,12,12.0,"Bajwa, Mangat and Doctor Complex","Sheth, Raja and Morar",Hauz Khas,jamnagar,Gujarat,887572,"12.763987594768299,91.23385335518981",True,Work,2021-12-13 00:55:21,2022-05-27 01:46:44
+200624,100187,7,,Dar and Sons Apartments,Behind Rao PLC,Saket,Visakhapatnam,Andhra Pradesh,780487,"27.180010269097103,94.17650738053844",False,Other,2021-10-01 12:00:53,
+200625,100188,1,35.0,"Shroff, Wadhwa and Chaudhuri Complex","Beside Batra, Mandal and Ramachandran",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"15.795684429220042,69.0981152715115",True,Home,2021-09-21 19:14:07,
+200626,100189,29,,Ghose-Karpe Residency,Behind Hora Ltd,Rajouri Garden,jamnagar,Gujarat,887572,"8.589660556781475,94.29178357434688",True,Work,2021-12-31 04:14:13,2022-03-03 12:58:28
+200627,100189,30,37.0,Sridhar-Khurana Complex,"Behind Mukherjee, Mukhopadhyay and Nanda",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"17.83970654480553,84.84769895988026",False,Home,2021-12-31 20:40:46,
+200628,100190,48,28.0,Krish PLC Heights,Opp. Majumdar-Gera,Karol Bagh,jamnagar,Gujarat,887572,"9.755645289596904,95.91532336937144",True,Home,2021-11-17 03:29:21,2025-04-12 20:59:35
+200629,100190,12,10.0,Dubey LLC Towers,"B/h. Narasimhan, Salvi and Kamdar",Rohini,Visakhapatnam,Andhra Pradesh,780487,"23.603293957165832,70.91941086317655",False,Work,2021-12-08 10:21:39,2022-10-09 05:23:21
+200630,100191,45,1.0,"Chandran, Sahni and Krishnan Towers","Near Arora, Sane and Pandya",Connaught Place,jamnagar,Gujarat,887572,"31.79367062488322,92.73492382413171",True,Home,2021-11-01 01:29:58,2024-05-18 01:41:12
+200631,100192,1,,"Varughese, Krish and Natarajan Towers",Ramanathan-Barman,Dwarka,jamnagar,Gujarat,887572,"11.290059996347274,91.40472133687318",True,Other,2021-06-24 07:56:19,2021-10-12 21:52:10
+200632,100192,5,34.0,Chahal PLC Apartments,Behind Gala Ltd,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"34.96793603803161,89.3356373516625",False,Other,2021-06-13 23:12:54,2021-11-15 02:20:07
+200633,100193,28,,Chaudhary-Mitter Apartments,"Behind Bala, Konda and Seth",Karol Bagh,jamnagar,Gujarat,887572,"14.573931199591545,79.30428026048551",True,Other,2020-11-24 03:48:27,2021-03-03 20:14:39
+200634,100194,38,37.0,"Basu, Choudhary and Garg Towers",Sachdev-Toor,Pitampura,jamnagar,Gujarat,887572,"13.290398294896999,88.4203959192284",True,Work,2021-10-26 16:18:09,2024-03-10 02:14:14
+200635,100194,3,22.0,Srinivasan-Ramesh Residency,"Beside Guha, Garde and Bajwa",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"30.755166089551437,88.66684825785904",False,Home,2021-05-23 04:21:06,
+200636,100195,39,33.0,Behl PLC Complex,Beside Date-Mutti,Rajouri Garden,jamnagar,Gujarat,887572,"13.433444841714277,83.23379204521305",True,Work,2021-08-14 20:34:14,2022-06-26 22:16:29
+200637,100195,20,7.0,"Aurora, Mishra and Padmanabhan Complex",Opp. Buch-Malhotra,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"29.49356831622562,82.31184241838577",False,Home,2021-06-19 22:21:47,
+200638,100196,14,35.0,Sahni-Kakar Residency,Dyal Group,Rajouri Garden,jamnagar,Gujarat,887572,"32.889533637448885,75.2276281394956",True,Other,2020-10-09 16:23:05,2023-01-13 14:21:21
+200639,100196,4,,"Amble, Om and Sandhu Heights",B/h. Venkatesh and Sons,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"37.232167164533024,87.39550166268731",False,Other,2021-02-19 20:15:07,
+200640,100197,34,5.0,Doshi PLC Towers,"B/h. Deshpande, Arora and Pingle",Lajpat Nagar,jamnagar,Gujarat,887572,"25.991349306313495,74.30388207410594",True,Home,2021-04-12 12:57:54,2023-09-28 16:02:39
+200641,100197,48,1.0,"Mutti, Sarkar and Chakrabarti Residency",Near Sidhu Ltd,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"14.46944325996433,70.14770398220642",False,Other,2021-06-09 21:32:20,2024-02-05 13:32:19
+200642,100198,9,,"Sarna, Arya and Joshi Towers","Beside Mangal, De and Char",Rohini,jamnagar,Gujarat,887572,"33.23420540963661,72.33133488338568",True,Home,2020-12-23 02:13:46,
+200643,100199,13,,Bhavsar-Lala Residency,Behind Sarin LLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"20.603517769244178,94.00488937156531",True,Work,2021-07-05 01:49:56,
+200644,100199,13,,"Raval, Batta and Dey Apartments",B/h. Saraf Group,Greater Kailash,jamnagar,Gujarat,887572,"31.55697806902399,75.28960042850281",False,Work,2021-12-09 10:24:09,2025-03-02 16:22:23
+200645,100200,26,7.0,Konda and Sons Complex,Behind Sachdev-Chowdhury,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"12.254959702661857,70.72812526875823",True,Home,2021-06-10 13:32:55,2023-03-08 15:40:37
+200646,100200,39,,Grewal-Gaba Apartments,Beside Gulati Group,South Extension,jamnagar,Gujarat,887572,"19.441107166286727,86.06178202977053",False,Home,2021-10-10 18:30:59,2022-10-01 21:46:50
+200647,100201,14,,Bahl LLC Apartments,B/h. Palla and Sons,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"32.99068826279446,89.8805041462303",True,Work,2021-10-21 09:28:24,
+200648,100201,25,10.0,Gala-Rao Complex,"Near Kuruvilla, Kata and Nazareth",Hauz Khas,jamnagar,Gujarat,887572,"33.76412351674067,95.5051947357775",False,Work,2021-08-07 19:51:36,2023-11-11 12:13:58
+200649,100202,4,36.0,Mittal Inc Heights,Beside Buch-Mahajan,Mayur Vihar,jamnagar,Gujarat,887572,"36.71560398710077,79.92746531290862",True,Home,2021-09-05 17:37:18,2022-07-18 16:15:20
+200650,100202,45,10.0,Munshi LLC Apartments,Behind Balay Ltd,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"31.882110365454245,79.03655024748812",False,Home,2021-08-04 11:45:00,2022-01-16 03:25:56
+200651,100203,50,17.0,Khurana-Dutt Heights,Warrior Inc,Saket,Visakhapatnam,Andhra Pradesh,780487,"21.276477910482285,81.01890186054847",True,Home,2021-09-18 16:01:57,2025-02-25 16:33:51
+200652,100203,39,15.0,Raghavan PLC Complex,Beside Prabhakar Inc,Rohini,jamnagar,Gujarat,887572,"8.64925528486956,87.17822325161845",False,Work,2021-12-16 19:48:43,
+200653,100204,9,25.0,Sabharwal-Sur Residency,Beside Gala-Keer,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"32.75348072819529,71.22552301874035",True,Home,2021-11-11 21:19:25,
+200654,100205,43,,"Sahni, Kumer and Sura Heights",Manda-Tara,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"28.706449122431827,76.3101467786625",True,Home,2020-12-29 06:41:09,
+200655,100205,33,3.0,Taneja-Balay Complex,Sarraf LLC,Pitampura,jamnagar,Gujarat,887572,"36.114991477137785,85.66208439121465",False,Other,2021-06-17 15:42:12,2022-08-21 12:14:23
+200656,100206,40,10.0,Deep and Sons Residency,"Saini, Chandran and Das",South Extension,jamnagar,Gujarat,887572,"34.89724424156017,89.00521051374331",True,Other,2021-12-23 21:36:21,2023-07-02 07:19:24
+200657,100206,44,15.0,Gupta-Kale Residency,Behind Banik-Varghese,Rohini,Visakhapatnam,Andhra Pradesh,780487,"31.905939997666486,94.0341724606236",False,Other,2021-08-18 04:08:52,2022-06-30 07:45:06
+200658,100207,30,12.0,"Lala, Kalita and Tripathi Heights",Krishna Group,Saket,jamnagar,Gujarat,887572,"19.048378720310026,75.43352368489847",True,Home,2021-06-24 07:41:33,
+200659,100207,13,3.0,"Rattan, Natt and Murty Residency",Near Parmer PLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"29.02705029819944,79.14485606268117",False,Other,2021-12-18 07:41:41,2023-08-13 00:42:31
+200660,100208,2,18.0,Bakshi LLC Heights,Beside Nigam-Shah,Hauz Khas,jamnagar,Gujarat,887572,"29.650714845953928,94.85572858262522",True,Other,2021-10-22 20:35:16,2024-03-02 04:13:30
+200661,100208,32,30.0,"Morar, Banik and Balan Towers",Behind Kumar LLC,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"34.53150313377469,91.46827187556701",False,Work,2021-11-21 20:03:40,2025-03-06 11:25:19
+200662,100209,22,24.0,Som Ltd Residency,Beside Gandhi and Sons,Rohini,jamnagar,Gujarat,887572,"24.878075949757502,96.99671025815891",True,Work,2021-09-02 14:13:11,2021-10-25 23:48:44
+200663,100209,47,33.0,"Wable, Basak and Golla Towers",Near Brahmbhatt Group,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"14.491754797500278,76.70419799917049",False,Home,2021-12-13 09:12:09,
+200664,100210,24,,"Kamdar, Sood and Ramaswamy Apartments",Behind Ghose Ltd,Rohini,Visakhapatnam,Andhra Pradesh,780487,"35.41855661043626,95.4469675544887",True,Work,2021-09-05 15:48:27,2024-06-29 13:01:08
+200665,100210,22,,Kulkarni Group Towers,Behind Dayal LLC,Dwarka,jamnagar,Gujarat,887572,"17.834417937447125,95.53561205154813",False,Other,2021-12-04 08:00:36,2024-05-10 18:22:55
+200666,100211,29,,"Panchal, Chadha and Mitter Residency",Near Ghosh-Chaudhry,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"33.807379882339035,76.58504982779203",True,Home,2021-09-04 09:17:04,2022-03-11 14:50:46
+200667,100211,46,8.0,Kant-Sheth Heights,Opp. Rajagopalan Ltd,Karol Bagh,jamnagar,Gujarat,887572,"11.97816246187132,91.92935713837207",False,Home,2021-11-14 11:44:51,2023-09-26 15:30:04
+200668,100212,42,13.0,Mittal Ltd Residency,Opp. Anne and Sons,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"32.24407808331581,77.29347653892827",True,Work,2021-05-14 07:10:48,2022-04-14 08:10:31
+200669,100212,14,4.0,"Parekh, Nayak and Oza Towers","Behind Bakshi, Srinivasan and Kulkarni",Karol Bagh,jamnagar,Gujarat,887572,"14.824312955195726,90.69263285713629",False,Home,2021-05-25 00:08:59,
+200670,100213,2,,"Lal, Shukla and Dewan Apartments","Beside Narang, Borah and Kuruvilla",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"32.40098782482014,94.95893521396964",True,Home,2021-12-31 23:53:09,2022-11-11 19:26:43
+200671,100213,6,36.0,Edwin-Chacko Towers,"Near Narayanan, Menon and Prasad",Rajouri Garden,jamnagar,Gujarat,887572,"35.62993444996965,76.71830523750546",False,Home,2021-12-31 05:02:11,
+200672,100214,18,12.0,Nagy-Sandhu Towers,Behind Rau-Dasgupta,Hauz Khas,jamnagar,Gujarat,887572,"21.851116159446825,76.32454266548336",True,Other,2021-03-06 07:25:24,2023-07-29 05:31:16
+200673,100214,44,8.0,Pillay-Pant Towers,Opp. Dass Ltd,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"36.57430406493797,93.52975325847709",False,Other,2021-01-19 17:46:02,
+200674,100215,27,10.0,Madan-Chandra Residency,"Beside Dyal, Bains and Bala",Pitampura,jamnagar,Gujarat,887572,"21.62661737096355,85.18204965983165",True,Work,2021-08-06 19:41:19,2024-05-27 10:09:04
+200675,100215,27,,"Narasimhan, Bail and Manne Towers","Near Barman, Yogi and Solanki",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"16.536794511988617,70.4685413396723",False,Home,2021-06-07 04:25:03,2023-11-04 18:58:10
+200676,100216,45,10.0,"Singhal, Ramakrishnan and Anne Towers",Behind Kade-Mohan,Connaught Place,jamnagar,Gujarat,887572,"9.117929010727181,95.42425282852182",True,Work,2021-12-03 05:33:44,2022-01-24 00:07:05
+200677,100216,43,3.0,"Brahmbhatt, Prabhu and Bassi Apartments",Opp. Chander PLC,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"33.404977991630275,73.7870789805568",False,Home,2021-12-26 08:20:30,
+200678,100217,21,13.0,"Sehgal, Pradhan and Jaggi Apartments",Beside Chandran-Sem,Saket,Visakhapatnam,Andhra Pradesh,780487,"26.043087306565184,75.17254664470762",True,Other,2021-07-18 07:46:59,2022-05-19 03:56:46
+200679,100218,50,26.0,"Vora, Kalla and Subramanian Complex","Koshy, Mukherjee and Chander",Greater Kailash,jamnagar,Gujarat,887572,"10.935862231521398,97.06312880475714",True,Home,2021-11-29 13:00:54,
+200680,100219,25,23.0,"Thaman, Patil and Garg Residency",Behind Pradhan-Gara,Hauz Khas,jamnagar,Gujarat,887572,"19.810350334193554,94.58012346945813",True,Home,2021-02-11 16:00:22,2024-11-15 07:35:15
+200681,100220,37,32.0,Nigam Inc Residency,"B/h. Verma, Dube and Dasgupta",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"29.398785630666048,96.28958395286516",True,Work,2021-09-17 22:26:47,2024-03-13 08:49:47
+200682,100221,44,,Tella-Doshi Residency,Opp. Barad Inc,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"12.802667572246115,88.49157380914681",True,Work,2021-10-30 04:37:22,
+200683,100221,40,,Prashad Inc Complex,Behind Devan-Sani,Lajpat Nagar,jamnagar,Gujarat,887572,"13.4897449258088,76.90325481839858",False,Work,2021-03-24 16:48:12,2024-01-16 14:19:31
+200684,100222,23,,Krishnamurthy Group Residency,Beside Balan-Karnik,Karol Bagh,jamnagar,Gujarat,887572,"10.943542212340654,78.69273040592967",True,Home,2021-09-15 15:41:37,2023-02-07 22:24:02
+200685,100223,4,30.0,Mody-Bahri Apartments,Behind Handa-Aggarwal,Dwarka,jamnagar,Gujarat,887572,"19.761426872971068,82.91316652554939",True,Home,2021-12-07 00:37:12,2023-11-30 06:50:41
+200686,100224,13,7.0,Nagar and Sons Apartments,Beside Varughese Inc,Connaught Place,jamnagar,Gujarat,887572,"12.954350837883586,71.54862422617526",True,Other,2021-09-22 18:28:10,2022-04-11 05:51:08
+200687,100225,15,36.0,Mallick-Ganesan Complex,"Srinivasan, Hans and Shanker",Dwarka,jamnagar,Gujarat,887572,"29.017739786338097,96.21242154818259",True,Work,2021-12-06 08:48:40,2024-09-01 20:43:36
+200688,100225,41,17.0,"Singhal, Kapoor and Madan Complex",B/h. Saraf-Das,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"20.154086470391675,74.41868250451314",False,Work,2021-08-22 03:55:17,2024-08-05 20:57:39
+200689,100226,10,,Sundaram PLC Residency,Suresh LLC,Dwarka,jamnagar,Gujarat,887572,"12.535724388112829,73.3075651243761",True,Other,2021-12-24 21:15:44,2023-03-19 18:15:30
+200690,100227,7,19.0,Vasa-Mallick Heights,Opp. Varughese PLC,Rohini,jamnagar,Gujarat,887572,"24.75822241395246,87.83857692478401",True,Other,2021-10-29 01:38:27,2022-06-15 15:15:59
+200691,100227,46,12.0,"Soni, Raja and Zachariah Residency","Balasubramanian, Kalla and Dua",Rohini,Visakhapatnam,Andhra Pradesh,780487,"20.22679935149155,79.46411911603664",False,Other,2021-10-29 09:35:17,2024-09-08 08:02:39
+200692,100228,14,4.0,Handa-Dutt Towers,"Opp. Deshpande, Bhagat and Deo",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"34.594994066317426,91.26465786333983",True,Work,2021-12-12 19:11:02,2024-12-11 10:12:17
+200693,100228,16,,"Andra, Sood and Dara Apartments",Behind Dora-Tripathi,Saket,jamnagar,Gujarat,887572,"16.32943586399508,88.2188986177717",False,Work,2021-05-11 10:16:50,
+200694,100229,1,21.0,"Sodhi, Bhatia and Chada Residency","Behind Venkatesh, Salvi and Edwin",South Extension,Visakhapatnam,Andhra Pradesh,780487,"30.947370111667517,87.34889310513508",True,Work,2021-12-10 07:07:30,
+200695,100230,5,,Balan LLC Towers,Opp. Peri-Rajan,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"27.704074764803742,83.22389839625926",True,Work,2021-09-28 05:31:45,2023-03-24 00:28:12
+200696,100230,15,31.0,"Kara, Dass and Krishnan Heights","Beside Contractor, Hayre and Rout",Connaught Place,jamnagar,Gujarat,887572,"17.56386431552864,76.60403469820344",False,Work,2021-09-29 14:20:30,
+200697,100231,17,12.0,Khanna and Sons Apartments,B/h. Chowdhury LLC,Connaught Place,jamnagar,Gujarat,887572,"20.901076645692708,89.26684567549769",True,Home,2021-10-22 05:35:39,
+200698,100231,50,22.0,Basu Ltd Heights,Beside Khalsa Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"8.89368406110706,95.34700598898155",False,Home,2021-12-13 09:31:45,2023-02-16 09:34:07
+200699,100232,38,38.0,Bhatti-Khosla Heights,Beside Rama Ltd,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"22.90221366618856,91.67856871022158",True,Home,2021-12-25 16:56:46,2023-11-04 18:33:12
+200700,100232,1,2.0,Apte Group Heights,"Opp. Natt, Sura and Chand",Karol Bagh,jamnagar,Gujarat,887572,"36.910716514455046,87.73324371297397",False,Home,2021-10-07 11:37:26,2022-08-19 17:14:58
+200701,100233,32,,"Mangat, Morar and Patla Apartments",Opp. Lad and Sons,South Extension,jamnagar,Gujarat,887572,"10.540114917392895,74.46097160442491",True,Home,2021-10-27 10:12:32,2021-12-19 12:57:39
+200702,100233,28,40.0,"Deol, Dass and Mukhopadhyay Towers",Beside Venkatesh and Sons,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"24.94266125038397,81.658936821601",False,Home,2021-05-03 00:30:39,2024-01-25 13:11:54
+200703,100234,31,,Butala LLC Residency,"Beside Vohra, Karan and Anand",Pitampura,jamnagar,Gujarat,887572,"34.48133379615161,75.30430602156541",True,Other,2021-12-25 13:13:37,2022-07-05 03:56:26
+200704,100234,12,,Tank and Sons Towers,Rajagopal-Aggarwal,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"9.226896442794516,96.08355627232675",False,Other,2021-07-15 09:00:03,2023-11-02 21:13:01
+200705,100235,35,35.0,Mallick-Pingle Towers,"B/h. Shan, Tailor and Dayal",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"32.94727404871696,95.42192591531976",True,Other,2021-05-20 03:32:24,2023-07-11 14:59:36
+200706,100235,45,13.0,"Lala, Sandal and Rajagopalan Apartments","Behind Prasad, Shankar and Sarraf",Connaught Place,jamnagar,Gujarat,887572,"26.794985995314505,79.61270184358722",False,Work,2021-08-20 19:51:16,
+200707,100236,44,38.0,Narula PLC Heights,Opp. Munshi PLC,Vasant Kunj,jamnagar,Gujarat,887572,"12.040925078288959,70.00418364276219",True,Home,2021-12-18 15:20:36,2022-11-13 17:54:25
+200708,100236,23,23.0,"Sood, Sharaf and Oza Towers","Beside Sankar, Tank and Swaminathan",South Extension,Visakhapatnam,Andhra Pradesh,780487,"37.40106968177422,84.7748022245198",False,Work,2021-12-15 02:51:48,2022-02-02 16:16:34
+200709,100237,31,,"Pai, Mukhopadhyay and Balasubramanian Apartments",Near Pathak-Uppal,Dwarka,jamnagar,Gujarat,887572,"20.689254926670728,84.72404158901296",True,Work,2021-11-11 16:26:59,2024-01-17 14:09:55
+200710,100237,35,28.0,Lala Ltd Towers,Beside Soni Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"25.113959025416683,85.63260126301249",False,Work,2021-09-25 12:25:47,2022-05-20 01:36:31
+200711,100238,27,25.0,"Master, Panchal and Soman Heights","Beside Rattan, Bedi and Saran",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"37.32574488361345,76.03539617056454",True,Work,2021-11-09 09:28:40,
+200712,100239,16,15.0,"Sabharwal, Ganguly and Chakrabarti Towers",Opp. Nagarajan-Chawla,Saket,Visakhapatnam,Andhra Pradesh,780487,"25.594808688626827,79.72375255515963",True,Work,2021-12-24 18:40:02,2024-03-10 20:40:25
+200713,100239,40,,Mukhopadhyay Ltd Towers,Beside Srinivasan-Sur,Connaught Place,jamnagar,Gujarat,887572,"11.60937078130075,86.82895694071875",False,Other,2021-12-30 00:15:53,2024-01-14 06:21:14
+200714,100240,45,21.0,Lad Group Residency,Near Bose Group,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"19.23208251991929,82.00291958583819",True,Home,2021-08-09 16:40:26,
+200715,100240,23,,Suresh-Hayre Complex,Opp. Gopal-Dewan,Pitampura,jamnagar,Gujarat,887572,"20.474943641521765,74.59186539298648",False,Work,2021-08-24 18:36:06,
+200716,100241,21,34.0,"Bains, Subramanian and Prasad Complex","Behind Murty, Bala and Zachariah",Mayur Vihar,jamnagar,Gujarat,887572,"25.041569846069514,78.2756469504142",True,Work,2021-07-08 17:47:46,2024-08-15 16:35:07
+200717,100242,27,16.0,Pradhan-Dhawan Heights,"B/h. Krishnamurthy, Barad and Grover",Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"16.04237652972372,94.42716358972216",True,Work,2021-07-13 06:40:38,2025-03-03 00:29:09
+200718,100242,20,5.0,Borra LLC Heights,"Behind Modi, Bali and Deol",Connaught Place,jamnagar,Gujarat,887572,"19.949240301743565,95.19448657877275",False,Other,2021-06-29 19:37:30,
+200719,100243,16,17.0,"Kaur, Chanda and Apte Heights",Behind Pandey LLC,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"16.72459539928523,85.11396359615173",True,Work,2021-06-21 02:54:55,2021-08-29 02:15:37
+200720,100243,17,,"Grewal, Barad and Chandran Complex","Opp. Banik, Kapadia and Parekh",Dwarka,jamnagar,Gujarat,887572,"14.956240229264882,85.63931385516948",False,Other,2021-11-23 11:07:02,2024-12-30 11:11:28
+200721,100244,47,14.0,"Seshadri, Ahluwalia and Walia Complex",Boase-Parmer,Mayur Vihar,jamnagar,Gujarat,887572,"23.968815192299495,90.69883207373854",True,Other,2021-11-28 13:05:48,2022-01-30 10:42:56
+200722,100244,18,,Chakrabarti-Ben Residency,Near Baria Group,Saket,Visakhapatnam,Andhra Pradesh,780487,"37.53302572154338,90.4051036484707",False,Work,2021-12-22 09:12:55,
+200723,100245,12,,"Mannan, Malhotra and Ghosh Towers","Near Nagarajan, Talwar and Kunda",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"17.9432456940388,94.37323863777453",True,Other,2021-11-21 10:14:31,2023-03-10 11:31:08
+200724,100245,19,27.0,Borra-Shroff Heights,B/h. Kalla-Dutta,Pitampura,jamnagar,Gujarat,887572,"31.77030506059281,72.46607864967396",False,Home,2021-10-29 20:01:52,
+200725,100246,3,37.0,Dass-Ben Towers,B/h. Issac-Kuruvilla,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"35.52389142715468,72.93629755047641",True,Other,2021-09-02 04:24:57,
+200726,100247,2,,Dasgupta Inc Heights,"Near Dhillon, Sahota and Ahuja",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"31.14052609318587,74.52534657605811",True,Work,2021-12-27 10:53:16,2022-05-19 14:28:36
+200727,100248,23,39.0,"Sankaran, Narayan and Wali Towers",Opp. Naidu-Loke,Rohini,jamnagar,Gujarat,887572,"25.404628144588685,86.6295268825724",True,Work,2021-12-18 18:42:46,2025-03-30 08:51:21
+200728,100248,36,6.0,"Chaudhuri, Sharaf and Madan Complex","Behind Dhar, Barman and Kothari",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"35.97594954079764,76.15416121371877",False,Work,2021-12-20 10:01:27,2023-09-10 22:37:52
+200729,100249,17,26.0,"Ahuja, Batta and Sura Towers","Opp. Mangal, Kala and Mann",Connaught Place,jamnagar,Gujarat,887572,"10.516386259394963,95.3813688570651",True,Other,2021-06-27 21:35:02,2024-01-17 01:37:51
+200730,100250,19,13.0,Mandal and Sons Towers,Opp. Hayer-Rana,Rajouri Garden,jamnagar,Gujarat,887572,"27.985856420048783,72.57514463853843",True,Home,2021-06-14 11:37:37,
+200731,100251,19,,Kata-Srinivas Towers,"Opp. Chaudhari, Dey and Saran",Malviya Nagar,jamnagar,Gujarat,887572,"11.547217835087505,77.30091078000765",True,Other,2021-11-09 14:23:34,2024-06-20 17:42:07
+200732,100251,38,26.0,Vohra-Rajan Complex,Near Banerjee-Khanna,Saket,Visakhapatnam,Andhra Pradesh,780487,"24.523332437209163,94.44086621495978",False,Other,2021-12-26 02:23:19,2023-04-29 14:28:49
+200733,100252,10,18.0,Narayan-Manne Towers,Behind Ganguly PLC,Saket,Visakhapatnam,Andhra Pradesh,780487,"12.867326640149447,91.6746895433703",True,Home,2021-04-27 20:53:03,2022-09-05 08:39:38
+200734,100252,32,19.0,"Suri, Ray and Lanka Apartments","Beside Brahmbhatt, Taneja and Biswas",South Extension,jamnagar,Gujarat,887572,"13.899050484683904,69.77176333982423",False,Home,2021-04-11 01:07:10,2022-06-25 03:26:46
+200735,100253,10,,Raju and Sons Heights,"Near Sampath, Wali and Patil",Dwarka,jamnagar,Gujarat,887572,"13.130021424591156,84.6618635937667",True,Work,2021-12-25 19:17:33,2024-07-08 21:55:30
+200736,100254,12,22.0,"Banik, Tank and Babu Residency","Opp. Buch, Bhargava and Singhal",Vasant Kunj,jamnagar,Gujarat,887572,"12.297515746900196,97.07916489114783",True,Other,2021-10-31 08:12:31,2023-07-20 07:22:41
+200737,100254,1,,Yogi-Issac Residency,B/h. Jha PLC,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"25.149613682568003,71.77789359653946",False,Home,2021-11-28 22:27:49,2023-01-16 13:23:23
+200738,100255,2,,"Mital, Dhaliwal and Seshadri Heights",Beside Mall and Sons,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"21.276417669485866,89.65750516402696",True,Home,2020-10-09 18:05:04,2024-05-22 19:43:07
+200739,100256,30,1.0,"Verma, Pal and Sharaf Towers",Beside Manne-Bhatia,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"31.05644715405206,86.10615026551777",True,Work,2021-10-08 11:49:35,2025-04-01 22:57:33
+200740,100256,21,,Lalla Group Apartments,"Opp. Aggarwal, Agarwal and Nagar",South Extension,jamnagar,Gujarat,887572,"27.139244332981832,74.71289770901373",False,Home,2021-03-17 08:11:59,2024-09-15 21:28:42
+200741,100257,15,36.0,Dhar LLC Heights,"Beside Basu, Sen and Deol",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"15.261643848181269,74.88920666748926",True,Other,2021-10-31 03:51:55,2024-06-28 06:29:59
+200742,100258,3,,Iyer Ltd Heights,Beside Viswanathan-Basak,Connaught Place,jamnagar,Gujarat,887572,"36.03920202842652,91.52729292513888",True,Other,2021-01-02 07:56:34,2021-07-24 08:03:52
+200743,100259,6,11.0,Deshpande LLC Residency,"Badami, Khosla and Palla",Hauz Khas,jamnagar,Gujarat,887572,"12.266160301462437,70.1880030051234",True,Work,2021-10-11 04:03:28,
+200744,100260,27,17.0,"Gandhi, Shere and Baral Complex",Beside Mahal-Bhatti,Greater Kailash,jamnagar,Gujarat,887572,"31.064687010545207,71.60040276270323",True,Work,2021-01-31 06:46:20,2024-07-07 02:23:02
+200745,100260,45,17.0,"Ramakrishnan, Chokshi and Narayanan Towers",Near Sagar PLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"31.370464368955908,85.85056203502916",False,Home,2021-01-13 05:34:28,2022-06-28 08:18:46
+200746,100261,25,35.0,Krishnan Ltd Residency,Behind Munshi-Cheema,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"35.27854731134044,73.09915996950191",True,Other,2021-12-26 16:44:38,2022-04-01 19:39:31
+200747,100262,22,5.0,Sastry-Bir Residency,"Opp. Padmanabhan, Verma and Viswanathan",Rohini,Visakhapatnam,Andhra Pradesh,780487,"25.884878310345222,91.61607007524128",True,Other,2021-05-31 08:49:48,2023-12-31 06:58:12
+200748,100263,25,35.0,"Chhabra, Rau and Oommen Heights",Bose-Sidhu,South Extension,jamnagar,Gujarat,887572,"35.113856494488495,89.39038755865884",True,Home,2021-01-07 07:29:32,2024-10-29 02:12:22
+200749,100263,32,,Deep and Sons Residency,Beside Dhar and Sons,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"30.86709242658516,70.8786260316592",False,Home,2021-02-14 22:26:08,
+200750,100264,6,8.0,Deshpande-Dalal Complex,"Beside Sankar, Parmar and Char",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"9.625338030477021,88.59618309808536",True,Other,2021-11-23 10:53:00,2025-04-27 20:40:59
+200751,100265,40,,Pai-Sahota Apartments,Beside Sankar-Sodhi,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"9.844925579415655,92.23602514966635",True,Work,2021-12-20 10:48:03,2025-03-16 17:03:54
+200752,100265,41,39.0,Chopra-Singhal Residency,"B/h. Pai, Goyal and Pall",Connaught Place,jamnagar,Gujarat,887572,"25.5625030545252,86.38462255986408",False,Work,2021-10-16 17:00:20,2023-05-02 10:07:09
+200753,100266,39,8.0,Sha LLC Towers,"Near Goda, Mander and Bhatti",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"13.52468438557882,94.54677283170199",True,Work,2021-08-18 11:08:22,2025-04-13 08:35:47
+200754,100267,15,12.0,Tailor-Dubey Residency,Near Rau-Lata,Rohini,jamnagar,Gujarat,887572,"33.42892635797286,72.97260793276848",True,Home,2021-09-07 01:39:41,2022-02-05 20:43:28
+200755,100268,44,17.0,Pau Group Complex,Baria Ltd,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"33.219923454351196,74.19181072932057",True,Home,2021-12-29 02:49:25,2022-02-26 22:35:26
+200756,100268,1,13.0,Nadig and Sons Residency,B/h. Nair-Madan,South Extension,jamnagar,Gujarat,887572,"17.219624103086467,93.74431949059131",False,Home,2021-12-12 15:09:14,2024-08-14 07:10:23
+200757,100269,32,38.0,"Sridhar, Malhotra and Sampath Heights",Near Kunda Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"21.967048074361973,91.66674733419194",True,Home,2021-01-19 23:56:54,2024-06-17 18:44:56
+200758,100269,40,33.0,Sangha-Bhatnagar Heights,Near Raj LLC,Lajpat Nagar,jamnagar,Gujarat,887572,"30.769790500020342,77.64248256727508",False,Other,2021-03-28 14:21:32,2025-02-09 01:52:11
+200759,100270,40,12.0,"Vaidya, Natt and Varma Towers",Beside Nori-Sama,Malviya Nagar,jamnagar,Gujarat,887572,"27.611632672762347,73.26681017692981",True,Other,2021-12-02 08:27:12,2023-10-01 00:10:56
+200760,100270,27,,Chakrabarti-Dugal Residency,Beside Ratta-Basak,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"22.94183755700012,77.80478864119401",False,Home,2021-12-30 00:28:21,
+200761,100271,37,,Raval Inc Towers,"Near Lad, Shroff and Raman",Rajouri Garden,jamnagar,Gujarat,887572,"20.061530099803647,84.19513986997353",True,Home,2021-12-25 18:28:34,2022-03-07 05:57:00
+200762,100271,9,,Kapur-Pall Heights,Behind Sibal-Viswanathan,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"35.481436295836446,73.00846268733373",False,Work,2021-03-15 05:27:47,
+200763,100272,50,3.0,Maharaj-Lata Residency,Behind Bora-Jhaveri,Rohini,Visakhapatnam,Andhra Pradesh,780487,"17.621495375913117,87.68119697881716",True,Other,2021-04-23 01:22:43,2024-05-30 13:26:58
+200764,100272,28,,"Kibe, Sha and Nagar Residency",Palla-Chaudhari,Karol Bagh,jamnagar,Gujarat,887572,"13.432925755819003,86.47017639639715",False,Work,2021-11-02 04:41:43,2022-04-30 17:59:51
+200765,100273,3,5.0,"Dhawan, Mukhopadhyay and Muni Heights",Bala-Saha,South Extension,Visakhapatnam,Andhra Pradesh,780487,"26.606269423810126,69.47278697231464",True,Other,2021-09-14 12:45:24,2021-09-19 14:40:33
+200766,100274,13,,"Walla, Mitter and Ganesh Apartments",Opp. Yohannan-Issac,Malviya Nagar,jamnagar,Gujarat,887572,"24.118645386399827,93.00556459691208",True,Home,2021-10-23 23:42:22,
+200767,100275,15,11.0,Sami-Madan Apartments,Randhawa-Khatri,Connaught Place,jamnagar,Gujarat,887572,"13.561982503791965,73.03503227117668",True,Home,2021-12-25 12:03:43,2022-07-24 23:00:24
+200768,100275,24,33.0,Vohra-Rajan Apartments,Mand Group,Rohini,Visakhapatnam,Andhra Pradesh,780487,"24.11913105910039,93.53079721392555",False,Other,2021-07-07 02:10:16,2023-04-16 03:09:26
+200769,100276,26,,Kannan Group Apartments,"Near Chaudhry, Viswanathan and Tripathi",Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"25.419194620879516,83.85543341508328",True,Work,2021-07-30 22:47:01,2024-09-14 03:28:43
+200770,100276,4,20.0,Kapur-Palla Residency,Aurora-Narasimhan,Saket,jamnagar,Gujarat,887572,"9.643342947979894,79.78502658957416",False,Other,2021-08-18 16:37:09,2022-01-08 10:07:47
+200771,100277,29,31.0,Baral-Naik Residency,B/h. Prashad Inc,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"17.956933175455042,89.73418268934806",True,Work,2021-12-31 06:07:00,2022-04-20 02:39:04
+200772,100277,19,26.0,"Srivastava, Samra and Babu Heights",Som PLC,Connaught Place,jamnagar,Gujarat,887572,"25.797165524304333,89.37649443441293",False,Home,2021-10-26 02:16:05,
+200773,100278,8,28.0,Nigam-Viswanathan Residency,Opp. Dube-Jani,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"14.044591776611167,69.1884262560008",True,Other,2020-10-12 05:06:33,
+200774,100279,11,35.0,Mistry-Nagarajan Residency,"Near Jayaraman, Chanda and Tata",South Extension,Visakhapatnam,Andhra Pradesh,780487,"29.795976556684437,95.4702188819001",True,Other,2021-08-26 02:46:15,2023-07-03 05:03:04
+200775,100279,45,6.0,"Ramakrishnan, Dhar and Dube Towers","Behind Pillay, Tandon and Vala",Pitampura,jamnagar,Gujarat,887572,"12.879988006511065,90.40803268625194",False,Other,2021-06-03 13:34:07,2024-06-10 18:20:39
+200776,100280,18,34.0,Kuruvilla Group Apartments,"Rege, Barman and Thakur",Dwarka,jamnagar,Gujarat,887572,"23.399668157030803,74.38608891938637",True,Other,2021-11-20 13:49:32,2023-07-27 03:14:27
+200777,100280,4,,Palla-Nath Towers,Beside Talwar-Sethi,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"9.01135369192819,88.34779291468374",False,Home,2021-11-03 19:17:26,2022-04-10 08:41:29
+200778,100281,1,13.0,Nadkarni Ltd Residency,Behind Walia-Toor,Rohini,Visakhapatnam,Andhra Pradesh,780487,"14.047040241092274,80.00664700629682",True,Home,2021-11-02 05:53:51,
+200779,100282,3,12.0,Sharaf-Gokhale Heights,Opp. Bora-Patel,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"23.86023670624955,75.40763155853556",True,Other,2021-07-11 22:57:32,
+200780,100282,23,11.0,Bahl and Sons Towers,Behind Agrawal and Sons,Dwarka,jamnagar,Gujarat,887572,"27.67155494338214,84.81805212837902",False,Other,2021-11-20 22:01:20,
+200781,100283,26,28.0,"Thakur, Chauhan and Tiwari Residency","Beside Borra, Bera and Singh",Hauz Khas,jamnagar,Gujarat,887572,"21.135513833612364,75.66807363361147",True,Home,2021-10-30 00:00:09,
+200782,100283,36,14.0,Zacharia-Kapadia Complex,Behind Mistry-Ganguly,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"19.652644277041468,91.2431880276867",False,Home,2021-10-10 14:29:07,
+200783,100284,27,6.0,Kade PLC Complex,B/h. Sawhney-Sha,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"11.730105753180133,86.71807513354133",True,Other,2021-08-30 06:21:26,2024-05-13 23:35:38
+200784,100284,49,26.0,Chawla and Sons Residency,Beside Vohra Group,Pitampura,jamnagar,Gujarat,887572,"11.458841681753835,81.09222571301372",False,Work,2021-10-20 00:24:19,2024-10-13 08:14:16
+200785,100285,1,13.0,"Pillay, Cherian and Natarajan Residency","Uppal, Dutta and Sarin",Janakpuri,jamnagar,Gujarat,887572,"31.50017668142958,74.44212116559571",True,Home,2021-08-03 10:20:15,2023-03-21 09:50:46
+200786,100286,7,33.0,Walla-Rai Residency,B/h. Radhakrishnan-Dash,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"13.85558096664942,89.74629263790304",True,Other,2021-11-08 08:58:56,2022-08-14 18:38:43
+200787,100287,31,2.0,Tailor Ltd Towers,Beside Som Ltd,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"19.66076816300437,87.27584676847206",True,Work,2021-09-07 19:47:34,2024-09-29 04:15:49
+200788,100287,47,38.0,Ahuja Group Residency,Near Doshi and Sons,Malviya Nagar,jamnagar,Gujarat,887572,"34.64653554918249,84.06635988370748",False,Home,2021-07-01 20:04:43,2024-12-09 00:03:10
+200789,100288,16,40.0,"Mahajan, Gaba and Patla Residency",Beside Mohanty-Chaudry,Lajpat Nagar,jamnagar,Gujarat,887572,"21.382164683419887,80.39840697187213",True,Work,2021-10-27 05:50:11,2024-09-17 22:51:05
+200790,100288,45,,"Garg, Patel and Issac Complex",Beside Saha-Dada,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"33.314280858417135,87.06483040675832",False,Other,2021-10-18 18:44:38,2024-04-17 06:23:36
+200791,100289,43,2.0,"Sarraf, Barad and Hegde Residency",Chadha-Salvi,Karol Bagh,jamnagar,Gujarat,887572,"19.404615360232235,88.56883479109322",True,Work,2021-10-15 12:18:20,2021-11-24 13:05:58
+200792,100289,49,,Badami-Saha Heights,Behind Srivastava-Mohanty,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"11.150663096012783,77.94085793306385",False,Home,2021-12-23 10:31:29,2024-01-07 16:52:55
+200793,100290,38,11.0,Ahuja PLC Heights,B/h. Kala and Sons,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"25.988443955530215,87.86168864461544",True,Other,2020-08-26 22:10:13,2024-12-18 15:05:19
+200794,100290,49,20.0,"Date, Bajwa and Gola Residency","Behind Barman, Zachariah and Mani",Mayur Vihar,jamnagar,Gujarat,887572,"26.148629345418996,81.40622906651156",False,Other,2021-01-25 03:17:27,2025-02-03 21:10:16
+200795,100291,27,20.0,Dhillon Inc Apartments,"Beside Yohannan, Ganguly and Chandra",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"26.46708798984909,82.53051118229702",True,Other,2021-09-23 17:29:58,
+200796,100291,39,32.0,Gola LLC Heights,Behind Khanna-Dass,Rohini,jamnagar,Gujarat,887572,"28.4190507951376,92.98486486488162",False,Work,2021-10-04 16:45:41,2022-08-19 21:20:38
+200797,100292,33,,Basu and Sons Complex,Behind Chaudhari-Khatri,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"17.226254079388838,80.43272208006186",True,Home,2021-02-09 13:10:30,
+200798,100293,34,22.0,Dube PLC Residency,"Beside Bhattacharyya, Goda and Naik",Greater Kailash,jamnagar,Gujarat,887572,"25.380529186605635,91.78059836717972",True,Home,2021-11-27 18:00:48,2022-11-16 07:30:58
+200799,100293,19,35.0,Subramanian PLC Apartments,B/h. Bhatt-Ganesh,South Extension,Visakhapatnam,Andhra Pradesh,780487,"17.628283207777056,91.32117107600492",False,Home,2021-09-19 18:25:59,2023-02-27 01:03:21
+200800,100294,26,21.0,Varghese Inc Residency,Near Sandhu Ltd,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"34.318788620891326,69.5964424545538",True,Work,2021-06-26 11:09:43,
+200801,100294,30,,Ranganathan-Krishnan Towers,B/h. Dutta PLC,Janakpuri,jamnagar,Gujarat,887572,"25.97341591068036,70.44744698938825",False,Other,2021-07-03 06:32:40,
+200802,100295,17,7.0,"Bhatti, Sane and Hari Residency",Near Palan and Sons,Janakpuri,jamnagar,Gujarat,887572,"34.015986881829946,85.06298702404496",True,Home,2021-09-26 01:28:59,2022-06-18 01:03:25
+200803,100295,3,20.0,Nath Inc Complex,Behind Reddy-Sawhney,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"26.4705476237396,89.73830498475508",False,Work,2021-12-17 06:27:23,2022-01-26 23:31:40
+200804,100296,7,27.0,Sahota LLC Residency,Near Raghavan Inc,Dwarka,jamnagar,Gujarat,887572,"35.42326674488064,81.46408230070803",True,Work,2021-11-03 18:19:56,2023-12-24 12:17:32
+200805,100296,4,,Dani Ltd Apartments,Saxena Group,Rohini,Visakhapatnam,Andhra Pradesh,780487,"29.42995240836604,90.39149890452964",False,Work,2021-08-14 05:51:02,
+200806,100297,23,2.0,Rao Inc Heights,Beside Nadig-Chauhan,South Extension,Visakhapatnam,Andhra Pradesh,780487,"11.235068976077272,76.15324123840857",True,Other,2020-12-20 19:11:04,
+200807,100297,29,19.0,"Munshi, Wali and Pant Towers","Beside Narayan, Kata and Deol",Lajpat Nagar,jamnagar,Gujarat,887572,"9.912160389702656,90.43140402287085",False,Other,2020-11-17 07:14:07,2022-08-23 01:27:05
+200808,100298,8,11.0,"Barad, Dewan and Pau Towers",Wali-Jaggi,Hauz Khas,jamnagar,Gujarat,887572,"9.419648546814294,71.92610944968251",True,Home,2021-11-11 04:40:58,2022-03-13 01:17:28
+200809,100298,45,,Shukla Inc Residency,B/h. Sur Inc,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"17.032291001439614,95.81376157151848",False,Work,2021-10-19 18:42:08,
+200810,100299,3,18.0,Mukhopadhyay-Dewan Heights,"Beside Agate, Samra and Parekh",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"34.7496973568981,80.14481769552961",True,Work,2021-09-27 06:35:23,
+200811,100299,3,9.0,"Sarna, Sampath and Joshi Apartments",B/h. Kannan Ltd,Rajouri Garden,jamnagar,Gujarat,887572,"18.450435416768713,85.75452875571821",False,Work,2021-09-07 23:03:08,
+200812,100300,50,,Merchant PLC Residency,"Near Parmer, Sani and Vyas",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"8.631100381077292,75.43528304100957",True,Other,2021-12-04 13:37:57,2022-05-21 05:03:49
+200813,100300,19,2.0,Gola-Dhingra Heights,Beside Krish and Sons,South Extension,jamnagar,Gujarat,887572,"22.42768921779382,79.80017249671397",False,Other,2021-12-30 12:03:20,
+200814,100301,24,39.0,Kumar-Malhotra Towers,B/h. Tailor Inc,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"11.214556029175313,92.22775468452015",True,Home,2021-11-14 10:29:16,2024-12-25 06:02:24
+200815,100301,21,,Naidu-Ramesh Apartments,Opp. Mani Group,South Extension,jamnagar,Gujarat,887572,"18.12409457323478,78.62678228786966",False,Home,2021-05-11 07:56:51,
+200816,100302,4,,Wali Inc Residency,Beside Sinha Ltd,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"27.62563136962934,95.72271359160246",True,Home,2021-10-19 02:39:04,2022-10-26 22:46:45
+200817,100302,50,10.0,Khanna-Shah Towers,Beside Narasimhan-Sathe,Dwarka,jamnagar,Gujarat,887572,"20.82748165245433,76.4284834187839",False,Other,2021-10-06 16:52:46,2024-12-13 03:42:15
+200818,100303,40,21.0,"Yadav, Ramachandran and Anne Heights",Behind Raval and Sons,Rohini,Visakhapatnam,Andhra Pradesh,780487,"13.392300335195538,85.38621693505601",True,Work,2021-02-15 23:02:02,
+200819,100304,9,21.0,Deo-Kade Apartments,"Beside Batra, Bajaj and Bal",Connaught Place,jamnagar,Gujarat,887572,"36.94295222065469,78.0555991051211",True,Work,2021-01-25 03:45:59,2022-11-26 23:12:29
+200820,100304,29,,Ramachandran PLC Heights,Near Kalla-Majumdar,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"33.26904078269435,70.04652101972282",False,Work,2021-04-23 11:50:35,2023-02-15 03:34:28
+200821,100305,29,18.0,Brar-Kulkarni Towers,"Opp. Koshy, Varkey and Bal",Hauz Khas,jamnagar,Gujarat,887572,"19.09074730759825,74.83322353163032",True,Home,2021-02-05 01:03:00,
+200822,100305,34,19.0,Parmar PLC Apartments,"Beside Srinivasan, Kala and Dass",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"18.80708783680919,77.27300130427972",False,Other,2021-11-08 12:51:55,2023-11-12 19:48:06
+200823,100306,19,39.0,"Munshi, Walla and Pillai Residency","Near Rege, Naik and Kala",Rohini,Visakhapatnam,Andhra Pradesh,780487,"15.15594586029088,83.27606285404198",True,Home,2021-10-17 19:36:38,
+200824,100306,8,27.0,Banerjee-Natarajan Apartments,Near Kakar-Purohit,Greater Kailash,jamnagar,Gujarat,887572,"14.270345853251673,92.26797611411693",False,Other,2020-12-09 18:36:46,2023-07-31 00:42:27
+200825,100307,28,33.0,Gala PLC Towers,"Behind Batta, Oommen and Barad",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"34.37703366214343,91.88502850930041",True,Other,2021-12-07 14:49:33,
+200826,100308,31,13.0,Gupta-Doshi Apartments,"B/h. Comar, Virk and Yohannan",Mayur Vihar,jamnagar,Gujarat,887572,"24.601676794111818,73.95190060713094",True,Other,2021-12-22 20:55:27,
+200827,100309,8,20.0,Saini Ltd Towers,B/h. Bajwa-Sengupta,Mayur Vihar,jamnagar,Gujarat,887572,"27.698099814437633,95.15392109489697",True,Other,2021-05-23 09:12:12,
+200828,100310,4,,Dash Group Complex,Near Pal-Lanka,Rohini,jamnagar,Gujarat,887572,"20.805788812177816,82.35735430208712",True,Work,2021-05-13 06:43:47,
+200829,100310,25,31.0,Mitter-Dora Towers,Viswanathan-Dara,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"35.65864861866452,85.6155857022778",False,Work,2020-08-14 18:44:47,2021-03-12 06:53:03
+200830,100311,20,,Sem-Gaba Towers,"Opp. Mukhopadhyay, Toor and Saraf",Lajpat Nagar,jamnagar,Gujarat,887572,"26.054355511123532,76.03599475451715",True,Work,2021-12-20 04:24:17,2022-10-26 10:15:50
+200831,100312,17,22.0,Thaker Ltd Apartments,Behind Deep LLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"25.193374522823447,91.26296834072288",True,Other,2021-09-28 19:13:28,
+200832,100312,4,36.0,"Comar, Gola and Mand Heights",Beside Sodhi-Dyal,Vasant Kunj,jamnagar,Gujarat,887572,"25.261231718177257,83.8683784660998",False,Home,2021-11-16 09:52:22,2023-03-23 01:57:24
+200833,100313,46,7.0,"Shan, Jaggi and Nori Apartments",Behind Raman Group,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"20.360283510210195,83.60501916478606",True,Work,2021-07-16 18:55:04,
+200834,100313,19,33.0,"Zacharia, Dhillon and Munshi Complex","B/h. Koshy, Choudhry and Contractor",Lajpat Nagar,jamnagar,Gujarat,887572,"30.33161122965486,94.42195143486623",False,Other,2021-11-06 01:11:38,2022-11-25 04:30:36
+200835,100314,38,11.0,"Pathak, Banerjee and Lata Complex","B/h. Mani, Khurana and Virk",Mayur Vihar,jamnagar,Gujarat,887572,"31.0338054387504,82.69744521291064",True,Other,2020-11-04 09:27:30,2022-01-23 17:28:16
+200836,100314,23,9.0,"Wagle, Varkey and Sheth Complex",Nazareth and Sons,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"33.00354101133499,70.1658178412522",False,Home,2021-09-27 10:32:59,
+200837,100315,38,35.0,Kaul-Memon Complex,Basak PLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"27.74717819016626,86.7207623238995",True,Home,2021-09-19 00:16:44,2022-06-12 13:21:02
+200838,100315,20,13.0,"Krish, Agate and Nagar Complex",Beside Cherian-Yogi,Rajouri Garden,jamnagar,Gujarat,887572,"10.79291925649319,69.1107976622423",False,Work,2020-09-25 16:25:46,2021-02-12 21:18:14
+200839,100316,20,17.0,Barman Ltd Heights,"Near Karnik, Sarin and Bhargava",Hauz Khas,jamnagar,Gujarat,887572,"16.163575750651262,95.1362962188904",True,Work,2021-12-14 00:31:35,2022-05-01 22:00:18
+200840,100316,11,26.0,Sankar-Cheema Complex,"Near Butala, Mallick and Misra",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"13.72097614409542,74.91355931662378",False,Home,2021-12-27 09:59:01,
+200841,100317,22,35.0,"Deep, Pandya and Yohannan Apartments",Near Bains-Devi,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"15.576241336798923,96.85234124210278",True,Work,2021-04-17 01:42:10,2022-12-16 11:52:17
+200842,100317,6,,"Shroff, Jani and Khanna Heights",Behind Nair-Jani,Saket,jamnagar,Gujarat,887572,"34.3152326164777,69.34705489215789",False,Other,2021-12-23 20:23:21,2025-01-21 09:47:13
+200843,100318,37,11.0,Rajagopal PLC Apartments,"Beside Datta, Bains and Gara",Pitampura,jamnagar,Gujarat,887572,"25.251092047782443,79.27510630869145",True,Home,2021-12-29 12:33:10,2022-08-04 06:41:53
+200844,100318,28,38.0,Sami-Pathak Residency,Opp. Bora-Bhatti,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"31.448104254239276,71.25323420300721",False,Other,2021-10-05 01:21:52,2023-06-29 08:07:56
+200845,100319,35,30.0,"Nagarajan, Sha and Nagy Apartments",Ramachandran Group,Rohini,Visakhapatnam,Andhra Pradesh,780487,"14.09863900314917,87.92370138328371",True,Home,2021-01-10 03:21:48,2025-01-08 01:54:15
+200846,100319,8,,"Sachar, Rattan and Choudhry Residency",Behind Mahal-Patla,Connaught Place,jamnagar,Gujarat,887572,"8.704708800164592,96.06591579158514",False,Other,2021-12-16 07:17:26,
+200847,100320,31,21.0,Warrior PLC Heights,"Near Apte, Prabhu and Bassi",Vasant Kunj,jamnagar,Gujarat,887572,"29.52640281063679,69.90659540546521",True,Home,2021-12-19 09:58:16,2022-07-08 05:26:03
+200848,100320,21,7.0,Shenoy-Saraf Complex,Suresh Inc,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"9.647321735884892,78.05698484623024",False,Home,2021-08-13 07:24:40,
+200849,100321,30,,Pandey Ltd Apartments,"B/h. Varty, Bhatnagar and Apte",Rajouri Garden,jamnagar,Gujarat,887572,"28.757071900488313,91.1693580877635",True,Work,2021-07-22 22:14:59,
+200850,100321,49,29.0,"Lanka, Manne and Kurian Apartments","Opp. Bail, Chawla and Gulati",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"18.581425566092015,89.27382893650322",False,Work,2021-04-26 04:15:59,2022-06-11 06:16:35
+200851,100322,23,,Vig-Sura Complex,Near Kala-Thakur,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"8.6077404849055,78.23180018363132",True,Work,2021-09-22 23:10:24,2022-11-05 10:18:09
+200852,100323,6,19.0,Vig-Bala Towers,"Ghose, Pandya and Shenoy",Vasant Kunj,jamnagar,Gujarat,887572,"10.90968798845497,78.24461478497909",True,Work,2021-10-04 16:00:24,2024-03-21 17:55:38
+200853,100323,16,37.0,"Memon, Sahni and Ramaswamy Residency",B/h. Guha and Sons,Rohini,Visakhapatnam,Andhra Pradesh,780487,"31.463734090438827,72.00295421139174",False,Work,2021-12-30 05:21:50,
+200854,100324,44,9.0,"Nath, Raju and Nagy Complex",Opp. Mody-Kanda,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"22.59584426958825,81.74551519903794",True,Home,2021-04-09 07:44:31,2024-07-20 21:35:35
+200855,100324,27,25.0,Magar-Agarwal Towers,Near Mane LLC,Rohini,jamnagar,Gujarat,887572,"35.09208768965096,77.12182934027832",False,Other,2021-10-15 12:10:49,
+200856,100325,17,,Samra Inc Towers,"Near Pradhan, Muni and Rout",Saket,Visakhapatnam,Andhra Pradesh,780487,"34.48439930872186,86.49955014196391",True,Other,2021-12-05 11:13:37,2022-07-14 16:20:37
+200857,100325,21,14.0,Baral-Verma Heights,Behind Nanda and Sons,Mayur Vihar,jamnagar,Gujarat,887572,"32.289550210062814,94.93876654434169",False,Work,2021-09-07 21:18:26,2022-01-04 07:46:14
+200858,100326,24,3.0,Gera-Halder Residency,Nadkarni-Samra,Janakpuri,jamnagar,Gujarat,887572,"24.368397775558343,72.56478258223345",True,Home,2021-07-05 18:02:10,
+200859,100327,32,28.0,Mammen and Sons Residency,Behind Dasgupta-Grewal,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"11.391498888196615,86.79384820460606",True,Other,2021-03-16 20:53:21,
+200860,100328,34,15.0,"Walia, Chaudhuri and Raja Complex",B/h. Char Group,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"14.573306678650516,69.3169009355909",True,Work,2021-12-25 04:27:35,2024-06-22 20:26:21
+200861,100329,27,17.0,Pal-Babu Complex,"Sachdev, Arya and Vig",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"35.26008620340331,84.96401576294859",True,Home,2021-11-30 06:07:20,2022-03-04 08:32:36
+200862,100330,40,18.0,Bhat LLC Heights,"B/h. Barad, Rau and Saini",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"33.38581579805781,75.47004682071183",True,Work,2021-05-24 20:27:47,2024-08-21 05:02:30
+200863,100330,30,,"Sagar, Prabhu and Edwin Towers",Near Krishnamurthy LLC,Pitampura,jamnagar,Gujarat,887572,"16.163755908141784,74.3113879710983",False,Other,2021-04-16 15:00:44,2025-02-25 11:49:34
+200864,100331,36,7.0,"Prasad, Saraf and Choudhry Towers",B/h. Merchant Ltd,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"29.448624315540975,92.36794713327681",True,Home,2020-11-25 08:16:43,2024-11-10 21:58:19
+200865,100331,14,34.0,Nazareth PLC Apartments,"Behind Narang, Dada and Badal",Pitampura,jamnagar,Gujarat,887572,"14.401955694054067,82.11545314381273",False,Other,2021-04-27 23:13:58,2022-10-08 22:24:46
+200866,100332,15,14.0,Chatterjee Inc Towers,B/h. Murty LLC,Hauz Khas,jamnagar,Gujarat,887572,"22.26697283629781,69.09754619284998",True,Work,2021-12-27 11:48:22,
+200867,100332,46,,Roy Inc Apartments,Behind Sinha PLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"11.691338857328319,95.86572217059876",False,Home,2021-10-17 06:21:47,2022-11-21 02:34:51
+200868,100333,27,12.0,Balan-Deep Complex,Opp. Patel Ltd,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"12.290615673225222,76.25168552982672",True,Home,2021-04-08 17:07:13,2022-03-14 20:39:06
+200869,100333,17,,"Sarin, Gera and Palan Residency",Opp. Ramaswamy-Chandran,Rajouri Garden,jamnagar,Gujarat,887572,"10.881781514342299,69.69497343543769",False,Other,2021-11-30 18:46:33,2024-06-04 22:10:56
+200870,100334,9,,Aggarwal-Samra Heights,Near Nagarajan-Keer,Saket,Visakhapatnam,Andhra Pradesh,780487,"10.052635436150894,88.40353352148125",True,Other,2021-12-24 15:35:58,2024-07-15 02:18:23
+200871,100334,46,,Kamdar Group Complex,Opp. Deep-Nori,Dwarka,jamnagar,Gujarat,887572,"16.305099720060507,97.1880646339905",False,Home,2021-12-13 13:41:21,2022-01-16 17:17:26
+200872,100335,5,,Basak-Iyengar Towers,"Raman, Zacharia and Jaggi",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"17.43933827642119,95.9581552185791",True,Home,2021-11-07 12:05:33,
+200873,100335,18,30.0,Bhat Ltd Apartments,"Behind Iyer, Sharaf and Guha",Greater Kailash,jamnagar,Gujarat,887572,"29.87305830638268,82.25181258925585",False,Other,2021-12-20 22:09:14,2022-07-13 02:39:29
+200874,100336,37,12.0,Bera and Sons Residency,B/h. Sabharwal LLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"37.36218881967262,92.73858338611964",True,Home,2021-08-19 13:08:37,
+200875,100336,1,,Nazareth Inc Residency,"Opp. Bhalla, Borah and Chadha",Karol Bagh,jamnagar,Gujarat,887572,"11.310620316491745,83.9334064189485",False,Other,2021-07-19 12:17:10,
+200876,100337,20,28.0,Rajan LLC Apartments,"Kata, Ahluwalia and Pillay",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"14.681277175751383,82.25814207973016",True,Home,2020-11-14 22:22:51,2021-11-16 03:11:58
+200877,100338,45,4.0,Devan and Sons Residency,Near Kuruvilla-Rajan,Saket,jamnagar,Gujarat,887572,"25.761059097859693,90.95280627998457",True,Home,2021-12-04 10:54:32,2022-09-26 07:42:39
+200878,100338,27,5.0,Pai Group Complex,B/h. Johal-Prasad,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"20.350688660043005,84.22267389897893",False,Home,2021-12-26 18:27:14,
+200879,100339,31,2.0,Johal-Zachariah Apartments,Near Kibe-Khurana,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"15.507134267595376,78.22251998129667",True,Other,2021-12-26 16:21:16,2022-08-04 12:26:55
+200880,100339,2,14.0,D’Alia Ltd Complex,Beside Srinivas-Karan,Connaught Place,jamnagar,Gujarat,887572,"13.933591514654076,90.93166659390954",False,Other,2021-11-24 12:35:58,2024-08-21 19:27:48
+200881,100340,6,,Khurana Inc Complex,Beside Patla and Sons,Lajpat Nagar,jamnagar,Gujarat,887572,"9.604688287546757,83.24097437778957",True,Home,2021-12-23 08:34:03,2022-05-15 23:49:03
+200882,100341,10,,Gole LLC Apartments,"B/h. Kamdar, Singhal and Mani",Rohini,jamnagar,Gujarat,887572,"33.80805233809233,88.96893610345336",True,Work,2021-08-20 11:29:58,2022-12-17 13:03:57
+200883,100341,8,8.0,Saraf-Chana Complex,Opp. Merchant-Chatterjee,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"31.986097933277875,96.2339922890283",False,Work,2021-08-24 21:26:08,2022-01-06 12:32:50
+200884,100342,17,27.0,Dara Inc Apartments,"Opp. Vora, Manne and Pall",Mayur Vihar,jamnagar,Gujarat,887572,"14.987020341900191,77.30880652680267",True,Home,2021-12-28 20:36:40,
+200885,100342,10,,Purohit-Lal Towers,Near Swamy-Garg,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"18.395779577550623,74.82893788642883",False,Other,2021-12-23 13:03:12,
+200886,100343,10,2.0,Sandhu-Kara Complex,B/h. Karnik-Dewan,South Extension,jamnagar,Gujarat,887572,"30.06370830863827,81.43551565317978",True,Work,2021-09-10 19:26:37,2022-09-24 20:07:52
+200887,100344,40,,"Murty, Dhar and Kumar Residency","Beside Gokhale, Master and Pau",Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"26.66488967471696,77.71626901845903",True,Home,2021-11-27 16:35:59,2024-12-16 01:35:55
+200888,100344,31,30.0,Om PLC Complex,B/h. Narang-Parmar,Greater Kailash,jamnagar,Gujarat,887572,"24.669987847685128,96.40809873948066",False,Other,2021-08-30 04:24:31,
+200889,100345,45,35.0,Sastry LLC Heights,Near Deo and Sons,Karol Bagh,jamnagar,Gujarat,887572,"9.482017143348354,71.71969627838494",True,Other,2021-09-29 18:39:09,2024-11-27 13:05:40
+200890,100345,21,35.0,Chatterjee Ltd Complex,"Near Dube, Babu and Khatri",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"31.918357319773122,84.13106375297937",False,Work,2021-12-10 00:42:41,2023-06-29 06:59:29
+200891,100346,19,35.0,Oza-Nagarajan Towers,"B/h. Shah, Taneja and Pandey",Pitampura,jamnagar,Gujarat,887572,"24.635275853398653,91.28772397294621",True,Other,2021-08-08 15:39:35,2021-11-11 17:48:42
+200892,100346,9,,Gopal LLC Towers,Near Wali-Kant,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"8.682411225183582,83.70356448655306",False,Work,2021-08-07 22:46:02,2024-05-19 22:05:57
+200893,100347,33,29.0,Goda-Karpe Complex,Near Bhasin and Sons,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"11.59843543096708,69.62870295352758",True,Work,2021-12-16 20:46:29,2023-08-13 23:41:09
+200894,100348,9,,Bhatti Group Heights,Near Sridhar-Venkataraman,Saket,Visakhapatnam,Andhra Pradesh,780487,"20.18698654086436,89.74069488108266",True,Other,2021-12-14 02:39:52,2023-07-22 00:53:38
+200895,100348,50,13.0,"Narayanan, Tiwari and Kohli Towers",Behind Thaman-Joshi,Greater Kailash,jamnagar,Gujarat,887572,"26.659555346767903,92.499443393463",False,Work,2021-12-14 01:00:52,2025-03-15 10:04:03
+200896,100349,35,,"Rout, Thaker and Vora Towers",B/h. Modi and Sons,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"35.98082822976299,69.81552547510002",True,Home,2021-06-27 19:27:29,
+200897,100349,37,27.0,"Mane, Kapur and Dara Heights",B/h. Bains-Mittal,Karol Bagh,jamnagar,Gujarat,887572,"13.87475636841803,89.09657392598501",False,Home,2021-06-23 02:10:24,
+200898,100350,13,32.0,Borde Inc Residency,"Near Lad, Kara and Dubey",Rohini,jamnagar,Gujarat,887572,"34.757741394657806,68.74254215125319",True,Home,2021-10-17 04:20:48,2025-01-19 07:25:04
+200899,100351,4,,Kapoor-Sathe Complex,Behind Arora-Patla,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"15.661071184007524,77.0277726142468",True,Other,2021-10-26 12:19:36,2024-10-14 01:45:00
+200900,100352,16,40.0,"Sankaran, Goswami and Palla Apartments",Near Kaul Ltd,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"23.61589450459725,90.62976740722385",True,Other,2021-12-18 21:04:54,2024-09-26 09:55:04
+200901,100352,8,,"Sarin, Narasimhan and Choudhary Towers",Near Banik-Deshpande,Saket,jamnagar,Gujarat,887572,"25.325635742279836,93.13520166113057",False,Home,2021-11-28 16:33:38,2022-04-01 13:10:10
+200902,100353,41,,Nayar PLC Residency,Opp. Prashad PLC,Malviya Nagar,jamnagar,Gujarat,887572,"22.838585837818776,95.3605269010373",True,Other,2020-12-16 04:18:20,2021-03-07 01:55:02
+200903,100353,44,37.0,Shenoy-Varughese Towers,Shankar-Sharma,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"26.439056787685296,79.78324081900922",False,Other,2021-03-12 23:37:26,2024-12-28 22:08:09
+200904,100354,20,6.0,Balakrishnan LLC Complex,"Beside Banik, Kunda and Bawa",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"37.59926819454123,79.79189982111116",True,Home,2021-11-25 12:12:31,
+200905,100354,39,38.0,Pai PLC Complex,B/h. Iyer-Varty,Malviya Nagar,jamnagar,Gujarat,887572,"14.79824802035095,81.10674612179433",False,Home,2021-10-19 19:35:42,2024-10-03 20:20:52
+200906,100355,29,,Sarraf Ltd Apartments,"Behind Dayal, Boase and Sani",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"10.886758501049506,71.33993051167177",True,Other,2021-04-16 13:11:24,2023-11-11 16:08:42
+200907,100356,45,,Bhagat and Sons Complex,Opp. Bera-Maharaj,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"25.141268409157547,91.67863489071473",True,Home,2021-12-05 19:17:41,2023-05-29 08:51:02
+200908,100356,13,1.0,Mitra Group Apartments,B/h. Desai-Balan,Vasant Kunj,jamnagar,Gujarat,887572,"17.859104554869702,75.52840374618253",False,Work,2021-11-28 20:46:25,2023-01-23 00:22:17
+200909,100357,21,37.0,"Koshy, Nair and Virk Complex",Behind Uppal PLC,South Extension,Visakhapatnam,Andhra Pradesh,780487,"16.674799735803425,94.12579555400261",True,Work,2021-11-02 00:21:27,2022-05-28 01:34:50
+200910,100357,28,4.0,Chokshi-Mallick Apartments,Near Pandey and Sons,Janakpuri,jamnagar,Gujarat,887572,"12.428086848529423,93.8592471486712",False,Other,2021-10-17 22:24:36,
+200911,100358,46,6.0,Joshi-Nagi Complex,Opp. Dhar-Barad,Rajouri Garden,jamnagar,Gujarat,887572,"12.422964989069502,75.05215250816812",True,Work,2021-12-11 05:55:46,2023-05-08 01:33:35
+200912,100359,1,,Ahluwalia PLC Towers,Opp. Nayak-Mukherjee,Saket,Visakhapatnam,Andhra Pradesh,780487,"23.901650727705643,82.99775761686843",True,Home,2021-07-18 12:37:02,2024-11-04 04:15:57
+200913,100359,45,9.0,"Sawhney, Goyal and Malhotra Towers",Opp. Puri-Sura,Hauz Khas,jamnagar,Gujarat,887572,"35.05208703926594,86.8913028845214",False,Home,2021-04-07 06:34:28,2024-11-20 00:09:55
+200914,100360,15,30.0,Desai-Sule Apartments,Near Padmanabhan Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"10.945945705894637,86.39400356489212",True,Other,2021-11-08 06:56:08,2024-03-18 00:06:16
+200915,100361,45,36.0,Ben-Kant Apartments,"Basak, Ghosh and Majumdar",Karol Bagh,jamnagar,Gujarat,887572,"35.7974288316648,86.63915804396929",True,Other,2021-11-14 11:53:41,2021-12-09 14:26:24
+200916,100361,23,19.0,"Rege, Yadav and Jayaraman Towers",Near Mitra-Mane,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"9.325848655226094,81.9657079985448",False,Home,2021-12-14 16:08:01,
+200917,100362,28,4.0,"Raj, Kamdar and Kalla Apartments",Opp. Banik-Rout,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"15.475246158638974,72.79190781737812",True,Home,2021-10-04 10:49:34,
+200918,100362,47,12.0,Lad LLC Residency,"Opp. Bhakta, Wadhwa and Sahota",Lajpat Nagar,jamnagar,Gujarat,887572,"29.862236464872893,95.1153237641233",False,Work,2021-06-10 10:33:21,
+200919,100363,9,,Goda-Deo Heights,Behind Raja Ltd,Greater Kailash,jamnagar,Gujarat,887572,"19.328428795461562,82.91100491394464",True,Work,2021-11-26 06:13:42,2022-10-14 19:56:19
+200920,100364,15,17.0,Handa and Sons Heights,"Beside Patel, Rai and Sankar",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"9.743302139213943,93.69036486313436",True,Other,2021-10-19 13:40:21,
+200921,100364,10,27.0,Khanna and Sons Residency,"Ramanathan, Nanda and Khalsa",South Extension,jamnagar,Gujarat,887572,"19.57832511437199,96.29051657854113",False,Home,2021-08-01 13:23:52,2025-02-12 00:23:54
+200922,100365,16,,Chaudhuri-Gill Towers,Patil and Sons,Greater Kailash,jamnagar,Gujarat,887572,"31.71764780191264,96.76566476972063",True,Other,2021-12-24 11:56:55,2025-02-16 02:31:42
+200923,100365,10,,Sankar-Taneja Heights,Behind Rajagopalan-Kunda,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"10.825765358970578,97.22639244087571",False,Other,2021-12-28 05:29:14,
+200924,100366,49,,"Patel, Pillai and Acharya Residency",Beside Dhar PLC,Malviya Nagar,jamnagar,Gujarat,887572,"36.21925046854889,79.95558313418145",True,Home,2021-02-06 01:14:26,2024-12-17 04:35:58
+200925,100366,27,25.0,"Kota, Chaudhary and Keer Heights","Kumer, Zachariah and Chatterjee",Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"20.08552937372732,73.0579506731531",False,Home,2021-12-31 19:47:06,
+200926,100367,40,27.0,Bhatt-Bala Complex,Beside Kulkarni LLC,Janakpuri,jamnagar,Gujarat,887572,"33.40277025888732,76.39600926568771",True,Other,2021-10-23 12:07:12,
+200927,100368,6,38.0,"Sha, Zacharia and Choudhury Apartments","Mukherjee, Hayre and Deshpande",Vasant Kunj,jamnagar,Gujarat,887572,"18.958884162003592,69.74205869350504",True,Home,2021-07-18 22:41:33,2022-09-17 14:24:09
+200928,100368,20,31.0,Gour Group Heights,"Opp. Vala, Handa and Ramachandran",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"15.27056961913142,93.36989557230501",False,Home,2021-12-25 19:01:46,2025-04-12 19:47:01
+200929,100369,47,25.0,Sura and Sons Complex,"Opp. Arora, Misra and Sant",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"12.803823984689377,78.30074895115557",True,Other,2021-10-07 13:34:57,2024-06-29 00:04:37
+200930,100369,17,23.0,"Sura, Andra and Khanna Residency",B/h. Bail-Ahluwalia,South Extension,jamnagar,Gujarat,887572,"25.185095871546253,73.61252821081004",False,Work,2021-01-27 14:34:09,2023-02-27 06:36:40
+200931,100370,19,6.0,Kala Inc Apartments,Near Tara LLC,Malviya Nagar,jamnagar,Gujarat,887572,"29.139517622320398,82.77679510303469",True,Home,2021-05-15 00:28:06,2022-10-17 00:47:41
+200932,100370,6,30.0,"Prakash, Kala and Yogi Residency",Near Sanghvi-Gala,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"27.925751022456637,75.36647431110548",False,Home,2021-08-12 01:14:38,2025-04-16 15:14:57
+200933,100371,19,33.0,Memon-Mukhopadhyay Residency,"Dhaliwal, Pingle and Hayre",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"23.824464603446884,76.61484350785538",True,Work,2021-09-04 10:44:01,2024-02-15 22:03:31
+200934,100371,26,2.0,Seshadri PLC Heights,Near Gaba and Sons,Mayur Vihar,jamnagar,Gujarat,887572,"11.342089904803995,69.94884544267367",False,Home,2021-10-22 15:45:30,
+200935,100372,20,,"Mukherjee, D’Alia and Narula Heights","Near Nagy, Swamy and Mitra",Hauz Khas,jamnagar,Gujarat,887572,"29.60525540594349,75.75569162625126",True,Home,2021-07-26 15:05:21,
+200936,100372,26,,"Dara, Gour and Dugal Complex",Shankar PLC,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"20.777411187606944,92.2193654813423",False,Home,2021-12-13 05:42:08,2024-08-23 11:53:45
+200937,100373,46,33.0,Narasimhan-Chadha Towers,Near Khosla PLC,Saket,jamnagar,Gujarat,887572,"14.316964158148657,70.48386044454423",True,Other,2021-11-13 12:37:44,
+200938,100374,29,38.0,"Rau, Madan and Nair Complex","Behind Gill, Butala and Palla",Rajouri Garden,jamnagar,Gujarat,887572,"36.372617648879896,70.98919338214576",True,Work,2021-08-31 06:18:51,
+200939,100374,1,,"Rajagopal, Agarwal and Sridhar Towers",Near Sekhon-Prashad,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"11.522584455506529,88.39547016934831",False,Other,2021-07-21 15:35:47,
+200940,100375,49,27.0,Kohli-Mandal Apartments,Baria LLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"34.23108219806817,90.33148986195087",True,Home,2021-09-20 14:14:35,2022-07-04 22:58:26
+200941,100375,23,40.0,"Chaudry, Shetty and Menon Apartments",Raj Inc,Janakpuri,jamnagar,Gujarat,887572,"15.944418949461337,85.31137263216678",False,Work,2021-07-03 23:36:44,2023-02-07 10:09:59
+200942,100376,30,22.0,Sunder Ltd Heights,"Near Sharaf, Dhawan and Kadakia",Malviya Nagar,jamnagar,Gujarat,887572,"11.918025617671061,74.58224295941544",True,Work,2021-11-07 21:59:15,2024-01-09 10:13:01
+200943,100376,22,8.0,"Raval, Verma and Thakur Apartments",Beside Choudhary Group,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"13.260859250253898,83.78823328390477",False,Work,2021-03-17 08:43:12,2023-04-12 11:43:11
+200944,100377,31,,Baral-Deep Towers,Behind Virk Ltd,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"10.042152456043056,75.17221661888006",True,Home,2021-12-29 18:18:30,2024-05-18 02:19:45
+200945,100378,28,,"Kanda, Tripathi and Khatri Complex",Near Chad PLC,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"26.374628258671343,96.5633142574373",True,Home,2021-02-14 12:47:49,
+200946,100379,44,38.0,"Vohra, Sachdev and Jani Towers","B/h. Arora, Prasad and Oza",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"22.71997217108982,72.1435429926051",True,Home,2021-09-14 01:18:27,2023-06-20 07:32:08
+200947,100380,3,27.0,Nigam LLC Complex,"Near Sachar, Kale and Venkataraman",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"34.765797241059275,73.89784665957524",True,Work,2021-09-02 06:37:55,2024-07-21 18:25:36
+200948,100381,47,24.0,Contractor LLC Heights,Beside Puri-Gole,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"36.73219348650156,69.5986918741506",True,Home,2021-11-28 17:24:46,2024-08-10 08:45:25
+200949,100381,43,13.0,Narasimhan Inc Residency,"Opp. Mani, Oommen and Dada",Rajouri Garden,jamnagar,Gujarat,887572,"19.941631985821246,74.01666499102703",False,Home,2021-12-15 23:34:38,2022-05-22 10:02:45
+200950,100382,25,25.0,Tara-Samra Complex,B/h. Sandal and Sons,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"21.712073117343955,80.0746279740721",True,Work,2021-06-20 23:46:16,
+200951,100383,44,5.0,Doctor and Sons Towers,"Behind Dugar, Pall and Narain",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"11.857109707448693,85.20373254574136",True,Work,2020-10-21 22:14:26,2021-10-09 21:32:28
+200952,100383,10,,Shetty PLC Apartments,"Goda, Golla and Dugar",Connaught Place,jamnagar,Gujarat,887572,"32.890903251408865,94.24223238761257",False,Home,2021-03-23 02:29:05,2023-01-23 10:40:28
+200953,100384,31,14.0,Koshy-Ganguly Residency,B/h. Batra-Jayaraman,Saket,Visakhapatnam,Andhra Pradesh,780487,"36.993373750729084,95.96499784306971",True,Other,2021-09-26 14:39:52,2024-08-30 11:44:29
+200954,100385,11,,Narula Group Residency,Bhalla and Sons,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"28.689273825922477,86.40107938025464",True,Home,2021-12-16 16:09:32,2023-06-10 02:18:59
+200955,100385,19,19.0,Apte PLC Complex,"Near Pingle, Sule and Gara",Vasant Kunj,jamnagar,Gujarat,887572,"9.08868458791369,77.30576293291578",False,Home,2021-08-30 10:39:38,2022-12-30 09:51:35
+200956,100386,5,21.0,"Shroff, Ramaswamy and Ganesan Residency",Near Raman PLC,Dwarka,jamnagar,Gujarat,887572,"11.347272845762877,94.72595052968494",True,Work,2021-07-27 17:53:55,2022-01-08 06:02:15
+200957,100386,24,36.0,Roy-Chowdhury Towers,"Sha, Bhat and Singh",South Extension,Visakhapatnam,Andhra Pradesh,780487,"20.204972440131918,91.37406511974851",False,Home,2021-11-22 23:15:46,2022-07-11 02:52:04
+200958,100387,22,,Parmer Group Complex,Near Balakrishnan Group,Connaught Place,jamnagar,Gujarat,887572,"8.491695758066086,69.18751935263197",True,Home,2021-08-20 20:59:24,2025-04-07 23:45:07
+200959,100387,18,27.0,Hans and Sons Heights,"Opp. Misra, Bali and Borra",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"23.162478890655013,91.77938633343341",False,Work,2021-11-16 18:02:16,2024-12-11 21:44:37
+200960,100388,21,36.0,Guha Group Heights,B/h. Thakur and Sons,Greater Kailash,jamnagar,Gujarat,887572,"30.735616444798616,93.37369142080709",True,Home,2021-09-04 02:46:27,2022-08-24 00:19:33
+200961,100389,29,22.0,Ahuja-Reddy Apartments,Opp. Nazareth-Hora,Vasant Kunj,jamnagar,Gujarat,887572,"25.69443968583485,90.54294428242426",True,Work,2021-12-31 18:16:58,2024-04-09 20:43:32
+200962,100390,24,,Toor Inc Towers,Mangal-Deshmukh,Saket,jamnagar,Gujarat,887572,"30.662875136779554,91.8854030317726",True,Work,2021-11-26 22:16:47,
+200963,100390,47,10.0,Contractor PLC Heights,B/h. Kanda Ltd,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"30.544648828758724,92.75554003593797",False,Work,2021-05-29 06:02:47,2021-11-17 02:05:47
+200964,100391,50,10.0,"Patla, Ravel and Misra Apartments","B/h. Mistry, Thakkar and Sandhu",Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"21.293054039560054,69.47988520154932",True,Home,2021-10-16 10:11:42,
+200965,100391,33,24.0,Barman PLC Towers,B/h. Deshmukh-Yohannan,Hauz Khas,jamnagar,Gujarat,887572,"27.44829031851875,83.8759991795169",False,Other,2021-11-22 22:01:08,2024-06-04 17:56:52
+200966,100392,43,14.0,"Bhat, Lal and Buch Apartments",Beside Ramaswamy and Sons,Rohini,Visakhapatnam,Andhra Pradesh,780487,"17.361352132097217,75.21713461267709",True,Home,2021-04-30 03:13:50,2024-04-30 11:48:36
+200967,100392,29,,Ganesan Group Apartments,B/h. Jain-Kulkarni,Janakpuri,jamnagar,Gujarat,887572,"33.12294382356163,88.84710192237038",False,Other,2021-03-22 18:02:03,
+200968,100393,11,22.0,Gour Inc Heights,Beside Sahota-Sur,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"23.81985737504466,96.7151207023199",True,Work,2021-08-13 00:15:52,
+200969,100394,20,29.0,Sathe Inc Towers,Beside Majumdar PLC,South Extension,Visakhapatnam,Andhra Pradesh,780487,"12.37431693896904,81.41387324135498",True,Work,2021-10-01 11:08:32,2024-01-06 08:36:50
+200970,100394,10,5.0,Purohit-Mand Residency,B/h. Palla LLC,Vasant Kunj,jamnagar,Gujarat,887572,"29.61757073116231,96.30485603764785",False,Work,2021-06-01 07:58:23,2024-05-01 00:20:58
+200971,100395,9,9.0,"Borah, Sidhu and Pant Residency","Behind Sibal, Rai and Mittal",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"29.483438374961402,92.56481920940047",True,Other,2021-11-27 13:46:05,
+200972,100395,43,17.0,Kanda Ltd Complex,"Behind Sridhar, Raja and Mangat",Karol Bagh,jamnagar,Gujarat,887572,"25.66659594356392,75.3737323003651",False,Home,2021-12-28 06:45:30,2024-02-13 08:28:54
+200973,100396,50,,Konda PLC Apartments,B/h. Saxena PLC,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"9.14166094116331,83.68379094220326",True,Other,2021-07-12 08:49:16,2024-09-27 07:59:06
+200974,100396,31,,Bedi Group Towers,Choudhry-Doctor,Connaught Place,jamnagar,Gujarat,887572,"36.34419837013126,78.04646731258164",False,Work,2021-10-24 18:44:45,2024-02-04 11:24:16
+200975,100397,50,,Pillay Ltd Residency,Palan PLC,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"29.94570596063685,80.44815044219881",True,Home,2021-07-28 11:24:05,2024-04-21 00:15:45
+200976,100397,33,30.0,Devi-Iyengar Towers,Varkey Ltd,Rohini,jamnagar,Gujarat,887572,"18.452447741009138,73.23331802418338",False,Home,2021-09-08 04:24:50,2024-05-06 07:00:29
+200977,100398,16,34.0,Mistry Inc Heights,Opp. Mammen Inc,Mayur Vihar,jamnagar,Gujarat,887572,"13.683088111312841,74.69715278418323",True,Work,2021-11-04 09:44:42,2024-12-12 07:09:21
+200978,100399,30,12.0,Gala-Pandit Apartments,Rao-Sangha,Dwarka,jamnagar,Gujarat,887572,"13.522882970838502,87.07092400568183",True,Work,2021-08-20 00:52:12,
+200979,100400,30,32.0,Gole Ltd Towers,Behind Ram-Pillay,Connaught Place,jamnagar,Gujarat,887572,"36.686390566536325,71.74365709740502",True,Home,2021-12-30 17:33:45,
+200980,100401,11,35.0,Swaminathan-Menon Heights,Near Lall-Dhingra,South Extension,jamnagar,Gujarat,887572,"16.231582105493334,84.4735090646031",True,Other,2021-12-28 21:46:19,2023-11-15 20:11:21
+200981,100401,3,7.0,"Magar, Minhas and Lata Towers",Behind Salvi Ltd,Saket,Visakhapatnam,Andhra Pradesh,780487,"14.45404601594666,93.15244382936332",False,Home,2021-10-14 18:20:10,
+200982,100402,48,37.0,Ghose Inc Complex,Near Solanki PLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"37.5090107157492,94.12330223916715",True,Home,2021-05-13 19:28:02,2025-01-16 09:09:14
+200983,100403,32,4.0,Mannan-Pandit Towers,Behind Chaudhari Inc,Saket,Visakhapatnam,Andhra Pradesh,780487,"33.75586480860728,81.56397191109502",True,Home,2021-05-25 07:40:43,2023-03-27 19:27:21
+200984,100403,6,13.0,"Bose, Raval and Nair Towers",Near Rout Group,Rajouri Garden,jamnagar,Gujarat,887572,"18.399054136941775,69.00777789857905",False,Home,2021-04-07 21:36:21,
+200985,100404,14,,"Balakrishnan, Prakash and Dutta Towers",Opp. Kamdar-Wadhwa,South Extension,Visakhapatnam,Andhra Pradesh,780487,"35.17115398471176,79.45578761502864",True,Home,2021-12-02 18:31:54,2022-05-22 01:33:30
+200986,100405,11,29.0,Dhar and Sons Towers,Opp. Datta Group,Rajouri Garden,jamnagar,Gujarat,887572,"24.612045029965174,84.11503688355124",True,Other,2021-11-24 01:52:40,
+200987,100405,26,21.0,Issac Inc Heights,Near Murty-Luthra,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"34.12451099316766,86.28058263994353",False,Other,2021-09-01 02:38:26,2023-04-26 11:54:43
+200988,100406,21,,"Ben, Nayak and Sarkar Complex",Opp. Raghavan and Sons,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"26.057569186136853,72.33214697607305",True,Other,2021-12-31 21:00:37,
+200989,100406,49,35.0,"Palla, Rai and Varty Apartments",Opp. Kalita-Rai,Rajouri Garden,jamnagar,Gujarat,887572,"25.119684182419554,92.17513636288388",False,Home,2021-12-27 02:00:11,2024-12-27 02:47:51
+200990,100407,20,37.0,Sastry-Chaudhary Towers,Near Issac-Nazareth,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"32.64899906940054,89.21392584916023",True,Work,2021-06-16 06:05:30,2023-11-04 17:28:53
+200991,100408,11,11.0,"Buch, Ben and Barad Complex","Batta, Bajwa and Warrior",South Extension,Visakhapatnam,Andhra Pradesh,780487,"18.792213336640078,74.56442658782453",True,Work,2021-06-03 00:57:01,
+200992,100408,48,24.0,Kapur-Warrior Apartments,Beside Prabhu PLC,Greater Kailash,jamnagar,Gujarat,887572,"8.41665975127691,93.22908869715077",False,Work,2021-07-11 03:39:27,2023-08-21 19:43:01
+200993,100409,27,24.0,Merchant Inc Towers,Near Mannan LLC,Dwarka,jamnagar,Gujarat,887572,"9.70216964135093,68.9920540153147",True,Other,2021-10-06 05:05:08,2022-12-10 03:44:56
+200994,100410,11,11.0,Sandhu-Sunder Residency,"Near Gupta, Dhillon and Desai",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"19.244986297768214,92.26173195626865",True,Work,2021-05-23 18:27:12,2023-06-18 17:43:05
+200995,100410,16,18.0,Varghese-Bhasin Heights,"Behind Bhalla, Nayak and Shroff",Lajpat Nagar,jamnagar,Gujarat,887572,"35.08499637402719,85.39551414756939",False,Home,2021-11-02 05:13:58,2023-02-04 16:53:53
+200996,100411,13,,"Saran, Murthy and Sathe Residency","Near Sarraf, Parsa and Khosla",Dwarka,jamnagar,Gujarat,887572,"15.544612634477092,70.61957798982442",True,Home,2021-03-19 12:08:10,2024-03-04 17:17:27
+200997,100411,42,23.0,"Karan, Thaman and Prabhu Apartments",Near Swaminathan LLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"34.23429814650159,75.15921160388602",False,Work,2021-10-03 15:27:09,
+200998,100412,44,15.0,Shankar-Nayar Towers,Behind Malhotra-Brar,Janakpuri,jamnagar,Gujarat,887572,"32.14425391098867,91.78370463658484",True,Work,2021-05-07 18:42:01,2022-12-09 17:30:22
+200999,100412,14,16.0,Nair Ltd Residency,Opp. Sandal-Gera,South Extension,Visakhapatnam,Andhra Pradesh,780487,"33.214215040144786,79.95196177617717",False,Home,2020-09-18 14:59:36,2024-03-31 14:32:40
+201000,100413,1,2.0,Pant-Saraf Heights,Behind Vasa-Tripathi,Greater Kailash,jamnagar,Gujarat,887572,"30.020232535304743,97.24489585025516",True,Home,2021-11-06 00:57:40,
+201001,100414,49,,"Bail, Cheema and Sharma Residency","Behind Issac, Natarajan and Uppal",Saket,jamnagar,Gujarat,887572,"21.374465739564684,78.21685025692909",True,Other,2021-12-02 00:20:52,2024-07-01 11:32:00
+201002,100414,40,9.0,Mukherjee and Sons Apartments,Near Mishra and Sons,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"15.48762437578917,82.87259038249029",False,Home,2021-10-16 14:31:28,
+201003,100415,20,18.0,"Choudhury, Kumar and Handa Residency",Near Tara PLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"8.834714120706757,73.90330443416346",True,Work,2021-11-09 03:14:04,2024-01-11 07:58:46
+201004,100415,37,,"Walla, Lad and Bansal Towers",B/h. Misra Group,Lajpat Nagar,jamnagar,Gujarat,887572,"37.1907233302849,71.49187343626521",False,Home,2021-10-30 02:30:24,
+201005,100416,5,7.0,Mohan PLC Towers,B/h. Pandya-Bhatt,Vasant Kunj,jamnagar,Gujarat,887572,"29.498376030496082,72.35750727620423",True,Work,2021-10-30 19:43:00,2024-12-23 00:17:42
+201006,100416,18,10.0,Singhal-Chakraborty Complex,Dani LLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"20.040341119130968,79.63736620535988",False,Home,2021-06-01 19:49:05,2023-10-22 22:03:55
+201007,100417,28,,Tandon-Choudhry Residency,Near Pai-Pillai,Saket,jamnagar,Gujarat,887572,"25.0755913653841,73.22058394356495",True,Other,2021-07-14 18:14:28,2025-03-22 18:41:32
+201008,100417,18,9.0,Vaidya LLC Heights,Near Jayaraman-Ramaswamy,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"13.253488017547099,71.72329432772686",False,Work,2021-06-28 14:51:46,2023-07-12 21:35:43
+201009,100418,23,,Subramanian LLC Apartments,"B/h. Mitra, Bal and Bala",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"29.418024061167813,72.684838111069",True,Other,2021-08-19 03:53:16,2021-09-11 01:34:36
+201010,100418,20,,"Dua, Loyal and Dubey Apartments",Behind Mallick-Krishnan,Mayur Vihar,jamnagar,Gujarat,887572,"21.295204673449266,94.88964007780727",False,Work,2021-10-07 11:03:02,2022-02-15 20:18:54
+201011,100419,30,9.0,"Choudhury, Bose and Chad Heights","Sastry, Magar and Kaul",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"15.738668977551988,72.44839494025291",True,Home,2021-12-12 11:23:51,2023-12-07 01:11:25
+201012,100419,16,17.0,Lall-Palan Heights,Comar Ltd,Rajouri Garden,jamnagar,Gujarat,887572,"24.15925827252518,71.82512088093539",False,Home,2021-07-26 22:07:54,2025-04-21 03:37:40
+201013,100420,20,31.0,"Sahota, Sane and Suri Towers","Near Parmer, Khatri and Kade",Karol Bagh,jamnagar,Gujarat,887572,"22.787111739174893,79.61191894957906",True,Other,2021-07-05 03:13:32,
+201014,100421,16,38.0,Dada Ltd Complex,"Behind Iyer, Gill and Agate",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"18.745272403821573,78.91999899605611",True,Other,2021-09-03 07:12:01,2022-09-13 17:23:13
+201015,100422,22,35.0,"De, Tata and Chacko Heights",Beside Uppal-Anand,South Extension,jamnagar,Gujarat,887572,"10.074037639766008,83.53930009657643",True,Other,2021-10-25 11:39:23,2024-09-03 11:41:09
+201016,100423,48,13.0,Sathe PLC Complex,"Opp. Lad, Borah and Ram",Hauz Khas,jamnagar,Gujarat,887572,"17.76265915054489,81.18329098252707",True,Work,2021-12-24 13:57:21,
+201017,100423,12,,"Mital, Bhasin and Vig Complex",B/h. Nazareth-Prabhu,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"22.481846589294193,87.49909434793521",False,Home,2021-12-26 10:16:08,2025-02-21 18:15:10
+201018,100424,50,21.0,Sankaran-Murty Heights,Near Purohit Group,Hauz Khas,jamnagar,Gujarat,887572,"25.499585239889257,73.51846935159023",True,Home,2021-05-11 17:26:17,
+201019,100425,1,35.0,Gour PLC Residency,B/h. Kashyap-Palla,Greater Kailash,jamnagar,Gujarat,887572,"31.637780912069204,95.36073837687987",True,Work,2021-11-04 03:08:14,
+201020,100425,20,36.0,Mohanty LLC Towers,"Opp. Sarma, Kota and Ghose",Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"30.605988035775717,93.84717935507742",False,Other,2021-08-10 04:46:04,
+201021,100426,11,,"Sundaram, Dalal and Khare Heights","Near Nagy, Ganesan and Bal",South Extension,Visakhapatnam,Andhra Pradesh,780487,"25.036162861758562,73.69633874304085",True,Home,2021-08-21 05:21:50,2023-01-04 11:54:53
+201022,100427,45,26.0,Manda and Sons Residency,Bains-Srivastava,Pitampura,jamnagar,Gujarat,887572,"9.560917654066257,80.40291167778693",True,Home,2021-09-14 10:24:51,
+201023,100427,22,4.0,Pau-Ravi Complex,B/h. Karpe Group,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"14.070794989207812,70.60580697338627",False,Work,2021-10-31 16:18:04,2023-03-23 00:28:18
+201024,100428,46,,"Anne, Muni and Wadhwa Apartments",Near Ram-Singhal,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"30.599539611224415,85.11398940659875",True,Home,2021-10-18 01:50:32,2023-10-01 22:25:31
+201025,100429,35,9.0,"Swamy, Kaur and Sant Residency","B/h. Hari, Sundaram and Kapoor",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"21.939466437209155,71.17938185864804",True,Other,2021-07-29 10:53:35,
+201026,100430,45,,"Kala, Vyas and Hans Apartments",Behind Kalla Group,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"21.872984816036546,87.5166150645473",True,Work,2021-07-30 22:26:07,2024-05-09 23:47:12
+201027,100431,8,27.0,"Mistry, Talwar and Dar Apartments","Beside Sarna, Srinivas and Bera",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"33.81300506733458,79.86083216505799",True,Home,2020-11-26 15:06:11,2024-04-09 06:56:13
+201028,100431,46,1.0,Edwin Ltd Apartments,Behind Kunda PLC,Rohini,jamnagar,Gujarat,887572,"15.065459784272626,73.65240150322558",False,Work,2021-12-16 05:45:31,2024-12-18 19:02:55
+201029,100432,28,15.0,Sachdev and Sons Apartments,Opp. Barad Ltd,Mayur Vihar,jamnagar,Gujarat,887572,"34.27292439779818,91.15459527981255",True,Home,2021-12-28 10:59:32,
+201030,100432,40,,Walla PLC Apartments,Beside Ray-Nigam,South Extension,Visakhapatnam,Andhra Pradesh,780487,"12.406733344568192,74.41141712572524",False,Home,2021-12-24 20:34:08,2023-05-24 01:11:14
+201031,100433,19,,Ghosh and Sons Residency,Beside Chopra-Pau,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"21.946522761286467,87.49995675679585",True,Work,2021-12-01 19:44:35,2023-11-03 21:38:33
+201032,100433,31,3.0,"Swamy, Sidhu and Sankaran Towers",Pradhan-Pathak,Vasant Kunj,jamnagar,Gujarat,887572,"31.469141984950227,85.95576751489688",False,Home,2021-10-17 07:04:36,2024-07-18 10:49:32
+201033,100434,18,5.0,"Jayaraman, Raju and Ranganathan Towers",B/h. Jaggi-Rastogi,Mayur Vihar,jamnagar,Gujarat,887572,"18.333281538803384,83.30609595787656",True,Work,2021-10-15 20:22:32,
+201034,100435,32,37.0,Magar-Kapadia Residency,Opp. Dugar-Shanker,South Extension,Visakhapatnam,Andhra Pradesh,780487,"28.76212996644051,69.87558537488391",True,Home,2021-12-26 15:57:00,
+201035,100436,29,18.0,Pandya PLC Apartments,Beside Rout-Manda,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"14.795509417691175,78.5597554890874",True,Work,2021-10-24 20:58:37,2023-09-09 03:51:16
+201036,100437,25,29.0,Sachdeva Inc Complex,Near Vaidya-Magar,Dwarka,jamnagar,Gujarat,887572,"18.880914112367307,77.07719524697137",True,Other,2021-03-18 12:57:32,2022-06-15 05:54:47
+201037,100437,15,9.0,Ramachandran-Kaul Towers,Behind Chakraborty LLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"9.610703201603293,88.34852140136272",False,Home,2021-07-30 15:46:00,
+201038,100438,47,5.0,Deo LLC Apartments,Near Chandra-Mall,Lajpat Nagar,jamnagar,Gujarat,887572,"18.295983602347867,82.99954760308587",True,Work,2021-07-02 04:27:28,2023-12-28 19:14:17
+201039,100438,21,18.0,Agrawal PLC Residency,Near Sampath Group,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"29.602499632038118,75.39371405335326",False,Other,2021-10-27 13:09:57,2024-06-03 04:13:02
+201040,100439,38,31.0,Garde Ltd Complex,Near Khare LLC,South Extension,jamnagar,Gujarat,887572,"28.021279410111596,70.12495762109675",True,Work,2021-10-27 03:43:05,2021-11-12 11:57:59
+201041,100440,27,19.0,"Deo, Grewal and Wadhwa Residency",Beside Pau-Magar,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"36.32060344867896,83.61881068853982",True,Work,2021-10-11 17:09:59,
+201042,100440,4,25.0,Pau Ltd Apartments,Behind Ravi PLC,Hauz Khas,jamnagar,Gujarat,887572,"21.580070127715523,87.30960936765513",False,Work,2021-12-30 06:37:26,2022-06-19 09:34:59
+201043,100441,27,9.0,Borah LLC Towers,Opp. Gopal-Taneja,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"24.560818617036908,91.80080989884543",True,Home,2021-08-11 22:13:00,2023-04-18 17:32:39
+201044,100441,20,6.0,Lata-Handa Complex,B/h. Rattan-Patla,Mayur Vihar,jamnagar,Gujarat,887572,"23.51185249834589,86.08491628735725",False,Home,2021-08-13 06:07:18,2023-04-19 04:56:57
+201045,100442,29,11.0,Bedi Inc Complex,"Near Sarkar, Taneja and Sangha",Saket,jamnagar,Gujarat,887572,"31.090472199746053,77.49526807852529",True,Home,2021-08-20 01:18:38,2023-05-10 22:08:10
+201046,100443,36,19.0,Uppal-Dash Residency,B/h. Deshpande Group,Karol Bagh,jamnagar,Gujarat,887572,"30.384643988037347,80.9309534478914",True,Work,2021-11-16 14:09:04,2022-09-21 05:21:15
+201047,100443,15,29.0,Ramaswamy and Sons Heights,Beside Gala-Parekh,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"23.26852472702336,74.73187350014054",False,Work,2021-12-16 04:30:14,2022-08-16 05:42:15
+201048,100444,43,,Shere-Swaminathan Towers,Beside Krishna-Comar,Greater Kailash,jamnagar,Gujarat,887572,"31.510587158201552,94.53099915298023",True,Other,2021-12-21 09:14:57,2024-06-28 17:57:43
+201049,100444,12,27.0,Sahni-Mishra Towers,"Beside Munshi, Varkey and Nigam",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"25.17937322227131,76.72852518266215",False,Home,2021-12-21 06:09:35,2024-03-07 08:05:34
+201050,100445,29,33.0,"Keer, Varty and Sule Towers",B/h. Batra LLC,Vasant Kunj,jamnagar,Gujarat,887572,"23.069535718782866,78.10695044999582",True,Other,2021-08-17 23:17:14,2023-08-25 05:43:12
+201051,100445,3,14.0,Randhawa PLC Complex,Beside Golla Inc,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"17.296653892459936,91.91704501010118",False,Other,2021-08-27 03:33:01,2021-09-26 15:34:56
+201052,100446,33,26.0,De PLC Apartments,"Sandal, Pingle and Ganesan",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"17.595448161106876,97.08603374440801",True,Work,2021-10-14 01:10:19,2023-05-13 22:04:57
+201053,100446,43,37.0,Ray Inc Residency,"Opp. Gokhale, Wadhwa and Rattan",Mayur Vihar,jamnagar,Gujarat,887572,"11.84408858625966,81.70199177842879",False,Work,2021-04-23 07:52:56,2023-03-04 02:35:51
+201054,100447,28,5.0,"Sarin, Bali and Krish Complex",Beside Purohit PLC,Malviya Nagar,jamnagar,Gujarat,887572,"29.52002404428446,69.5490640619673",True,Work,2021-12-11 11:05:50,
+201055,100447,4,26.0,Kashyap Ltd Residency,"Behind Chopra, Dora and Borde",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"36.494993789077164,94.28975155960238",False,Home,2021-12-03 16:22:56,2025-02-19 22:58:03
+201056,100448,38,,Gandhi PLC Complex,Behind Bhatti LLC,Connaught Place,jamnagar,Gujarat,887572,"28.048793961552768,84.8778675497193",True,Other,2020-11-19 22:17:18,2023-06-04 10:03:14
+201057,100448,32,,Thakur-Viswanathan Residency,Beside Comar-Menon,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"17.82745832950357,93.92590283280767",False,Home,2021-08-06 19:05:30,2024-08-15 08:15:07
+201058,100449,30,,"Keer, Keer and Sandhu Apartments",Behind Srivastava Group,Karol Bagh,jamnagar,Gujarat,887572,"32.41286914832435,77.492285885936",True,Work,2021-07-30 22:31:05,
+201059,100450,19,,"Narayanan, Nagy and Rana Residency","Kumar, Shroff and Gulati",Greater Kailash,jamnagar,Gujarat,887572,"25.667665422248973,88.312800642681",True,Other,2021-04-25 01:39:47,
+201060,100450,6,16.0,"Krish, Loyal and Sane Heights",B/h. Murthy-Mukherjee,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"37.295359270872346,85.87294078034157",False,Home,2021-09-30 20:10:14,
+201061,100451,50,27.0,"Gole, Mukherjee and Hari Towers",Near Jayaraman Group,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"25.885380462149243,70.51319342153786",True,Work,2021-02-17 22:10:50,2023-10-07 20:14:02
+201062,100451,29,,Radhakrishnan PLC Heights,B/h. Andra-Mitra,Lajpat Nagar,jamnagar,Gujarat,887572,"23.890656664537325,96.06774473735045",False,Work,2021-02-05 12:38:13,
+201063,100452,48,16.0,Bhandari Group Apartments,Kohli-Soni,Dwarka,jamnagar,Gujarat,887572,"31.258052046967343,88.50621511202536",True,Other,2021-10-03 07:37:39,
+201064,100452,47,27.0,Vaidya-Wagle Towers,Behind Parmer-Nadkarni,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"35.48075226368716,79.7307101473302",False,Work,2021-09-01 21:26:44,2024-09-13 01:43:47
+201065,100453,43,,Panchal-Chaudhary Apartments,B/h. Kala Ltd,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"27.239835305578673,85.25609828724386",True,Home,2021-12-15 10:48:56,
+201066,100453,42,38.0,Majumdar-Chawla Residency,Bal Inc,Janakpuri,jamnagar,Gujarat,887572,"11.12008572514484,68.74204553218044",False,Work,2021-12-25 20:32:59,2022-06-11 16:24:10
+201067,100454,31,,Joshi Inc Complex,Opp. Warrior-Bahri,Karol Bagh,jamnagar,Gujarat,887572,"26.819674255785642,69.91426818773829",True,Home,2021-05-02 11:08:07,
+201068,100455,41,34.0,Chand LLC Apartments,Beside Chokshi Ltd,Dwarka,jamnagar,Gujarat,887572,"20.141646057266748,83.79416045306627",True,Other,2021-09-22 02:54:50,2022-12-25 17:05:32
+201069,100455,36,,"Palan, Sangha and Saxena Heights","B/h. Gaba, Tara and Prakash",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"23.776058139849233,90.17719186971581",False,Home,2021-10-17 19:24:09,2023-06-01 13:18:07
+201070,100456,30,,Pau-Saha Complex,Swaminathan LLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"36.60547196489028,95.86274039059306",True,Home,2021-02-07 06:56:59,2022-07-31 05:46:33
+201071,100457,41,,Panchal-Lala Apartments,Beside Tandon-Sinha,Janakpuri,jamnagar,Gujarat,887572,"8.463721218340726,95.45304074854553",True,Other,2021-08-19 15:53:27,
+201072,100457,39,25.0,"Sharaf, Barad and Sinha Apartments",Opp. More-Keer,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"22.18963742151424,79.88911970206294",False,Home,2021-05-11 23:37:21,2023-11-22 04:46:41
+201073,100458,9,16.0,Iyengar PLC Complex,Near Doshi-Konda,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"10.05910273611245,90.32405474273463",True,Home,2021-06-07 11:52:59,2023-01-25 06:34:30
+201074,100458,27,,Bhargava Group Heights,B/h. Bhattacharyya-Viswanathan,South Extension,jamnagar,Gujarat,887572,"14.77558730483842,91.62760909895087",False,Work,2021-11-16 16:45:02,2024-06-30 03:13:55
+201075,100459,42,,Dhar-Pant Complex,"Mutti, Deshpande and Dubey",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"33.95131240896096,94.39472194140836",True,Home,2021-09-02 08:59:08,
+201076,100460,48,,Lata-Barad Residency,B/h. Sura-Padmanabhan,Dwarka,jamnagar,Gujarat,887572,"27.602779772919675,79.37584405755112",True,Work,2021-11-12 14:03:15,2022-11-04 20:17:12
+201077,100460,38,,Narasimhan-Solanki Residency,Opp. Sarna-Bali,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"19.035570428225437,68.95566342669994",False,Other,2021-12-13 23:30:27,2023-09-13 09:37:15
+201078,100461,29,4.0,Chacko and Sons Residency,"Behind Narula, Magar and Tara",Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"27.35153584050026,81.51493334749311",True,Home,2021-10-04 07:22:49,2023-08-10 14:42:16
+201079,100461,19,,"Mital, Dhillon and Mody Heights","Opp. Yadav, Singhal and Gokhale",Mayur Vihar,jamnagar,Gujarat,887572,"30.733769381260878,88.39110034408472",False,Home,2021-12-11 23:57:11,2023-07-27 02:42:58
+201080,100462,45,17.0,Sarraf PLC Complex,Near Thaman-Chaudry,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"23.957423295098945,81.25102043746423",True,Work,2021-12-28 13:28:33,2025-04-20 07:08:06
+201081,100463,44,,Dayal-Narain Residency,Beside Nori Group,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"28.889242422146623,92.69342431085944",True,Other,2021-12-04 09:48:30,2023-07-09 01:00:42
+201082,100463,8,37.0,Mani Ltd Towers,Beside Hora-Parmar,Vasant Kunj,jamnagar,Gujarat,887572,"23.518906265404894,76.59251137011091",False,Other,2021-09-23 13:15:38,2024-07-29 20:18:35
+201083,100464,13,15.0,"Pai, Sridhar and Choudhry Towers",Near Amble Inc,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"20.174378949094397,81.93557194511077",True,Other,2021-12-20 11:30:03,2024-10-15 14:22:14
+201084,100465,19,9.0,"Palan, Datta and Kohli Heights",Behind Comar PLC,South Extension,Visakhapatnam,Andhra Pradesh,780487,"24.954870365892504,82.5353833867641",True,Other,2021-07-29 22:28:11,2023-03-06 06:35:04
+201085,100465,9,17.0,"Sood, Raju and Chada Residency",Behind Loyal-Yogi,Janakpuri,jamnagar,Gujarat,887572,"19.698986412495017,73.43317790026646",False,Work,2021-08-17 02:17:12,2023-03-19 03:43:30
+201086,100466,1,26.0,Hayer and Sons Apartments,Beside Brahmbhatt-Ben,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"25.020521824326224,80.35357962028002",True,Home,2021-12-31 10:54:30,2024-04-29 15:39:13
+201087,100467,40,39.0,Sachar PLC Residency,Behind Ranganathan PLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"29.927318978410305,91.286633828737",True,Other,2021-11-29 06:01:37,2025-01-26 09:15:37
+201088,100467,14,36.0,Dhar-Kapoor Towers,Beside Minhas Group,Janakpuri,jamnagar,Gujarat,887572,"23.431222131464974,88.9737993262305",False,Work,2021-12-15 12:30:55,2024-01-10 19:46:13
+201089,100468,50,20.0,Vohra PLC Apartments,Opp. Edwin LLC,South Extension,Visakhapatnam,Andhra Pradesh,780487,"23.73560252071816,70.09483118570593",True,Work,2021-11-01 17:05:46,2022-08-28 06:29:59
+201090,100468,16,,Rastogi-Kata Residency,Behind Cheema-Bahl,Janakpuri,jamnagar,Gujarat,887572,"30.184241467239723,96.56617758664967",False,Other,2021-07-28 10:56:54,
+201091,100469,26,,Kurian-Oommen Apartments,Near Pingle-Kadakia,South Extension,jamnagar,Gujarat,887572,"17.086732615905806,87.32520471622999",True,Other,2021-12-15 14:48:52,2024-11-16 14:53:30
+201092,100470,10,5.0,Tella and Sons Heights,Bhakta Ltd,Malviya Nagar,jamnagar,Gujarat,887572,"27.71098136472257,93.05049682791326",True,Work,2021-10-30 02:15:46,2023-04-12 22:30:37
+201093,100470,37,,"Chakraborty, Bahri and Morar Heights",Near Barman PLC,Saket,Visakhapatnam,Andhra Pradesh,780487,"14.36045713338492,91.8691072140912",False,Work,2021-04-21 18:40:25,2024-10-23 00:34:07
+201094,100471,35,3.0,"Halder, Agrawal and Chhabra Complex",Behind Sen-Wason,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"21.095539203414916,78.04227349219549",True,Other,2021-10-10 21:12:39,2022-05-13 01:44:43
+201095,100471,11,9.0,"Bumb, Chand and Rana Heights",Near Uppal LLC,Rohini,jamnagar,Gujarat,887572,"26.53567403192023,88.95396823829365",False,Home,2021-10-11 12:34:09,
+201096,100472,15,15.0,Tak Ltd Apartments,"Behind Dugar, Gour and Muni",Rajouri Garden,jamnagar,Gujarat,887572,"22.54679449055437,80.8801765547876",True,Other,2021-01-27 15:28:04,2021-11-14 06:08:48
+201097,100473,40,36.0,Lal-Mall Complex,Beside Madan-Kuruvilla,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"35.12891196445096,84.92739273080016",True,Other,2021-12-19 02:56:27,2023-01-06 20:17:19
+201098,100474,42,24.0,"Raja, Vora and Gopal Towers",Behind Sarraf Inc,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"34.07692512069616,71.13174805625266",True,Other,2021-05-14 07:46:12,2022-05-24 07:33:55
+201099,100475,1,27.0,Goda-Varughese Towers,Near Mody Ltd,Rajouri Garden,jamnagar,Gujarat,887572,"23.764814384087266,85.02691556187733",True,Work,2021-07-10 16:41:54,
+201100,100475,49,19.0,"Dave, Memon and Tak Apartments",B/h. Bhakta-Batta,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"31.6257585572436,77.47494583436091",False,Work,2021-10-12 21:11:46,
+201101,100476,21,,Butala Group Apartments,Nayak-Thakkar,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"22.479126591130374,86.36310859407948",True,Work,2021-06-24 05:01:46,
+201102,100477,32,13.0,Pandit-Sha Residency,Near Wagle and Sons,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"37.324916848122356,78.68141850324896",True,Home,2020-12-18 16:41:24,2024-03-25 23:18:24
+201103,100478,49,3.0,"Kade, Palla and Wagle Residency",Dave-Reddy,Rohini,Visakhapatnam,Andhra Pradesh,780487,"32.7331188124627,89.94721963899438",True,Other,2021-07-23 22:57:06,2022-10-16 21:43:59
+201104,100478,5,34.0,Deep-Kumer Towers,"Opp. Dhawan, Uppal and Sen",Vasant Kunj,jamnagar,Gujarat,887572,"21.820957931706246,74.12099701997346",False,Other,2021-08-11 11:33:12,
+201105,100479,20,,"Dugar, Ray and Kapadia Towers",B/h. Mittal Ltd,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"26.180864536780824,90.96131217952933",True,Work,2021-06-05 02:24:59,2023-12-12 03:56:40
+201106,100479,29,35.0,Gopal-Vala Towers,"Opp. Panchal, Lal and Pau",Hauz Khas,jamnagar,Gujarat,887572,"14.984385630519885,96.86300695557459",False,Home,2021-03-14 18:37:45,2021-04-10 17:12:06
+201107,100480,27,39.0,Setty-Prabhu Apartments,Beside Kumer-Chowdhury,Malviya Nagar,jamnagar,Gujarat,887572,"9.396188063485514,94.93511304999997",True,Other,2021-11-26 21:25:43,2024-03-09 09:21:51
+201108,100480,23,,"Ranganathan, Kohli and Butala Residency",Din-Srinivas,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"33.62523718860609,85.63270525828067",False,Home,2021-01-11 10:35:23,
+201109,100481,13,3.0,"Garg, Ben and Halder Complex","Near Ahuja, Oommen and Dhingra",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"31.6077471072772,83.22862346017031",True,Work,2021-12-13 18:45:04,2022-04-06 18:13:54
+201110,100481,48,,Nath PLC Apartments,B/h. Patla PLC,Rajouri Garden,jamnagar,Gujarat,887572,"32.78690015968113,76.13933154675473",False,Other,2021-12-12 05:42:07,2022-06-03 01:32:40
+201111,100482,43,39.0,Tiwari-Kumer Apartments,"Beside Mangat, Bansal and Sagar",Saket,Visakhapatnam,Andhra Pradesh,780487,"27.28108387860202,92.1469204969577",True,Home,2021-06-01 00:40:15,
+201112,100482,1,1.0,Halder-Chopra Heights,B/h. Tata-Prakash,Rajouri Garden,jamnagar,Gujarat,887572,"17.503340490334526,84.1049017074564",False,Home,2021-04-10 10:46:19,2023-11-24 01:28:40
+201113,100483,39,35.0,"Parmer, Chahal and Bala Residency",Opp. Sangha-Khalsa,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"31.884739572980457,69.3890154968334",True,Home,2021-09-16 08:09:47,2024-05-10 04:46:03
+201114,100484,50,,"Manne, Nadig and Rege Apartments",Opp. Dube PLC,Janakpuri,jamnagar,Gujarat,887572,"19.25500439053689,92.13291860804604",True,Other,2021-10-20 10:53:13,2022-05-10 11:52:26
+201115,100484,18,2.0,Walla-Pillay Towers,Behind Roy-Prakash,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"8.76346917171263,79.88423816699103",False,Home,2020-11-05 16:32:04,2023-04-06 16:32:48
+201116,100485,6,25.0,Naidu PLC Heights,Mann-Master,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"29.111384242245137,74.59976036959492",True,Home,2021-12-16 23:12:29,2022-09-08 15:48:37
+201117,100485,22,9.0,"Shetty, Bedi and Bhatti Residency",Near Shetty-Amble,Rajouri Garden,jamnagar,Gujarat,887572,"13.944305292242174,96.83470117914281",False,Work,2021-11-28 21:39:39,
+201118,100486,33,4.0,"Ramanathan, Thaman and Keer Towers",Beside Palan-Bhargava,Saket,jamnagar,Gujarat,887572,"23.163202463233173,96.2494522495281",True,Other,2021-08-13 01:18:27,2023-11-17 15:56:05
+201119,100487,39,,"Dara, Kadakia and Handa Apartments",Behind Parekh-Buch,Greater Kailash,jamnagar,Gujarat,887572,"26.36190261770463,84.14130720314519",True,Other,2021-04-02 18:13:45,2023-11-01 16:27:35
+201120,100488,19,6.0,Shah Group Apartments,"Opp. Parmer, Bera and Bose",Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"33.39983869333328,72.84715697018139",True,Work,2021-11-18 04:48:14,2025-04-18 17:15:38
+201121,100488,7,18.0,Deo-Sethi Complex,B/h. Dey Inc,Janakpuri,jamnagar,Gujarat,887572,"9.773734304405588,73.35391762330963",False,Work,2021-11-10 13:44:55,
+201122,100489,8,,Iyer Group Towers,Near Chaudry-Bassi,South Extension,Visakhapatnam,Andhra Pradesh,780487,"37.43049386203884,91.50346705593836",True,Other,2021-12-26 19:55:21,2022-12-31 18:44:34
+201123,100489,10,,Bhandari and Sons Residency,Behind Ratta-Buch,Rajouri Garden,jamnagar,Gujarat,887572,"22.1352051660502,68.9001476678341",False,Work,2021-12-19 09:16:01,2022-10-28 10:06:36
+201124,100490,46,,Vaidya PLC Towers,Vyas Inc,Greater Kailash,jamnagar,Gujarat,887572,"36.39053536554287,70.31893213133633",True,Other,2021-08-17 16:23:32,2024-06-07 16:30:02
+201125,100490,44,13.0,Zachariah LLC Apartments,"Beside Chacko, Khare and Lata",Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"10.254884121170962,79.84596312452393",False,Home,2021-04-04 19:58:17,2021-10-01 06:58:28
+201126,100491,22,37.0,Vasa and Sons Heights,"Beside Choudhury, Dixit and Maharaj",Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"31.546027316069555,91.65153045440259",True,Work,2021-12-10 09:30:12,
+201127,100491,27,,Koshy-Minhas Heights,Tandon-Gara,Hauz Khas,jamnagar,Gujarat,887572,"25.22556616199811,95.04734148889226",False,Work,2021-12-24 10:52:26,
+201128,100492,9,5.0,Palan-Sethi Complex,B/h. Bhalla and Sons,Saket,jamnagar,Gujarat,887572,"12.188404376208279,82.57991972535739",True,Other,2021-08-06 08:35:23,2023-09-22 21:40:30
+201129,100493,14,34.0,De PLC Towers,Near Bava PLC,Rohini,jamnagar,Gujarat,887572,"35.501289598106936,70.17985446326982",True,Home,2021-10-15 07:52:15,
+201130,100494,16,1.0,Sant-Tak Heights,Near Mane LLC,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"29.743273829686146,94.02668864915205",True,Home,2021-12-28 07:02:20,2023-11-29 22:21:48
+201131,100494,28,,"Mann, Gaba and Krishnamurthy Apartments",Behind Chawla-Kari,Janakpuri,jamnagar,Gujarat,887572,"25.562835731535735,69.01259372786463",False,Home,2021-04-04 09:46:10,2024-03-29 08:19:53
+201132,100495,8,4.0,Kothari Ltd Residency,"Vasa, Ravel and Chada",Saket,Visakhapatnam,Andhra Pradesh,780487,"12.58034192810375,72.56154773991832",True,Other,2021-12-30 21:19:21,
+201133,100495,11,30.0,"Narain, Pingle and Jani Heights",Behind Bhatti and Sons,Pitampura,jamnagar,Gujarat,887572,"28.726523162765126,79.16837402509616",False,Home,2021-11-24 16:50:46,2024-08-31 17:31:44
+201134,100496,26,,Rajagopalan PLC Complex,Narasimhan LLC,Janakpuri,jamnagar,Gujarat,887572,"20.967183515843296,72.49851882338373",True,Work,2021-08-08 18:44:11,2023-02-18 11:43:03
+201135,100497,19,17.0,Soman-Kapur Heights,Bobal Inc,Lajpat Nagar,jamnagar,Gujarat,887572,"36.19312295617324,69.95176752513721",True,Work,2021-02-28 17:08:41,2023-04-19 23:57:42
+201136,100497,39,,"Dewan, Dua and Kuruvilla Heights",B/h. Kanda-Bandi,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"23.4028056311938,72.25035588156322",False,Home,2021-12-07 19:43:22,2024-04-11 01:09:56
+201137,100498,46,25.0,Saxena LLC Heights,Shan-Doctor,Rohini,jamnagar,Gujarat,887572,"23.85826157459432,76.79088531549493",True,Work,2021-11-23 19:05:46,2022-12-11 18:54:11
+201138,100499,26,,Krishnamurthy Ltd Residency,"Behind Hari, Gour and Kara",Hauz Khas,jamnagar,Gujarat,887572,"28.426199445374642,72.96560006306755",True,Work,2021-11-03 18:33:48,2021-12-27 05:58:24
+201139,100499,4,27.0,"Batta, Lad and Sankaran Towers","Near Pandey, Nagy and Choudhary",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"36.709618104243546,80.35950028805264",False,Work,2021-11-24 20:35:21,2022-01-10 22:39:04
+201140,100500,35,29.0,Mutti LLC Apartments,"B/h. Chaudhary, Dora and Mukherjee",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"33.619828092292934,73.10421915452419",True,Work,2021-07-28 08:38:31,2022-08-04 16:19:57
+201141,100500,26,,"Ramesh, Iyer and Prabhu Residency","B/h. Sama, Narain and Dey",Hauz Khas,jamnagar,Gujarat,887572,"37.433712096782955,79.14851424610825",False,Work,2021-08-30 12:03:16,
+201142,100501,13,5.0,"Pau, Keer and Din Towers",Opp. Prakash and Sons,Malviya Nagar,Visakhapatnam,Andhra Pradesh,780487,"29.594402457299864,95.85469565595866",True,Work,2021-07-29 06:25:45,2024-02-17 00:47:51
+201143,100501,7,4.0,"Kara, Sarkar and Khurana Heights",Behind Mandal Inc,Pitampura,jamnagar,Gujarat,887572,"25.104783041817555,79.3611318829021",False,Home,2021-10-07 09:44:59,
+201144,100502,14,,Dyal-Reddy Heights,B/h. Nadkarni Ltd,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"24.9612947027994,70.31634124115598",True,Work,2021-12-04 19:32:35,2023-11-18 17:02:22
+201145,100503,48,7.0,Jani-Sahni Heights,Kohli-Mody,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"22.05211688160091,70.25352647875641",True,Other,2021-11-13 05:21:09,2023-07-24 02:13:38
+201146,100503,37,6.0,Balakrishnan-Sheth Complex,Kibe Ltd,Lajpat Nagar,jamnagar,Gujarat,887572,"23.920299285780647,81.11146238546297",False,Other,2021-07-23 19:02:46,2021-10-16 07:18:54
+201147,100504,26,28.0,Kumer Ltd Heights,Beside Chana-Mane,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"11.993216015166684,75.41071924054457",True,Work,2021-11-29 12:19:04,2022-09-22 03:09:36
+201148,100504,32,,Shukla Group Complex,Beside Tella Inc,Karol Bagh,jamnagar,Gujarat,887572,"24.370607709001682,68.89743958327911",False,Other,2021-06-20 23:07:37,2022-05-25 02:26:14
+201149,100505,16,31.0,More-Salvi Towers,Chaudhuri and Sons,Connaught Place,jamnagar,Gujarat,887572,"24.22817780784137,75.67649668511473",True,Home,2021-11-01 06:24:00,2024-05-27 02:57:45
+201150,100506,37,,"Narayan, Rajagopalan and Boase Apartments",Behind Madan Inc,Rohini,Visakhapatnam,Andhra Pradesh,780487,"21.02861016597578,75.60611669380773",True,Home,2020-10-30 05:01:04,2021-07-01 08:43:00
+201151,100507,45,31.0,Soman-Kurian Residency,"Mall, Lad and Patla",Dwarka,Visakhapatnam,Andhra Pradesh,780487,"14.541732559451866,97.20122208014462",True,Work,2021-02-09 11:55:30,
+201152,100508,12,9.0,"Sant, Munshi and Sanghvi Heights",Opp. Rege-Balay,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"13.184876017361379,79.97105733482331",True,Work,2021-10-19 01:24:23,2023-02-03 18:05:09
+201153,100509,42,,Badal-Natt Residency,Beside Reddy and Sons,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"35.21862860108396,86.45665718532082",True,Other,2021-04-05 18:57:33,
+201154,100509,47,22.0,Dhawan-Dugal Residency,"Near Borah, Kulkarni and Chahal",Dwarka,jamnagar,Gujarat,887572,"15.358315423365735,73.90640334352315",False,Other,2021-02-09 12:15:29,
+201155,100510,1,,Kara Group Complex,Opp. Dayal Ltd,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"30.625445143227182,73.70159404046376",True,Work,2021-12-07 23:00:20,
+201156,100510,14,32.0,"Subramaniam, Subramanian and Shere Apartments",Behind Borra-Sandal,Lajpat Nagar,jamnagar,Gujarat,887572,"23.73792014987054,94.09402562276632",False,Home,2021-12-10 05:15:05,2022-11-01 03:56:36
+201157,100511,22,6.0,"Mital, Balasubramanian and Kalita Heights",B/h. Gera PLC,Greater Kailash,jamnagar,Gujarat,887572,"18.389218048033577,94.30076089766669",True,Home,2021-06-03 02:30:48,2022-03-20 20:07:34
+201158,100511,29,37.0,"Tak, Parekh and Samra Complex",Behind Saraf-Kannan,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"14.290793663952742,96.0908214964976",False,Home,2021-04-05 01:52:09,
+201159,100512,26,16.0,Krishnan-Ganguly Residency,Chauhan-Mangat,Dwarka,jamnagar,Gujarat,887572,"13.781707613057934,90.35140820479214",True,Other,2021-06-22 16:22:52,2021-07-20 10:22:21
+201160,100512,10,32.0,Malhotra Ltd Towers,Beside Dada-Maharaj,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"14.77564275525182,95.5151148602634",False,Work,2021-08-12 07:23:45,2024-12-17 15:10:14
+201161,100513,45,26.0,Hora Ltd Towers,"B/h. Nazareth, Srinivasan and Kohli",Greater Kailash,jamnagar,Gujarat,887572,"22.36175991613934,95.12339906592518",True,Work,2021-08-28 17:55:34,
+201162,100513,36,16.0,"Cherian, Tank and Bhatia Towers","Near Mammen, Krish and Natt",Rohini,Visakhapatnam,Andhra Pradesh,780487,"26.339390089699663,73.53824624465769",False,Other,2021-11-17 11:48:12,2022-04-29 01:59:58
+201163,100514,41,,Dass-Sama Apartments,"Patla, Aurora and Yadav",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"31.49969382491213,77.19394399622267",True,Home,2021-12-12 13:59:51,
+201164,100515,18,,Seshadri Inc Towers,Beside Dhar-Dutt,Hauz Khas,jamnagar,Gujarat,887572,"30.551434349352554,83.15599418854697",True,Work,2021-06-08 13:48:00,2025-04-30 14:00:05
+201165,100515,9,1.0,"Nazareth, Brar and Sabharwal Towers","Opp. Ganesan, Tandon and Ghosh",Saket,Visakhapatnam,Andhra Pradesh,780487,"33.008873212101214,75.6978980293356",False,Work,2021-09-27 00:28:30,
+201166,100516,43,26.0,"Batta, Manne and Zachariah Heights",Beside Patla and Sons,Greater Kailash,jamnagar,Gujarat,887572,"10.472434111353422,85.07846684258554",True,Work,2021-11-14 02:42:31,2021-11-18 11:20:13
+201167,100516,32,14.0,"Sodhi, Nadig and Varma Apartments",Behind Soman Inc,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"14.753608756091097,85.46097955782682",False,Other,2021-09-20 00:50:10,2025-04-22 08:45:38
+201168,100517,37,18.0,Devan Ltd Complex,"Near Deo, Choudhry and Kara",South Extension,Visakhapatnam,Andhra Pradesh,780487,"25.88326923166013,88.85817582718103",True,Work,2021-11-06 10:09:28,
+201169,100517,48,21.0,Agarwal-Yadav Heights,"Near Sanghvi, Talwar and Magar",Mayur Vihar,jamnagar,Gujarat,887572,"16.637192844142685,88.74781727457373",False,Other,2021-08-10 18:07:52,
+201170,100518,50,19.0,Iyer-Mohanty Residency,Opp. Chakrabarti Group,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"30.162805587761156,96.5465185147385",True,Work,2021-05-05 03:34:49,2023-10-11 20:59:24
+201171,100518,7,,Nadkarni-Naidu Residency,"Andra, Bawa and Lanka",Janakpuri,jamnagar,Gujarat,887572,"25.503135837268466,95.38169842316843",False,Other,2021-05-14 22:04:57,2024-06-16 11:48:41
+201172,100519,43,7.0,"Dave, Malhotra and Devi Heights","Behind Bhagat, Oak and Batra",South Extension,Visakhapatnam,Andhra Pradesh,780487,"24.821638512889592,78.39084749451864",True,Work,2021-12-27 17:40:51,
+201173,100520,5,,Majumdar Inc Towers,Beside Kaul-Arya,Greater Kailash,jamnagar,Gujarat,887572,"28.811144417830846,94.94333895594326",True,Home,2021-10-01 21:14:19,
+201174,100520,13,34.0,Divan-Jayaraman Heights,Beside Doctor Inc,South Extension,Visakhapatnam,Andhra Pradesh,780487,"13.44064989790289,94.0953309046258",False,Other,2021-08-18 12:56:59,
+201175,100521,46,33.0,Parmer-Talwar Towers,"Near Sehgal, Mangat and Madan",Mayur Vihar,jamnagar,Gujarat,887572,"23.391041170143012,83.00888801684566",True,Home,2021-10-19 18:04:27,2022-07-22 01:32:05
+201176,100521,9,,Anne-Parmer Complex,"Sachdeva, Dixit and Radhakrishnan",Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"27.34880108912217,70.3504347597553",False,Other,2021-12-29 21:11:06,2021-12-30 03:59:44
+201177,100522,5,4.0,Manda and Sons Towers,Balay PLC,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"37.23352916951171,74.40795902926676",True,Other,2021-06-16 10:35:51,
+201178,100522,42,20.0,Kulkarni Ltd Towers,"Nayar, Lad and Karan",Lajpat Nagar,jamnagar,Gujarat,887572,"25.904185075053725,96.46391935858088",False,Work,2021-12-27 23:13:38,2022-11-10 16:46:20
+201179,100523,21,29.0,Tella PLC Complex,B/h. Manda-Brar,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"31.031295463934313,79.74372730407399",True,Other,2021-09-24 17:29:29,2023-12-23 06:09:15
+201180,100523,1,29.0,"Bains, Sandal and Jain Residency",Opp. Garde-Iyer,Karol Bagh,jamnagar,Gujarat,887572,"31.87636071059437,70.1473505710451",False,Other,2021-10-21 04:27:35,
+201181,100524,27,,Ratta and Sons Towers,Opp. Prabhakar-Joshi,Saket,jamnagar,Gujarat,887572,"11.289528455033036,77.91170098240065",True,Work,2021-12-10 22:35:15,2022-02-10 16:56:15
+201182,100525,33,18.0,Hora Inc Heights,"Beside Lata, Nagar and Parmar",Malviya Nagar,jamnagar,Gujarat,887572,"35.46224023747418,95.73747622653805",True,Work,2021-11-28 14:10:59,2023-01-20 14:25:39
+201183,100525,49,32.0,"Vig, Suresh and Sama Heights",Near Vala PLC,Dwarka,Visakhapatnam,Andhra Pradesh,780487,"15.839158449557425,81.00371936850063",False,Home,2021-11-30 22:52:46,
+201184,100526,34,34.0,"Gulati, Saraf and Keer Towers","Behind Kamdar, Pradhan and Bhatt",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"12.27753852979964,88.20802515589695",True,Work,2021-11-05 12:58:51,
+201185,100526,25,21.0,"Kumer, Choudhry and Parikh Apartments","Opp. Choudhury, Wali and Taneja",Dwarka,jamnagar,Gujarat,887572,"34.439804082328706,93.29796205973193",False,Work,2021-07-08 23:08:31,
+201186,100527,38,19.0,"Hari, Comar and Pingle Apartments",Opp. Chaudhary LLC,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"33.1624786014042,74.4590056222336",True,Other,2021-07-22 21:59:59,2025-01-18 05:19:03
+201187,100527,35,2.0,"Narang, Joshi and Deep Complex",Opp. Shanker and Sons,Mayur Vihar,jamnagar,Gujarat,887572,"17.693700584478684,82.1171292082247",False,Home,2021-11-30 08:16:14,2025-03-25 18:27:41
+201188,100528,2,27.0,"Chopra, Pandit and Karpe Residency",Near Sama and Sons,Rajouri Garden,jamnagar,Gujarat,887572,"26.568559577393025,91.82236826524294",True,Work,2021-11-22 21:55:26,
+201189,100528,14,27.0,Setty Group Apartments,Opp. Chawla Inc,Saket,Visakhapatnam,Andhra Pradesh,780487,"31.681557511207806,78.20099879972074",False,Home,2020-12-31 22:03:20,2022-07-14 02:21:47
+201190,100529,35,,Karnik-Iyengar Complex,"B/h. Pathak, Dugar and Nadkarni",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"10.419563405272825,76.38322810173513",True,Other,2021-11-26 06:37:42,
+201191,100529,50,5.0,Som and Sons Complex,"Beside Bhasin, Varghese and Anne",Lajpat Nagar,jamnagar,Gujarat,887572,"22.555895305766104,92.81429313753475",False,Other,2021-11-22 21:14:22,2023-07-28 20:37:21
+201192,100530,18,10.0,"Padmanabhan, Sankar and Basak Complex",B/h. Minhas-Kohli,Connaught Place,jamnagar,Gujarat,887572,"14.524551607573729,79.8128190517289",True,Work,2021-11-09 19:17:18,2023-09-17 09:46:00
+201193,100531,21,30.0,Joshi-Halder Residency,B/h. Bobal-Bali,Hauz Khas,jamnagar,Gujarat,887572,"30.886160953544916,90.16366362561777",True,Work,2021-07-15 13:55:52,
+201194,100531,33,1.0,Ratta-Shan Complex,B/h. Chaudhari Group,Pitampura,Visakhapatnam,Andhra Pradesh,780487,"27.094418521697982,95.91788027331339",False,Other,2021-06-11 16:51:07,
+201195,100532,22,36.0,Chad and Sons Apartments,Opp. Gole and Sons,Malviya Nagar,jamnagar,Gujarat,887572,"37.09165825709801,68.73111266019288",True,Other,2021-09-23 05:03:57,2024-04-17 13:29:27
+201196,100533,10,3.0,Patla Ltd Residency,Near Khosla-Joshi,Rohini,jamnagar,Gujarat,887572,"35.01134910202793,85.84326467428377",True,Home,2021-12-03 07:05:17,2023-04-09 15:07:02
+201197,100533,18,2.0,"Acharya, Saini and Pal Towers","Opp. Talwar, Raja and Kade",Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"17.515623981387122,69.86681056723789",False,Home,2021-10-25 14:54:36,2023-02-24 08:35:31
+201198,100534,43,19.0,"Khanna, Mann and Verma Complex","Beside Date, Kala and Anne",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"18.987166260198833,79.12930498484006",True,Home,2021-12-11 13:09:24,2022-10-30 20:07:46
+201199,100534,5,28.0,Sachdeva-Bakshi Heights,Srinivas-Rajagopalan,Janakpuri,jamnagar,Gujarat,887572,"29.471728079332664,74.4518711500276",False,Other,2021-12-18 15:57:27,2022-12-11 21:01:39
+201200,100535,9,21.0,Bal-Deep Complex,Beside Deshmukh-Kara,Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"23.41764621685924,95.46733102569544",True,Home,2021-09-22 12:07:23,2024-11-21 06:52:41
+201201,100535,11,,Dara Group Residency,"Opp. Khare, Borah and Swaminathan",Rajouri Garden,jamnagar,Gujarat,887572,"20.937396702982014,89.73645844983052",False,Work,2021-07-18 03:30:54,2021-11-03 12:25:43
+201202,100536,46,18.0,Bali and Sons Residency,Beside Rastogi-Kalita,Karol Bagh,jamnagar,Gujarat,887572,"32.88839440071966,77.05188996268079",True,Other,2021-12-25 02:22:58,
+201203,100536,29,,Gola and Sons Apartments,Beside Ramaswamy Ltd,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"13.708364393025576,85.55464916154236",False,Other,2021-11-14 03:54:22,2022-05-19 00:04:20
+201204,100537,6,34.0,Patla PLC Apartments,Beside Kohli-Sahni,Janakpuri,jamnagar,Gujarat,887572,"23.019059762118577,77.11942494838476",True,Home,2021-02-14 16:01:06,2024-09-15 17:11:01
+201205,100537,24,37.0,Om-Munshi Heights,Beside Shanker LLC,Lajpat Nagar,Visakhapatnam,Andhra Pradesh,780487,"24.423773546044664,92.56710217347869",False,Work,2021-03-30 07:26:54,2024-12-27 14:03:32
+201206,100538,9,10.0,"Nair, Ratta and Rai Residency","Lanka, Chaudhari and Deep",Pitampura,jamnagar,Gujarat,887572,"11.876175790645561,86.53443705923003",True,Other,2021-09-26 10:44:27,
+201207,100539,11,,"Keer, Dugal and Patla Complex",Near Taneja-Mody,Saket,jamnagar,Gujarat,887572,"29.086139414656913,91.44224583455241",True,Work,2021-10-02 00:54:43,2022-06-13 22:55:43
+201208,100540,46,29.0,Dua-Jaggi Apartments,"Dani, Bir and Deshpande",Rajouri Garden,jamnagar,Gujarat,887572,"24.523925386313977,91.82321051288203",True,Work,2021-12-30 13:23:59,2023-11-17 02:33:55
+201209,100540,46,,"Krishnan, Bala and Chopra Towers","Beside Amble, Naik and Mani",Pitampura,Visakhapatnam,Andhra Pradesh,780487,"17.567637750246647,74.48209007524027",False,Other,2021-12-30 13:52:22,
+201210,100541,35,3.0,"Basu, Bal and Bobal Towers","Khosla, Vasa and Vohra",Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"21.91285213391706,70.59311940312978",True,Other,2021-03-10 04:40:40,
+201211,100541,32,36.0,"Hayer, Bhattacharyya and Mani Complex",B/h. Ghose Group,Rohini,jamnagar,Gujarat,887572,"23.28989072171549,86.07337446218814",False,Other,2020-12-16 16:17:16,2022-10-16 20:29:33
+201212,100542,26,14.0,Dayal-Murthy Complex,B/h. Nori-Pathak,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"23.342411897660654,80.43476131530936",True,Other,2021-05-17 03:28:34,
+201213,100543,2,26.0,Dube Group Apartments,Opp. Patla Ltd,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"25.735392395072616,88.14993763234841",True,Home,2021-12-17 15:12:17,
+201214,100544,43,22.0,"Dutta, Kapur and Chander Apartments",Behind Mane LLC,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"31.972579717391923,71.54838445496777",True,Other,2021-09-29 14:16:08,2022-02-16 17:01:28
+201215,100544,35,25.0,Nigam LLC Apartments,Behind Wali PLC,Hauz Khas,jamnagar,Gujarat,887572,"12.307400946408485,91.78043276785377",False,Other,2021-06-12 10:38:13,2024-07-05 07:06:18
+201216,100545,26,39.0,Sule-Murty Apartments,Near Vaidya-Thakur,Saket,jamnagar,Gujarat,887572,"21.676702561342587,72.46732012566318",True,Work,2021-08-23 20:15:24,2024-01-16 05:20:35
+201217,100546,36,,Doshi and Sons Complex,Behind Kaur-Dube,Rajouri Garden,jamnagar,Gujarat,887572,"15.1442588607817,76.548422329098",True,Other,2021-12-24 21:37:02,2024-07-27 19:37:43
+201218,100546,28,39.0,Balasubramanian-Golla Towers,Near Basak-Andra,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"29.24436499798699,69.96301544168327",False,Work,2021-12-26 09:26:53,2024-07-12 18:16:09
+201219,100547,40,34.0,"Menon, Ravel and Brahmbhatt Residency","Opp. Bhat, Agrawal and Choudhry",Rohini,jamnagar,Gujarat,887572,"18.745946524762335,81.43589964791275",True,Work,2021-11-25 22:07:57,2023-04-13 06:28:41
+201220,100547,48,,Kade PLC Residency,Salvi Ltd,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"34.09169162784663,71.55928374729251",False,Work,2021-11-03 13:12:34,2022-10-01 10:46:12
+201221,100548,44,21.0,"Agarwal, Basu and Yogi Towers",Chaudry Inc,Rajouri Garden,jamnagar,Gujarat,887572,"9.3558489534133,72.32523253096527",True,Home,2021-12-21 01:43:25,2022-08-04 23:29:38
+201222,100549,39,15.0,Jani-Dua Complex,"B/h. Goyal, Gokhale and Dey",Greater Kailash,jamnagar,Gujarat,887572,"32.407305662189245,76.22028473262893",True,Work,2021-05-06 14:06:24,2024-02-29 21:25:05
+201223,100549,33,7.0,"Krishnamurthy, Kibe and Dhingra Apartments",B/h. Sarna-Tata,Connaught Place,Visakhapatnam,Andhra Pradesh,780487,"17.410208224674363,82.50099219680058",False,Home,2021-09-26 11:18:05,2023-06-18 09:09:54
+201224,100550,7,15.0,"Nadkarni, Mital and Chaudhry Heights",Near Tata Group,Vasant Kunj,Visakhapatnam,Andhra Pradesh,780487,"20.0974133315982,96.97820893805721",True,Home,2021-07-21 16:45:30,2025-02-20 05:03:00
+201225,100550,49,35.0,Madan-Dugar Complex,"Near Ghosh, Sandal and Varghese",Greater Kailash,jamnagar,Gujarat,887572,"9.494255037733586,86.939741807821",False,Work,2021-10-24 10:41:11,2023-03-15 15:31:15
+201226,100551,4,10.0,Chawla-Din Residency,"Kapoor, Gade and Sanghvi",South Extension,jamnagar,Gujarat,887572,"31.88545952079408,86.61692540066781",True,Work,2021-11-08 11:34:28,2021-12-31 15:03:30
+201227,100551,19,,Barad LLC Towers,Behind Chaudhary PLC,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"16.96857808174491,94.82266283284588",False,Home,2021-08-05 21:25:21,2023-09-09 19:02:01
+201228,100552,47,20.0,Kaur LLC Apartments,Near Ghosh-Kara,Karol Bagh,Visakhapatnam,Andhra Pradesh,780487,"14.763532171985855,72.54604356181326",True,Work,2021-05-25 16:11:19,2024-09-10 07:57:39
+201229,100552,49,14.0,"Sur, Sane and Krishnan Apartments","B/h. Tara, Varty and Pathak",Lajpat Nagar,jamnagar,Gujarat,887572,"35.99117601028091,79.15076985533031",False,Other,2021-04-05 00:34:53,2022-12-15 02:17:57
+201230,100553,46,29.0,Bahl PLC Residency,Near Mohanty-Dyal,Janakpuri,Visakhapatnam,Andhra Pradesh,780487,"19.890282017607777,84.67544606066019",True,Other,2021-09-16 20:07:09,
+201231,100553,3,,"Chaudhary, Mohan and Chahal Apartments",B/h. Chana LLC,Janakpuri,jamnagar,Gujarat,887572,"19.154031858709352,88.8340530205289",False,Work,2021-03-31 20:56:55,2025-03-23 07:22:37
+201232,100554,15,,"Kohli, Lad and Tank Apartments",Beside Andra-Bose,Mayur Vihar,Visakhapatnam,Andhra Pradesh,780487,"37.38582469450332,79.3448186149386",True,Other,2021-08-21 06:33:20,2023-03-08 17:58:26
+201233,100555,17,38.0,"Choudhury, Golla and Pandya Towers","Beside Sarkar, Korpal and Hayer",Saket,Visakhapatnam,Andhra Pradesh,780487,"36.04463931935774,94.6914066435287",True,Work,2021-09-29 01:25:44,
+201234,100555,25,17.0,Basak-Vyas Towers,Opp. Devan Ltd,Greater Kailash,jamnagar,Gujarat,887572,"11.972086185850246,89.91294880545892",False,Other,2021-08-24 13:14:16,2022-07-25 16:17:51
+201235,100556,42,,"Subramaniam, Goswami and Wable Towers",B/h. Dixit Inc,Greater Kailash,jamnagar,Gujarat,887572,"35.611224849237345,95.22545689872376",True,Home,2021-11-21 02:42:58,2023-09-24 01:22:51
+201236,100556,29,,"Koshy, Oak and Nair Apartments",Opp. Pau Ltd,Rajouri Garden,Visakhapatnam,Andhra Pradesh,780487,"13.2350766885738,83.36385912760157",False,Home,2021-12-17 02:28:07,2023-09-27 01:51:34
+201237,100557,5,19.0,"Bath, Saxena and Bahl Apartments",Opp. Mander-Subramaniam,Hauz Khas,Visakhapatnam,Andhra Pradesh,780487,"30.68567937579509,92.61853712839789",True,Other,2021-10-16 09:22:27,2023-04-21 22:40:54
+201238,100557,45,38.0,"Kadakia, Issac and Deshpande Heights",Behind Aggarwal-Chauhan,Vasant Kunj,jamnagar,Gujarat,887572,"28.664649506033356,91.85009054906904",False,Work,2021-07-28 07:27:13,
+201239,100558,38,9.0,"Chopra, Yadav and Oak Complex","Beside Halder, Patla and Singh",South Extension,Visakhapatnam,Andhra Pradesh,780487,"27.80158718077928,97.1620861745696",True,Home,2020-12-14 18:32:47,2021-04-16 05:32:15
+201240,100559,10,23.0,Behl Inc Apartments,"Behind Nanda, Chadha and Kuruvilla",Greater Kailash,Visakhapatnam,Andhra Pradesh,780487,"27.257641702042235,79.67664207359508",True,Home,2021-11-22 07:29:44,
+201241,100560,27,30.0,Bahl-Sandal Apartments,"Behind Sule, Chana and Pandya",Greater Kailash,jamnagar,Gujarat,887572,"19.42457460542375,80.5621787929221",True,Work,2021-08-18 04:26:31,2021-10-25 12:15:51
+201242,100561,9,26.0,Varty PLC Residency,"B/h. Natarajan, Thakur and Upadhyay",Dwarka,jamnagar,Gujarat,887572,"32.0901856552347,95.01508787248764",True,Home,2021-05-29 00:14:07,2023-05-20 11:30:09
+201243,100562,9,15.0,Magar and Sons Heights,"Behind Nair, Dhar and Dada",Lajpat Nagar,jamnagar,Gujarat,887572,"24.291161366975608,70.76617858659363",True,Home,2021-08-29 04:35:39,2023-11-14 15:01:54

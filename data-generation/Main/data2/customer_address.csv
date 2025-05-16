@@ -1,0 +1,667 @@
+AddressID,CustomerID,FlatNo/HouseNo,Floor,Building,Landmark,Locality,City,State,PinCode,Coordinates,PrimaryFlag,AddressType,CreatedDate,ModifiedDate
+47292,23572,32,19.0,Grewal-Reddy Complex,Opp. Cheema PLC,Lajpat Nagar,Vadodara,Gujarat,998662,"18.48998124070922,81.78633073907007",False,Work,2022-05-21 22:00:54,2024-05-06 08:46:44
+167982,83892,34,10.0,Mohan-Bumb Residency,"Opp. Vala, Datta and Balan",Malviya Nagar,Chennai,Tamil Nadu,681858,"29.1456993075776,95.8510787557715",True,Work,2024-01-23 16:17:22,
+86334,43196,50,25.0,Sengupta LLC Heights,Beside Chokshi-Wali,Rajouri Garden,Nashik,Maharashtra,240889,"18.46849908324962,79.68939526967617",True,Other,2024-08-18 23:37:42,2025-04-01 12:25:47
+77515,38770,34,20.0,"Srivastava, Nayar and Tank Complex","Opp. Apte, Babu and Bhasin",Saket,Kota,Rajasthan,775822,"24.24931705840642,72.12300501256063",False,Home,2025-04-03 01:58:58,2025-04-09 08:25:27
+153649,76752,50,19.0,Radhakrishnan and Sons Heights,Beside Chadha Ltd,Hauz Khas,Nashik,Maharashtra,240889,"16.557857191380247,89.08713716128673",True,Other,2023-07-18 08:58:35,2023-08-03 14:44:25
+50519,25207,13,,"Agrawal, Kade and Bal Residency","B/h. Chand, Konda and Pau",Mayur Vihar,Ahmedabad,Gujarat,639903,"13.890612730425165,72.16205741660735",False,Other,2024-10-09 21:45:48,2025-04-27 21:23:08
+17344,8663,48,21.0,Saraf Ltd Towers,Opp. Rao LLC,Karol Bagh,Varanasi,Uttar Pradesh,489201,"16.086306163360607,92.17756950938887",False,Other,2024-05-18 17:00:15,2024-11-06 21:57:51
+122116,61016,3,38.0,Agarwal Group Apartments,Behind Magar Ltd,Rohini,Agra,Uttar Pradesh,875179,"26.08541201238743,80.8324619810229",True,Work,2023-11-13 16:22:18,2023-11-20 20:26:57
+100846,50415,26,22.0,"Jhaveri, Pall and Oommen Heights",Beside Ram LLC,Connaught Place,Meerut,Uttar Pradesh,417419,"29.02894233564441,73.59561513091755",True,Other,2025-03-25 14:40:11,2025-04-18 21:48:25
+52822,26374,23,31.0,Arya Inc Towers,Opp. Kurian-Mallick,South Extension,Jaipur,Rajasthan,698508,"25.360647463086863,77.54293994267786",False,Work,2025-04-24 03:50:26,
+64075,32001,18,37.0,Vohra Group Towers,Beside Krishnamurthy-Kothari,Malviya Nagar,Faridabad,Haryana,506922,"13.986461837674621,71.51521519353456",False,Other,2024-07-11 11:55:22,2024-09-29 15:43:48
+50252,25068,13,,Suri PLC Heights,Beside Deshmukh PLC,South Extension,Himatnagar,Gujarat,789514,"35.48972094912253,89.87133693689398",True,Home,2024-10-28 09:23:17,2025-01-24 11:13:48
+129856,64872,15,,Basak LLC Complex,"Bir, Sarraf and Gandhi",Greater Kailash,Patna,Bihar,508382,"21.615948747558875,82.00030647436867",True,Other,2025-01-19 02:46:09,
+190341,95094,38,,"Bassi, Choudhry and Balay Residency","B/h. Basu, Mani and Kapoor",Malviya Nagar,Aurangabad,Maharashtra,803384,"23.575199599454887,95.84785824232732",True,Work,2025-01-28 11:27:32,
+37694,18746,25,22.0,"Babu, Sangha and Bava Residency",Near Goda-Gill,Mayur Vihar,Hubli,Karnataka,594714,"12.252392372742975,81.57730560406094",False,Home,2022-11-16 05:08:07,2023-08-22 17:37:05
+88061,44030,6,25.0,Behl-Thakkar Complex,Bahl Ltd,Lajpat Nagar,Amritsar,Punjab,354098,"16.13983125272317,91.59830238732292",True,Work,2025-02-24 08:11:41,2025-04-06 11:31:48
+154754,77294,38,16.0,Soni-Shukla Complex,"Beside Prabhu, Arya and Gupta",Dwarka,Varanasi,Uttar Pradesh,489201,"36.34673787839392,95.4275753712794",False,Work,2024-03-23 13:43:27,2025-01-03 05:31:20
+125851,62857,8,3.0,Nagy Group Residency,"Opp. Keer, Grewal and Kashyap",Rohini,Varanasi,Uttar Pradesh,489201,"21.539826984910874,69.64756076493485",False,Other,2024-12-16 20:13:36,
+156146,77978,24,11.0,Wadhwa Ltd Towers,Beside Dash PLC,Lajpat Nagar,Dhanbad,Jharkhand,413445,"15.303066586666857,88.12822563435951",True,Work,2024-08-04 23:30:06,2024-10-30 03:32:11
+193305,96552,18,7.0,"Kala, Kanda and Pandit Heights",Beside Garde-Rau,Malviya Nagar,Meerut,Uttar Pradesh,417419,"20.738621763000722,80.97807507982687",False,Work,2022-11-14 22:40:57,2024-11-18 04:16:13
+18471,9214,10,2.0,Nath Inc Residency,"Opp. Mander, Bhargava and Ganguly",South Extension,Aurangabad,Maharashtra,803384,"12.384993553003376,93.37736383586697",False,Other,2020-12-31 04:39:25,
+129289,64562,37,28.0,"Kapur, Borde and Goda Apartments",Near Suresh Ltd,Vasant Kunj,Nadiad,Gujarat,280555,"11.817173812943171,83.49259106304598",True,Work,2024-11-24 19:59:30,2024-12-23 08:42:21
+193241,96521,5,32.0,Kadakia PLC Apartments,"Beside Yadav, Rege and Ramakrishnan",South Extension,Agra,Uttar Pradesh,875179,"32.58235026468791,93.81782518619393",False,Other,2023-06-27 06:17:33,
+190882,95365,36,36.0,Nazareth Ltd Heights,Behind Balakrishnan Inc,Mayur Vihar,Nadiad,Gujarat,280555,"20.653340981526,82.104207566284",False,Home,2024-11-10 00:50:37,
+98907,49461,18,23.0,Prabhu and Sons Residency,"Bhakta, Bobal and Goswami",Malviya Nagar,Kochi,Kerala,277414,"32.472490640732254,90.5779600120236",True,Other,2024-05-22 09:05:48,2024-05-24 01:40:12
+103006,51485,16,13.0,Mukherjee-Basu Complex,"Near Baria, Krishna and Das",Karol Bagh,Bangalore,Karnataka,344053,"18.86825278818555,86.84827941075508",True,Home,2024-07-22 10:08:14,2024-07-25 13:53:05
+169331,84564,10,,Krish-Minhas Heights,Opp. Khanna Ltd,Rohini,Agra,Uttar Pradesh,875179,"25.582646669765545,78.90084837615117",False,Home,2024-08-22 11:58:10,2025-01-18 21:07:09
+174390,87111,3,32.0,Ravi Inc Complex,Om Group,Karol Bagh,Nagpur,Maharashtra,462944,"37.3976210353062,75.60646276738836",True,Home,2025-01-27 22:34:34,2025-01-31 11:00:13
+21770,10864,44,,Mand-Tank Towers,Beside Kumar-Yohannan,Hauz Khas,Jaipur,Rajasthan,698508,"10.042819990660897,86.45788248315567",False,Other,2024-02-15 10:20:20,2024-09-21 04:23:18
+89365,44683,30,18.0,"Panchal, Morar and Kannan Complex","Beside Mital, Walla and Kanda",Mayur Vihar,Mumbai,Maharashtra,887572,"23.585018987225954,85.93028303639812",False,Home,2023-12-24 18:55:28,2025-02-19 01:58:34
+118998,59466,38,,Mand Inc Complex,Opp. Balan-Dhar,Janakpuri,Vijayawada,Andhra Pradesh,874544,"24.78633127387682,89.3679116777666",False,Other,2022-07-17 05:30:42,2023-01-10 12:39:24
+181761,90815,49,21.0,Shanker-Sachdev Heights,Opp. Mahal Ltd,Lajpat Nagar,Kolkata,West Bengal,552417,"28.73949982368775,69.39794834572055",True,Home,2024-01-19 15:45:34,
+108893,54418,25,7.0,Ganesh LLC Complex,Opp. Dara-Chaudhari,Karol Bagh,Nagpur,Maharashtra,462944,"19.613089304867625,82.4869179839445",True,Home,2025-04-08 17:09:24,2025-04-11 17:05:04
+98708,49355,2,34.0,Sarin-Narasimhan Residency,Beside Vyas PLC,South Extension,Aurangabad,Maharashtra,803384,"13.889856304159883,93.41416563302379",True,Other,2023-09-24 07:46:54,
+156293,78056,17,27.0,Kumer PLC Complex,"B/h. Tank, Bhavsar and Karpe",Pitampura,Bhopal,Madhya Pradesh,727889,"35.467073334902324,95.70249822002967",False,Home,2023-05-04 08:05:08,2024-12-11 00:54:29
+78062,39052,22,33.0,Kapadia-Karan Towers,Wali-Hans,Lajpat Nagar,Nadiad,Gujarat,280555,"25.683750097348643,73.22638468845173",False,Home,2023-08-19 03:24:45,
+127349,63605,21,22.0,Oak PLC Heights,Opp. Goda-Om,Rajouri Garden,Indore,Madhya Pradesh,466778,"23.461984000871304,76.84772568263665",True,Work,2025-01-31 03:06:35,2025-02-21 00:34:33
+26851,13361,6,,Sandal PLC Heights,B/h. Divan LLC,Janakpuri,Mumbai,Maharashtra,887572,"14.342019818870117,69.17912620521892",True,Other,2023-02-09 03:30:00,
+183520,91693,32,,Balasubramanian and Sons Apartments,"Opp. De, Mane and Maharaj",Greater Kailash,Chandigarh,Punjab,549898,"11.25461114843833,96.08630882437981",False,Home,2024-08-24 06:48:16,2025-03-03 21:47:00
+6289,3148,8,33.0,Puri Inc Residency,Hari-Swamy,Malviya Nagar,Morbi,Gujarat,508591,"27.616889278513867,84.02325714686569",True,Other,2024-09-29 06:52:54,2025-01-09 13:22:37
+59972,29926,20,4.0,"Raman, Madan and Salvi Heights",Beside Rai LLC,Rajouri Garden,Nadiad,Gujarat,280555,"9.421574583250294,78.65274859026664",False,Home,2024-01-08 07:49:58,2024-06-14 06:23:29
+135447,67656,32,,"Parsa, Butala and Chad Complex","Hayre, Vig and Gade",Pitampura,Indore,Madhya Pradesh,466778,"23.502815210045814,79.84030432910164",False,Other,2025-03-19 19:57:29,2025-04-23 21:42:35
+182535,91197,36,11.0,Thakkar Group Residency,"Opp. Arya, Sachdev and Yohannan",Rohini,Surat,Gujarat,335772,"20.80168686452427,74.02185965320287",True,Work,2022-06-12 22:33:05,2024-09-15 05:00:29
+74032,37016,3,32.0,Mahal PLC Residency,Behind Chowdhury-Bhardwaj,Mayur Vihar,Hyderabad,Telangana,217473,"23.762696983601387,84.04944757897492",True,Home,2023-03-03 17:28:36,2023-10-29 12:17:53
+150316,75062,43,,"Mallick, Kashyap and Agarwal Apartments",B/h. Sarraf-Munshi,Pitampura,Agra,Uttar Pradesh,875179,"14.462098579217134,94.79589862652303",False,Other,2025-02-01 16:29:18,
+73632,36812,22,32.0,Prasad PLC Towers,B/h. Goel-Solanki,Greater Kailash,Vijayawada,Andhra Pradesh,874544,"11.124158896779246,86.6038388483158",False,Home,2022-04-30 12:25:00,
+13686,6835,29,,Atwal and Sons Heights,Opp. Deol-Jaggi,Rohini,Morbi,Gujarat,508591,"9.7614584926441,90.49177558728292",False,Home,2020-11-04 12:24:13,2024-07-22 19:56:31
+185165,92508,31,35.0,Bhakta-Ramesh Residency,Beside Bajaj-Khanna,Vasant Kunj,Nadiad,Gujarat,280555,"14.163040636105624,94.22933910934783",True,Work,2025-03-11 03:39:37,2025-04-06 11:43:18
+38422,19096,50,30.0,Sastry LLC Residency,Beside Bhatt Ltd,Saket,Guwahati,Assam,116814,"23.424919758866253,69.32908406050831",False,Work,2021-07-18 04:50:33,2024-06-25 19:56:23
+196417,98089,32,34.0,"Pandit, Chand and Mann Heights",B/h. Brar-Aurora,Karol Bagh,Faridabad,Haryana,506922,"15.863935351494874,70.3731329903959",False,Other,2025-04-30 18:51:00,2025-05-01 04:03:43
+118244,59083,16,40.0,Khare Ltd Heights,Beside Sahni PLC,Greater Kailash,Agra,Uttar Pradesh,875179,"30.414795371344248,77.17709841010694",True,Other,2021-12-22 14:54:47,2024-05-26 14:31:07
+124421,62152,1,17.0,"Bajwa, Kala and Agate Towers",B/h. Oak-Bhalla,Pitampura,Vijayawada,Andhra Pradesh,874544,"32.26269544379237,95.92215520268147",False,Other,2025-04-24 18:04:59,2025-04-29 23:26:38
+82141,41108,37,22.0,Rama Inc Heights,Saraf LLC,Saket,Hubli,Karnataka,594714,"19.589434999218263,78.89395712234122",False,Work,2025-04-01 18:02:23,
+70321,35147,35,15.0,"Mohanty, Divan and Radhakrishnan Complex",Near Pandit-Batra,Hauz Khas,Nagpur,Maharashtra,462944,"23.628379143337163,72.22635860563784",False,Work,2024-05-03 23:46:35,
+76002,38016,5,11.0,Seshadri-Mangal Complex,"Behind Sachar, Dhingra and Narayanan",Pitampura,Srinagar,Jammu and Kashmir,848797,"21.07721203491807,90.40752965827554",True,Work,2024-02-29 22:56:14,2024-12-04 07:42:34
+73125,36557,42,8.0,Prakash PLC Heights,Near Rama PLC,Saket,Bangalore,Karnataka,344053,"21.80809271725049,85.76137217439388",True,Home,2024-08-28 02:26:46,
+131411,65665,17,37.0,"Pathak, Memon and Bansal Complex",Opp. Raval PLC,Karol Bagh,Porbandar,Gujarat,845911,"36.43217175036062,88.44390335966038",False,Other,2024-06-28 07:44:12,2025-03-08 21:40:42
+86640,43345,33,33.0,Peri and Sons Apartments,Beside Kant PLC,South Extension,Dhanbad,Jharkhand,413445,"16.094889152690264,88.90846368881947",False,Work,2025-02-16 06:57:36,
+3701,1862,28,,Sane-Pradhan Complex,B/h. Palla-Kibe,Rajouri Garden,Chennai,Tamil Nadu,681858,"28.219964991469006,95.803090473364",False,Work,2025-03-12 10:20:03,
+184300,92080,50,3.0,Brahmbhatt-Loyal Residency,Opp. Kalita-Mishra,Vasant Kunj,Rajkot,Gujarat,758564,"18.32524495165793,90.35504873053998",True,Other,2022-09-20 12:09:59,2024-09-15 13:25:40
+77671,38849,48,16.0,Sarraf-Gour Towers,Near Sidhu Ltd,Pitampura,Meerut,Uttar Pradesh,417419,"23.456976235544673,90.43816728481863",True,Other,2024-12-29 15:15:35,2025-02-25 03:26:35
+10582,5285,37,14.0,"Raghavan, Prashad and Cherian Towers","Near Vasa, Bains and Balakrishnan",Mayur Vihar,Agra,Uttar Pradesh,875179,"27.233452024126294,87.07717116035136",False,Other,2023-06-05 19:42:44,2023-06-06 17:52:42
+10019,5001,13,30.0,Cherian-Sawhney Residency,B/h. Borah-Karan,Vasant Kunj,Mysore,Karnataka,781088,"26.713172428233833,69.82771431660822",False,Home,2024-03-20 23:29:15,2024-11-22 08:45:16
+37605,18707,38,34.0,Choudhry-Mann Heights,Near Mishra-Chakrabarti,Rohini,Rajkot,Gujarat,758564,"23.218537825288152,81.39747270162574",False,Work,2023-02-28 08:10:11,2025-02-26 01:11:09
+55600,27777,2,19.0,"Walla, Sridhar and Kaul Complex",Near Tiwari-Saran,South Extension,Mumbai,Maharashtra,887572,"30.906113415046384,68.82922764463046",True,Work,2024-10-12 03:20:23,2024-10-21 12:10:33
+130241,65073,14,,"Shukla, Bhattacharyya and Dugar Towers",Agate-Bora,Rohini,Srinagar,Jammu and Kashmir,848797,"32.728923945641895,97.18103086927452",True,Work,2024-08-23 07:47:19,
+159898,79867,38,,"Krishnan, Chana and Dani Residency",Near Nagar-Bobal,South Extension,Porbandar,Gujarat,845911,"17.990727431983203,77.43561222437202",True,Other,2025-01-12 15:36:30,
+94480,47260,39,1.0,Dar Inc Towers,Near Bail-Bora,Janakpuri,Vijayawada,Andhra Pradesh,874544,"20.300535115684106,71.95549985733824",False,Home,2020-08-18 03:02:01,2024-08-05 13:28:30
+127817,63835,38,,Mittal-Bora Towers,"Opp. Guha, Master and Chopra",Connaught Place,Porbandar,Gujarat,845911,"23.069926675184973,71.46853081277858",False,Home,2022-02-23 12:03:06,2023-01-19 21:48:56
+160099,79966,45,5.0,Dugar-Sharma Apartments,Behind Garg-Bansal,Connaught Place,Vijayawada,Andhra Pradesh,874544,"13.553948409431058,89.37268512066055",True,Home,2022-06-02 15:43:49,2023-12-28 06:36:04
+59523,29715,13,35.0,Sunder-Kara Residency,Mammen-Hayer,Pitampura,Hubli,Karnataka,594714,"31.130184743889714,91.78781592773942",True,Other,2024-02-19 11:46:00,2024-09-12 10:58:56
+166567,83172,22,,"Zachariah, Deshpande and Thakkar Heights","Raju, Dhingra and Mitter",Lajpat Nagar,Anand,Gujarat,776563,"12.097608222684954,78.602211194089",True,Work,2023-02-15 13:03:20,
+152354,76099,47,40.0,Gopal Group Heights,Ravi-Saha,Hauz Khas,Gandhinagar,Gujarat,329684,"11.43172985743751,79.33428177609207",False,Work,2024-12-30 17:28:39,2025-03-21 14:43:59
+182804,91329,14,6.0,"Dyal, Maharaj and Shroff Heights",B/h. Bath and Sons,Rohini,Patna,Bihar,508382,"28.68822544512544,95.94032307490318",True,Other,2024-08-28 20:55:51,2025-04-23 10:45:34
+50590,25243,31,,Kalla Ltd Residency,Behind Varma-Savant,South Extension,Dhanbad,Jharkhand,413445,"8.817908581023119,89.32823635142361",False,Home,2024-02-26 05:40:08,2024-07-04 18:05:50
+172304,86087,12,24.0,"Balay, Sule and Rau Heights",Opp. Khosla Group,Karol Bagh,Pune,Maharashtra,208246,"31.984500614167466,77.64164205930344",True,Home,2022-07-26 23:42:42,2023-01-17 11:14:41
+87990,43993,15,19.0,Mammen-Murty Apartments,Behind Chada PLC,Connaught Place,Nagpur,Maharashtra,462944,"13.540922205748256,86.0543327973317",True,Other,2024-03-09 01:14:49,
+78027,39035,14,39.0,Saha-Hora Towers,Opp. Varughese LLC,Mayur Vihar,Delhi,Delhi,780487,"35.41155771192081,89.9793496065512",True,Work,2024-06-04 22:03:29,
+107330,53631,41,40.0,Dalal PLC Complex,Ramakrishnan-Palan,Vasant Kunj,Nagpur,Maharashtra,462944,"30.345014936443164,69.34683665937845",False,Work,2021-11-03 18:41:03,
+98217,49110,35,24.0,Maharaj Group Residency,Behind Rana-Das,Karol Bagh,Varanasi,Uttar Pradesh,489201,"23.642162728025838,92.57690369294355",True,Home,2025-04-19 19:47:47,2025-04-26 07:22:44
+85156,42614,23,3.0,"Doctor, Gour and Andra Complex","Beside Natarajan, Seshadri and Sood",Greater Kailash,Mumbai,Maharashtra,887572,"13.690509715568929,91.43851692388799",True,Home,2025-04-19 07:34:14,2025-04-25 03:16:46
+123239,61568,4,18.0,"Sankar, Lad and Bobal Apartments","Behind Chopra, Chawla and Gara",Janakpuri,Mumbai,Maharashtra,887572,"17.592820205082138,95.86201696120969",True,Other,2025-03-13 10:04:24,2025-04-05 20:43:01
+158026,78919,41,15.0,"Halder, Chanda and Devi Complex",Beside D’Alia-Chatterjee,Hauz Khas,Porbandar,Gujarat,845911,"33.93840312128683,71.70616149363121",True,Other,2024-08-26 14:21:19,2024-10-31 11:16:08
+76118,38070,20,29.0,Kohli Ltd Complex,Behind Kashyap and Sons,Vasant Kunj,Delhi,Delhi,780487,"19.548711243992955,81.91041727487928",False,Work,2024-04-10 05:57:30,2025-01-22 02:12:49
+136410,68131,43,2.0,Lall Ltd Towers,Opp. Borra-Bassi,Hauz Khas,Hubli,Karnataka,594714,"18.63574674807218,88.59154909128173",True,Work,2024-12-15 03:48:19,2025-01-09 12:43:08
+31989,15915,32,29.0,"Merchant, Singh and Hayre Complex","B/h. Saini, Vala and Natt",Hauz Khas,Vadodara,Gujarat,998662,"26.522112724913107,93.092123357297",True,Other,2025-01-20 11:00:30,2025-01-24 04:05:39
+105068,52510,7,,Swaminathan LLC Residency,Behind Jain and Sons,Vasant Kunj,Indore,Madhya Pradesh,466778,"20.922320358576556,81.84411246836211",False,Work,2025-03-23 02:59:27,2025-04-09 15:28:43
+127153,63503,18,7.0,"Seshadri, Desai and Krishnan Apartments",Soni-Sur,Connaught Place,Meerut,Uttar Pradesh,417419,"27.324453791369592,90.27630577162975",True,Other,2021-10-05 03:43:51,2024-04-26 02:11:19
+77060,38535,44,2.0,"Parekh, Krishnan and Pau Residency",B/h. Ravel-Khurana,Rajouri Garden,Ahmedabad,Gujarat,639903,"17.17566409779584,78.70969666875123",False,Work,2025-04-23 12:57:22,2025-04-24 19:43:32
+171656,85758,20,,"Shankar, Sankar and Mahajan Apartments","Sangha, Shetty and Apte",Rohini,Kolkata,West Bengal,552417,"15.2498288627379,79.6126382449514",True,Other,2024-05-05 23:20:52,2024-11-21 18:00:17
+82004,41039,46,15.0,Pillai-Karpe Complex,"Jain, Bobal and Anne",Dwarka,Kochi,Kerala,277414,"30.146491170315862,72.10175328795823",False,Home,2024-08-21 20:34:55,2025-01-03 21:31:06
+19237,9582,13,8.0,Sarna-Bail Apartments,Sarraf-Baral,Lajpat Nagar,Agra,Uttar Pradesh,875179,"10.345713027835528,76.46386523564959",False,Other,2023-01-28 20:21:17,
+111385,55680,19,29.0,"Dora, Ganesan and Nigam Towers",Near Kannan-Rai,Greater Kailash,Mysore,Karnataka,781088,"35.73347668144698,73.1762643677444",True,Work,2023-05-13 09:32:22,2023-11-23 14:02:45
+4984,2503,49,20.0,"Kala, Sethi and Sharaf Apartments",Near Sahota LLC,Saket,Nagpur,Maharashtra,462944,"37.10960269386275,75.91811793438748",False,Home,2024-11-14 02:07:24,
+86946,43496,11,1.0,Bhalla PLC Towers,B/h. Bhakta Group,Janakpuri,Ahmedabad,Gujarat,639903,"16.446789204011516,95.46713416501782",False,Work,2025-04-24 23:39:30,2025-04-28 14:19:08
+81356,40710,39,,Dave and Sons Heights,Beside Sampath-Seth,Malviya Nagar,Vijayawada,Andhra Pradesh,874544,"37.43348169169057,81.87609553198672",True,Home,2025-02-11 00:39:06,2025-03-23 03:51:59
+119629,59789,44,39.0,Pau Group Apartments,"Beside Parmar, Chakraborty and Varghese",Rohini,Nashik,Maharashtra,240889,"26.5256991833378,76.54457990936221",True,Other,2022-12-16 05:37:25,
+105274,52615,47,,"Contractor, Borah and Varty Complex",Behind Lad LLC,Mayur Vihar,Kota,Rajasthan,775822,"29.093084947479625,70.86096283167505",False,Work,2025-04-01 16:46:59,2025-04-25 18:20:04
+166149,82968,29,31.0,"Sarma, Raman and Banerjee Heights",Opp. Padmanabhan-Sidhu,South Extension,Meerut,Uttar Pradesh,417419,"22.40767484990514,90.44589934869002",False,Home,2024-08-05 19:22:02,
+44508,22151,2,23.0,Padmanabhan and Sons Heights,Behind Bava PLC,Karol Bagh,Varanasi,Uttar Pradesh,489201,"9.888037659983338,93.45423437718961",True,Work,2023-06-15 13:13:56,
+81847,40957,45,,"Hegde, Jhaveri and Halder Towers",Beside Sahota-Nayak,Rajouri Garden,Hubli,Karnataka,594714,"37.27899998752564,69.85417609037358",False,Home,2025-03-16 19:40:42,2025-04-29 10:01:23
+3225,1622,7,36.0,Bakshi-Master Residency,Near Oak and Sons,Karol Bagh,Bhopal,Madhya Pradesh,727889,"32.00291490630478,87.8496232158154",True,Home,2025-01-13 12:29:42,2025-04-21 02:23:17
+144201,72024,23,14.0,Vala PLC Heights,Opp. Chandran-Balay,Mayur Vihar,Thane,Maharashtra,387370,"11.047470097510335,76.46887004447323",False,Work,2025-01-29 15:00:09,2025-03-24 08:30:45
+114680,57317,36,,"Lala, Sachar and Virk Apartments",Near Sahni Group,South Extension,Ahmedabad,Gujarat,639903,"20.657153028607226,69.81648818332495",True,Work,2025-04-29 19:44:44,2025-05-01 03:31:00
+156460,78141,9,,"Balakrishnan, Issac and Yadav Heights",B/h. Pau Ltd,South Extension,Lucknow,Uttar Pradesh,791453,"23.25322047840296,88.55312165591359",True,Work,2025-02-19 13:25:27,2025-02-28 15:13:18
+68372,34176,7,24.0,Rau and Sons Towers,"Near Pandya, Rajagopal and Karnik",Pitampura,Mumbai,Maharashtra,887572,"10.624324787271469,88.13270860287085",False,Home,2024-11-27 01:43:24,
+48742,24295,42,25.0,Ganesh-Deshpande Residency,B/h. Kulkarni LLC,Dwarka,Mumbai,Maharashtra,887572,"22.831857775434344,96.60060600286197",False,Other,2024-05-21 23:23:28,2024-08-27 01:30:29
+6230,3118,35,39.0,"Dada, Walia and Tandon Apartments",Near Walia PLC,Dwarka,Nadiad,Gujarat,280555,"14.24047633115142,87.87897281778017",True,Home,2025-03-02 10:32:06,
+197781,98764,7,34.0,"Kari, Chandran and Balasubramanian Towers",Behind Minhas and Sons,Rajouri Garden,Chennai,Tamil Nadu,681858,"14.92812660968061,70.61698116992173",True,Work,2023-12-13 04:51:34,
+135067,67478,44,35.0,Chad-Viswanathan Complex,"Opp. Barad, Rau and Chauhan",Saket,Hyderabad,Telangana,217473,"31.25373607825629,74.10527006392395",True,Work,2022-07-04 20:05:09,2022-10-20 21:04:39
+194113,96946,19,,"Bhatia, Edwin and Singh Residency","B/h. Warrior, Batra and Taneja",Karol Bagh,Bangalore,Karnataka,344053,"22.007889460674704,88.94777562198524",True,Other,2024-01-12 20:00:57,2024-04-13 05:46:21
+106282,53112,28,36.0,"Mani, Dave and Puri Complex",Biswas Ltd,Greater Kailash,Kochi,Kerala,277414,"24.602839095976726,86.4645117081286",False,Home,2023-06-04 11:13:26,2023-10-02 16:27:58
+12930,6454,41,,Sura Inc Residency,Near Arya LLC,South Extension,Vijayawada,Andhra Pradesh,874544,"19.156929493883197,87.97538678635485",False,Home,2023-02-21 01:17:07,
+20578,10263,46,7.0,Murthy and Sons Complex,Near Bobal-Dube,South Extension,Meerut,Uttar Pradesh,417419,"21.647858451097154,70.93867699392977",True,Home,2025-01-11 10:30:22,
+116823,58386,10,21.0,Garde and Sons Complex,"Beside Gade, Halder and Wadhwa",Vasant Kunj,Bangalore,Karnataka,344053,"28.114964545072752,81.97667814895931",False,Work,2025-01-27 17:09:59,2025-03-01 13:28:32
+161044,80444,26,,Sood-Jayaraman Towers,Opp. Pal-Murthy,Greater Kailash,Pune,Maharashtra,208246,"13.176698591257054,88.26915455186511",False,Work,2024-01-18 18:10:14,2024-11-25 03:10:55
+198118,98924,30,,Tank PLC Residency,Beside Upadhyay Inc,Connaught Place,Delhi,Delhi,780487,"10.994671055251342,86.80888331596238",False,Work,2025-04-29 16:46:16,2025-04-30 22:13:20
+54727,27337,21,,Goel Group Heights,"Opp. Rajagopalan, Kata and Chad",Hauz Khas,Delhi,Delhi,780487,"11.380501410650721,87.43176099615937",True,Other,2025-04-24 11:53:55,2025-04-28 22:04:16
+58957,29443,34,6.0,"Arora, Dhar and Prashad Apartments",Opp. Batta and Sons,Rohini,Pune,Maharashtra,208246,"37.31937948007078,94.41972332730894",False,Work,2025-03-26 04:31:27,2025-04-30 05:12:53
+72000,35985,22,,Mander Ltd Heights,Behind Krish-Saran,Hauz Khas,Chandigarh,Punjab,549898,"27.554162399282134,76.8839968064675",False,Work,2025-03-29 17:42:37,2025-04-01 03:07:08
+77119,38565,32,36.0,Pillay Inc Residency,Beside Kuruvilla and Sons,Dwarka,Thane,Maharashtra,387370,"14.278811808821928,89.85864891505693",True,Work,2023-09-23 12:42:18,
+133016,66468,8,18.0,"Vora, Pillai and Narain Towers",Opp. More-Sabharwal,Saket,Gandhinagar,Gujarat,329684,"23.425172012810428,94.1693196911468",True,Other,2024-03-30 00:21:29,
+125790,62831,37,10.0,Chaudhary Inc Residency,"B/h. Srivastava, Naik and Pathak",Rohini,Nagpur,Maharashtra,462944,"30.46672986954976,77.30449665929284",False,Other,2025-04-09 14:25:23,2025-04-18 00:22:20
+197505,98623,17,28.0,Sura Ltd Apartments,Near Jani-Rao,Karol Bagh,Vadodara,Gujarat,998662,"21.193296788427872,80.85518972213394",True,Home,2024-10-14 09:03:20,2025-01-25 10:20:03
+95603,47819,47,,Ratti-Ray Residency,Beside Vasa LLC,Vasant Kunj,Nashik,Maharashtra,240889,"33.97123742397601,85.3881273369951",True,Work,2023-05-22 14:04:51,2024-11-04 23:17:37
+130540,65228,46,14.0,"Subramanian, Bajaj and Chakraborty Residency","Near Mohan, Keer and Sankaran",Malviya Nagar,Hubli,Karnataka,594714,"32.672526899436235,87.87634409526999",True,Home,2024-03-11 08:35:23,
+79316,39690,25,10.0,Bala-Magar Apartments,Behind Choudhury Inc,Lajpat Nagar,Bangalore,Karnataka,344053,"27.696514800352304,69.86165725653709",True,Home,2022-09-20 16:25:14,
+511,253,4,15.0,"Wadhwa, Pathak and Iyer Towers",Opp. Banik and Sons,Pitampura,Kochi,Kerala,277414,"23.743043883634854,96.25282259784098",False,Home,2024-03-17 20:40:35,2024-12-16 14:19:01
+186259,93051,40,34.0,"Bassi, Patla and Gokhale Apartments","B/h. Sood, Sehgal and Kumer",Karol Bagh,Thane,Maharashtra,387370,"10.568932016562414,76.87995717826234",True,Home,2023-09-18 19:56:23,
+116500,58226,24,4.0,Pillai and Sons Residency,"Opp. Narayanan, Suri and Dey",Dwarka,Jaipur,Rajasthan,698508,"11.828799137324406,96.06289882373105",False,Work,2021-08-23 02:40:44,2021-12-04 00:12:26
+127114,63481,38,13.0,Thakur-Badal Apartments,Pandya Group,Connaught Place,Kolkata,West Bengal,552417,"19.178610626253153,69.949174648089",True,Home,2024-02-07 09:51:01,2024-08-24 12:16:16
+76088,38054,10,28.0,Bath Group Towers,"Near Agate, Kadakia and Chana",Karol Bagh,Porbandar,Gujarat,845911,"19.66759585126185,86.56643202387662",False,Other,2025-04-27 10:42:06,2025-04-29 19:50:23
+191189,95516,11,2.0,Bhalla-Manda Towers,"Opp. Dutta, Chauhan and Badami",Karol Bagh,Nadiad,Gujarat,280555,"26.000776979339122,93.23144946848993",True,Home,2025-04-27 12:27:49,2025-04-27 19:13:39
+146490,73158,10,,Balay-Sha Apartments,"Beside Master, Samra and Shenoy",Dwarka,Indore,Madhya Pradesh,466778,"33.06136082876514,89.62826632503372",True,Other,2023-04-23 12:14:29,2023-10-22 19:55:06
+10588,5289,2,26.0,"Chanda, Balay and Mangat Residency","B/h. Tella, Patla and Sharma",Greater Kailash,Nashik,Maharashtra,240889,"33.83035670531213,93.17672918455007",True,Other,2025-02-23 23:27:48,2025-04-28 05:09:09
+95015,47529,20,11.0,Barad Inc Complex,"Beside Yadav, Natt and Chakraborty",Hauz Khas,Nashik,Maharashtra,240889,"26.691350099044556,89.70663947077209",True,Other,2022-06-24 13:54:30,2024-01-16 02:22:53
+92929,46473,3,1.0,"Nayak, Minhas and Rai Apartments",Near Mishra Group,Malviya Nagar,Patna,Bihar,508382,"9.6235104436095,90.53650269738999",True,Home,2024-10-20 19:55:57,2024-11-28 18:24:51
+67495,33724,25,1.0,Kapadia PLC Towers,Behind Dube-Mangat,Rajouri Garden,Kota,Rajasthan,775822,"8.580894894096986,79.71151017858992",True,Other,2024-07-22 17:36:52,2025-02-19 08:40:08
+33918,16870,38,34.0,Verma and Sons Residency,"Opp. Seth, Patil and Jha",Janakpuri,Mysore,Karnataka,781088,"23.71590923083316,84.78255319248773",False,Work,2024-12-14 21:58:33,2025-03-08 08:51:24
+90737,45376,30,12.0,Nair-Sarna Residency,"Near Pandit, Parmar and Rajan",Mayur Vihar,Hubli,Karnataka,594714,"30.0237257835197,90.05429812120525",False,Work,2025-01-24 12:05:04,2025-02-20 05:14:35
+181825,90844,2,39.0,Ratta Ltd Heights,Beside Mander Ltd,Lajpat Nagar,Rajkot,Gujarat,758564,"12.453684257423916,78.96485362954863",False,Home,2025-04-24 02:58:49,2025-04-26 22:13:14
+69783,34878,41,,"Salvi, Natarajan and Palla Apartments",Opp. Rajagopal LLC,Rajouri Garden,Kolkata,West Bengal,552417,"35.46413513181048,85.97717998255496",False,Home,2024-08-25 09:25:58,2025-01-01 11:45:13
+37122,18461,43,,"Karpe, Narain and Mander Towers","Near Shankar, Khurana and Tripathi",Connaught Place,Morbi,Gujarat,508591,"34.557131969202715,89.55459940190589",True,Home,2024-02-11 09:00:50,2024-08-27 08:52:32
+195936,97856,30,36.0,Gour-Swamy Residency,B/h. Deo Group,Malviya Nagar,Kolkata,West Bengal,552417,"12.294328528532134,86.61355081586277",True,Other,2023-03-28 09:51:35,2024-02-27 05:24:09
+114575,57260,22,12.0,"Bali, Lall and Bhalla Towers","Near Master, Mane and Saxena",Hauz Khas,Nashik,Maharashtra,240889,"25.02376927275283,96.00470149845425",False,Home,2022-08-27 09:44:10,2022-09-19 20:39:17
+157186,78497,46,34.0,Kohli-Muni Towers,Bajwa and Sons,Connaught Place,Vijayawada,Andhra Pradesh,874544,"25.10295749725536,81.2742778078608",True,Work,2025-03-09 14:12:08,
+136719,68288,35,,Sheth Inc Towers,B/h. Bains-Kadakia,Hauz Khas,Agra,Uttar Pradesh,875179,"33.9074469351324,94.86361352530068",False,Other,2024-10-02 23:06:01,
+103603,51787,13,20.0,Karpe-Murthy Heights,"Behind Kumar, Nigam and Doshi",Connaught Place,Porbandar,Gujarat,845911,"24.055231233792256,69.37001148559453",False,Other,2024-04-22 05:55:43,2024-11-02 19:00:02
+18517,9235,41,35.0,Sandhu-Hayer Apartments,Opp. Wason Inc,Saket,Patna,Bihar,508382,"35.394074052339576,91.4863244220169",False,Home,2023-07-03 00:22:08,2024-08-21 18:42:52
+121336,60640,2,24.0,Doshi-Oza Complex,Near Handa Group,Greater Kailash,Gandhinagar,Gujarat,329684,"16.65617890858545,97.05574079995539",True,Home,2023-12-01 00:47:18,2024-10-01 19:59:56
+16583,8290,21,13.0,"Mallick, Rajan and Behl Residency",Near Balan PLC,Pitampura,Nagpur,Maharashtra,462944,"20.61099463808922,77.46228529221503",True,Work,2022-12-15 03:59:55,2023-10-26 23:07:34
+181271,90565,50,1.0,Chad Ltd Residency,"Pandit, Madan and Lall",Lajpat Nagar,Mumbai,Maharashtra,887572,"24.0900194995369,92.71161996818594",True,Home,2024-10-26 15:13:15,
+34565,17199,23,,Kunda Ltd Residency,Balay PLC,Vasant Kunj,Ahmedabad,Gujarat,639903,"33.36795228163758,78.4001817958157",True,Other,2021-07-13 00:32:37,2022-08-24 20:00:09
+71972,35971,33,,"Kar, Wali and Patil Heights","Opp. Devan, Gandhi and Lanka",Mayur Vihar,Vijayawada,Andhra Pradesh,874544,"13.652505750075953,87.53261690990219",False,Work,2024-06-13 23:45:06,2024-06-25 00:24:55
+20989,10465,36,,"Sane, Kale and Singh Residency",Behind Mittal PLC,Dwarka,Thane,Maharashtra,387370,"24.37985133523843,89.74989318112505",True,Other,2024-09-26 13:52:47,2025-02-03 17:24:51
+199061,99397,42,,Grover LLC Residency,Beside Iyer PLC,South Extension,Amritsar,Punjab,354098,"34.88496932619188,82.62507924053187",False,Work,2023-10-16 04:29:41,2024-02-07 12:43:02
+95638,47836,16,17.0,"Chaudry, Korpal and Srivastava Complex","Behind Gill, Jain and Oak",Malviya Nagar,Pune,Maharashtra,208246,"31.429034575595026,87.12859132844035",False,Work,2024-05-29 18:30:02,2025-02-11 19:04:39
+198724,99223,27,14.0,"Ravi, Upadhyay and Tata Complex",Beside Contractor and Sons,Malviya Nagar,Nadiad,Gujarat,280555,"31.069190316322967,84.05873335875482",True,Home,2025-04-28 10:13:33,2025-04-29 10:57:18
+90341,45169,27,28.0,Chawla and Sons Towers,"Opp. Sinha, Iyengar and Shukla",Rajouri Garden,Nashik,Maharashtra,240889,"10.831286345557913,74.58375163983149",True,Home,2025-03-28 18:07:07,
+37295,18552,4,40.0,Prakash-Karan Heights,Beside Basu-Dara,Connaught Place,Bangalore,Karnataka,344053,"20.01503731440257,72.00845545848411",False,Other,2025-01-18 08:02:26,
+59430,29673,39,,Aggarwal-Seth Residency,Beside Parekh Ltd,Janakpuri,Bhopal,Madhya Pradesh,727889,"19.318702888827048,79.24441381486659",True,Work,2024-12-17 10:03:30,2025-03-14 17:05:45
+7776,3881,41,,Lata-Soni Residency,Chana PLC,Vasant Kunj,Vadodara,Gujarat,998662,"32.20504105704913,73.21789189872341",False,Home,2025-05-01 08:14:29,2025-05-01 08:18:52
+103632,51803,15,,"Mitra, Parmer and Sur Heights",Beside Zachariah-Ramaswamy,Karol Bagh,Kolkata,West Bengal,552417,"15.226497705832193,82.31698875466294",False,Work,2024-11-03 10:54:50,2024-11-29 21:40:38
+19100,9514,1,36.0,Deshmukh Inc Towers,B/h. Vohra LLC,Lajpat Nagar,Morbi,Gujarat,508591,"16.778855093836327,71.56998339911775",True,Other,2022-04-28 08:30:10,
+120417,60174,6,31.0,"Bora, Vala and Subramaniam Heights",Opp. Aggarwal-Bumb,Greater Kailash,Varanasi,Uttar Pradesh,489201,"22.806543811129465,84.50651603688002",False,Work,2023-11-19 12:18:38,2024-12-14 18:12:08
+52665,26302,44,,"Oommen, Walia and Dasgupta Complex",Opp. Nayak PLC,Hauz Khas,Porbandar,Gujarat,845911,"17.62667403127451,75.53148676945324",False,Work,2024-11-05 12:26:26,
+92485,46247,9,17.0,Nagar and Sons Apartments,Behind Bhakta LLC,Mayur Vihar,Indore,Madhya Pradesh,466778,"14.156707341758121,68.72631378815836",True,Home,2021-09-23 17:29:43,2023-06-24 15:48:29
+7763,3875,44,20.0,"Sem, Sem and Sahni Apartments",Lanka PLC,Karol Bagh,Vijayawada,Andhra Pradesh,874544,"28.180423016575354,81.26704974853146",False,Work,2025-04-15 15:54:13,2025-04-29 07:56:08
+2759,1387,36,3.0,Prabhu-Dasgupta Apartments,Beside Wagle-Shukla,Karol Bagh,Himatnagar,Gujarat,789514,"16.641956769463505,83.13187615648718",True,Work,2024-09-26 12:28:54,2025-04-28 10:42:54
+163446,81630,5,18.0,Swaminathan PLC Apartments,"Beside Chanda, Tella and Mohanty",Connaught Place,Nadiad,Gujarat,280555,"13.018815373720916,87.40889107259711",False,Work,2022-08-13 07:32:43,
+56405,28178,11,28.0,Kara Ltd Complex,Beside Mani LLC,Rohini,Hyderabad,Telangana,217473,"10.200551675975852,77.44562636086286",True,Other,2025-01-15 07:58:40,
+22597,11265,23,24.0,"Garg, Dube and Sabharwal Apartments",Dugal-Chandra,Malviya Nagar,Faridabad,Haryana,506922,"11.266515320280263,94.59755648985619",False,Other,2024-03-23 21:50:57,
+108069,54006,1,,"Ahluwalia, Bhagat and Sethi Complex",Opp. Shan Inc,Connaught Place,Hyderabad,Telangana,217473,"36.94287969064683,94.95269152173043",False,Other,2024-03-13 15:32:21,
+14807,7396,21,6.0,Yogi-Tiwari Heights,B/h. Kade and Sons,Greater Kailash,Patna,Bihar,508382,"14.099284749805474,89.52016857636242",False,Home,2025-04-24 13:32:14,2025-04-27 19:24:39
+199477,99612,16,,"Sanghvi, Sandal and Shukla Residency",Ram Group,Saket,Vadodara,Gujarat,998662,"26.463757265504448,83.97372943426257",True,Work,2024-03-10 21:10:07,2024-06-29 03:47:30
+25297,12597,39,6.0,Hari-Trivedi Towers,Near Zachariah-Mohan,South Extension,Hubli,Karnataka,594714,"28.437251007696105,77.9570543693351",False,Other,2025-03-29 00:13:16,2025-04-29 04:25:53
+57180,28578,7,,Dhawan Inc Complex,B/h. Raval-Karan,Malviya Nagar,Pune,Maharashtra,208246,"16.039994314239664,97.23782237775669",False,Work,2022-12-17 10:22:01,2025-03-03 12:02:00
+105284,52620,14,,Balasubramanian-Dash Complex,Opp. Shan-Kala,Rohini,Bangalore,Karnataka,344053,"15.87329245472512,81.31979553302521",False,Other,2024-07-20 14:04:51,2024-12-18 16:23:24
+35988,17897,48,,"Manda, Chahal and Palla Complex","Near Shanker, Shetty and Ramaswamy",Dwarka,Morbi,Gujarat,508591,"15.381351534514684,87.52559923799012",True,Other,2024-03-22 22:19:27,2025-03-10 12:34:24
+55591,27773,44,,Sarna Inc Towers,B/h. Choudhry-Palla,Saket,Himatnagar,Gujarat,789514,"15.43887857570871,72.88580827060241",False,Other,2024-02-16 17:51:06,2025-04-27 08:43:20
+139134,69475,1,33.0,"Hayer, Shan and Kari Heights","Behind Ramakrishnan, Bhatnagar and Sama",Vasant Kunj,Jaipur,Rajasthan,698508,"35.348887872525545,84.8337315956208",True,Work,2025-04-10 09:34:04,2025-04-15 12:39:38
+99218,49615,43,,"Vasa, Pingle and Buch Residency",Behind Date-Barman,Malviya Nagar,Guwahati,Assam,116814,"36.18429242607877,84.59897148556867",True,Home,2024-04-11 17:47:35,2024-05-21 02:36:04
+27534,13704,43,31.0,Vala Ltd Residency,Shetty-Ahuja,Janakpuri,Lucknow,Uttar Pradesh,791453,"13.613903208980119,95.42784763819967",True,Home,2025-02-14 23:20:53,2025-03-24 07:47:45
+5230,2630,8,1.0,Bath-Khalsa Residency,"Opp. Mani, Kala and Dalal",South Extension,Vijayawada,Andhra Pradesh,874544,"20.729578504855965,70.83105246122513",True,Other,2025-04-23 09:29:08,2025-04-25 04:57:59
+54664,27300,33,18.0,"Dani, Soman and De Heights","Behind Kara, Jha and Bhardwaj",Vasant Kunj,Nashik,Maharashtra,240889,"14.106060188635649,90.18925051667888",False,Other,2025-02-11 16:32:07,2025-04-03 23:23:03
+135575,67720,12,,"Prakash, Bala and Dara Heights",B/h. Ben-Bhardwaj,Rajouri Garden,Patna,Bihar,508382,"32.210502952250465,92.7858375528676",True,Home,2024-06-11 19:47:46,2024-07-25 02:22:23
+193177,96493,25,3.0,"Chopra, Sengupta and Mahal Heights",Behind Murty-Srinivas,Vasant Kunj,Bhopal,Madhya Pradesh,727889,"17.48981651907763,85.4840723543811",True,Work,2024-04-23 02:48:46,2024-12-04 04:46:36
+159888,79862,30,7.0,Vyas-Sule Apartments,Beside Aurora Group,Vasant Kunj,Nadiad,Gujarat,280555,"33.846746232534684,89.06826111815916",False,Home,2023-11-14 10:46:15,2025-01-10 04:35:30
+199884,99801,44,,"Doctor, Sidhu and Chad Complex","Buch, Goyal and Srinivasan",Mayur Vihar,Gandhinagar,Gujarat,329684,"12.323127430341586,73.61731229481342",True,Work,2022-02-13 04:12:23,
+183660,91765,38,,Nori Inc Heights,Behind Bassi Inc,Greater Kailash,Vadodara,Gujarat,998662,"12.357547636306126,84.17697467085335",True,Work,2021-09-05 10:36:42,2022-02-17 09:40:52
+142306,71076,45,12.0,"Bir, Sankar and Ganesh Residency",Near Raval Ltd,Dwarka,Hyderabad,Telangana,217473,"21.646034687716032,96.84767232243713",False,Home,2022-02-28 16:39:44,
+50406,25147,42,2.0,Vasa Ltd Heights,B/h. Agarwal and Sons,Hauz Khas,Meerut,Uttar Pradesh,417419,"22.095160028318297,90.2828743756435",True,Work,2023-10-30 02:40:46,2024-08-26 08:33:26
+57492,28729,31,16.0,"Dhingra, Pandya and Jhaveri Heights",Behind Narain Ltd,South Extension,Chennai,Tamil Nadu,681858,"19.73539775982986,77.43210785808719",False,Work,2025-03-28 09:21:11,2025-04-05 08:38:13
+85039,42557,25,11.0,"Jayaraman, Balan and Thaker Complex",Oommen PLC,Vasant Kunj,Kochi,Kerala,277414,"8.854165564652256,75.8890305167316",False,Home,2024-08-19 17:46:12,2024-09-07 13:50:17
+58388,29160,37,4.0,Ramaswamy-Tiwari Heights,"Near Kanda, Palla and Handa",Mayur Vihar,Surat,Gujarat,335772,"35.719943549499575,76.04256040897323",False,Work,2023-09-14 15:37:08,
+4870,2443,42,,Jaggi-Lala Towers,"Opp. Johal, Badami and Chaudhuri",Rohini,Agra,Uttar Pradesh,875179,"23.983295911034304,74.73181077992884",False,Other,2025-04-10 10:04:52,2025-04-17 16:01:44
+134756,67323,17,30.0,Nair-Mangal Residency,Majumdar and Sons,Connaught Place,Kolkata,West Bengal,552417,"19.750509645420337,93.19404562482431",True,Home,2025-03-09 07:26:24,2025-03-18 02:08:37
+48031,23947,16,36.0,Buch LLC Complex,"Beside Sen, Misra and Dugal",Karol Bagh,Kochi,Kerala,277414,"32.99225378490924,78.75999217444337",True,Other,2023-12-10 09:13:24,
+138766,69293,3,40.0,Kala Group Residency,"Behind Hayre, Loke and Chaudhary",Mayur Vihar,Ahmedabad,Gujarat,639903,"10.522978691220146,73.21540411201646",True,Work,2024-04-09 23:58:17,2025-04-29 06:04:58
+194494,97138,39,31.0,Dubey Inc Towers,Beside Lall LLC,Janakpuri,Aurangabad,Maharashtra,803384,"26.159422922198495,73.81097880032337",False,Home,2025-04-26 12:02:27,2025-04-30 20:36:16
+163323,81572,49,,Sathe PLC Heights,"Opp. Sahni, Yohannan and Manda",South Extension,Kolkata,West Bengal,552417,"13.986917495587093,95.25930166311473",True,Other,2025-01-25 00:11:25,2025-04-19 06:33:53
+57649,28802,7,16.0,Iyengar and Sons Complex,B/h. Padmanabhan Ltd,Lajpat Nagar,Himatnagar,Gujarat,789514,"27.493474221543643,96.37909346670028",True,Work,2021-12-08 23:36:51,2022-08-10 18:49:20
+113162,56557,4,4.0,Sura and Sons Towers,B/h. Pal-Karan,Connaught Place,Vijayawada,Andhra Pradesh,874544,"14.672998814973482,73.68780090823465",True,Home,2025-02-20 14:35:21,2025-03-30 17:04:15
+29165,14496,19,16.0,Walla-Narayanan Complex,"Beside Loyal, Kumar and Ramanathan",Dwarka,Varanasi,Uttar Pradesh,489201,"20.388959156005413,95.41299183974544",False,Work,2025-02-07 11:20:04,
+163521,81671,40,,"Sengupta, Soni and Batta Residency",Beside Walla LLC,Malviya Nagar,Aurangabad,Maharashtra,803384,"18.634371344882148,93.70769639368203",False,Home,2024-12-19 10:45:39,2025-04-02 21:12:31
+199686,99709,47,,Dave-Goswami Towers,Murty LLC,Greater Kailash,Agra,Uttar Pradesh,875179,"14.239296827972861,88.54687539750947",False,Other,2025-03-08 14:32:13,
+171733,85795,17,39.0,Din-Majumdar Apartments,Near Sachdeva LLC,Pitampura,Hubli,Karnataka,594714,"23.66288320703007,74.0462547400413",True,Work,2025-01-27 05:41:41,2025-02-11 13:19:41
+105447,52701,5,32.0,Mall and Sons Heights,"B/h. Gulati, Bhatnagar and Dugal",South Extension,Jaipur,Rajasthan,698508,"15.365935547953875,96.05586927299738",True,Work,2025-01-23 01:54:57,2025-04-10 09:01:16
+34318,17076,41,12.0,Bir Ltd Heights,Opp. Soni-Dave,Rajouri Garden,Dhanbad,Jharkhand,413445,"29.237341096838776,92.52921160703185",True,Work,2025-01-09 05:49:09,2025-04-09 14:18:56
+119479,59712,50,9.0,Dugal Inc Heights,Behind Bhat LLC,Greater Kailash,Jaipur,Rajasthan,698508,"22.903093246047458,82.33879078346116",False,Work,2024-10-03 14:38:34,2025-01-13 12:13:01
+36448,18126,17,39.0,Dubey-Gole Complex,"Jain, Bhasin and Kothari",Pitampura,Delhi,Delhi,780487,"35.927675779626526,95.76194032104522",True,Other,2024-11-23 16:17:13,2025-03-23 14:01:33
+136642,68247,28,,Chokshi and Sons Heights,"Near Roy, Rao and Lanka",Pitampura,Nashik,Maharashtra,240889,"17.946502865894878,87.2445238780754",True,Other,2025-03-12 06:54:39,2025-03-23 22:53:09
+63552,31735,38,13.0,Gour-Bava Residency,"Behind Manda, Tank and Bahl",Mayur Vihar,Meerut,Uttar Pradesh,417419,"29.286715181504377,92.60977012004312",False,Other,2024-08-08 07:56:25,2025-03-01 09:46:08
+148857,74336,5,,Kaur-Sridhar Apartments,"Konda, Bhatnagar and Peri",Lajpat Nagar,Amritsar,Punjab,354098,"12.480495899096738,95.11819223501449",False,Home,2023-06-24 08:55:37,2025-02-21 19:15:29
+95714,47869,23,39.0,Dani-Lala Residency,Near Ahuja LLC,Rohini,Thane,Maharashtra,387370,"10.549878100565032,94.21825305899665",False,Other,2023-11-06 21:13:45,
+110948,55470,6,5.0,Bhattacharyya and Sons Residency,Behind Vyas Inc,Pitampura,Kochi,Kerala,277414,"24.29477803186209,91.119722237574",False,Other,2025-03-02 04:51:58,
+169267,84531,37,22.0,"Iyengar, Luthra and Hora Apartments","Prabhakar, Goswami and Lad",Connaught Place,Kochi,Kerala,277414,"31.731965824379998,92.1204960585653",False,Other,2022-06-04 04:45:35,2024-07-17 13:24:43
+73006,36495,33,,"Kulkarni, Mandal and Sodhi Apartments",Beside Mohanty and Sons,Lajpat Nagar,Bhopal,Madhya Pradesh,727889,"33.71872041821215,93.40434468796795",True,Other,2024-10-23 11:01:46,2025-04-25 14:35:52
+118740,59333,43,15.0,"Vyas, Mallick and Rama Complex",Beside Om and Sons,Connaught Place,Anand,Gujarat,776563,"17.011761401398363,90.48908819056632",True,Home,2024-05-13 18:00:16,2024-10-17 10:03:19
+159783,79813,48,14.0,D’Alia-Chaudhry Residency,B/h. Contractor-Ramesh,Saket,Jaipur,Rajasthan,698508,"27.34281920901281,79.10232268345776",False,Other,2025-01-26 04:14:44,
+36603,18206,34,27.0,Balakrishnan-Deol Towers,Dugar Inc,Greater Kailash,Nashik,Maharashtra,240889,"28.268599316165215,72.46478653101082",False,Other,2024-10-20 23:34:17,
+22263,11105,44,20.0,Sur-Sant Residency,Chopra-Bath,Vasant Kunj,Anand,Gujarat,776563,"32.57784064307167,80.15175581528943",False,Home,2024-08-14 07:07:31,2024-08-24 07:50:59
+70614,35294,38,,"Divan, Mukherjee and Choudhry Residency",Beside Cherian Ltd,Mayur Vihar,Vadodara,Gujarat,998662,"13.083082710408949,90.81352668782532",True,Home,2022-03-22 02:28:44,2024-06-24 21:30:35
+91617,45818,28,18.0,Magar-Chawla Apartments,Opp. Ahluwalia Group,Janakpuri,Vadodara,Gujarat,998662,"36.178646975731326,95.73049994370027",False,Home,2024-08-10 09:38:24,
+195520,97646,23,26.0,Borra-Das Complex,Near Menon-Tak,Rohini,Nashik,Maharashtra,240889,"10.540350257595215,82.86527693631291",False,Home,2021-10-26 08:26:14,
+37733,18767,48,,Kala-Bhatnagar Apartments,Beside Pathak and Sons,Mayur Vihar,Guwahati,Assam,116814,"16.36450249299279,68.88815852688653",False,Home,2025-02-05 06:04:18,
+83708,41899,45,11.0,Sharma PLC Heights,"B/h. Bali, Basu and Hari",Pitampura,Indore,Madhya Pradesh,466778,"9.006771817820677,77.51518598594262",False,Work,2024-10-21 11:16:07,2025-04-30 13:36:44
+56820,28392,2,4.0,"Jani, Sekhon and Tank Heights",B/h. Aggarwal Inc,Rohini,Nadiad,Gujarat,280555,"12.783895902594404,91.88206545872228",True,Other,2025-03-15 02:15:02,2025-04-14 01:55:44
+174914,87372,41,19.0,"Cheema, Patla and Majumdar Complex",Sangha and Sons,Lajpat Nagar,Kolkata,West Bengal,552417,"14.881866792780965,87.38303469385954",True,Home,2025-03-30 05:00:10,2025-04-12 14:34:16
+48471,24154,9,,Ranganathan Ltd Heights,"Opp. Rajagopal, Tata and Sodhi",Mayur Vihar,Kota,Rajasthan,775822,"26.858643587940044,88.6855875518981",True,Work,2023-12-08 22:43:42,2024-01-25 07:52:39
+24745,12326,33,,Loyal-Pandit Complex,Near Gopal-Singhal,Saket,Bangalore,Karnataka,344053,"11.527893205282792,77.88850153097067",False,Work,2023-05-19 22:26:52,2024-11-15 18:54:43
+108093,54022,20,31.0,"Gandhi, Pau and Yadav Complex","Beside Kurian, Din and Tripathi",Greater Kailash,Amritsar,Punjab,354098,"31.471956354147565,83.19674966005641",True,Work,2024-09-06 20:28:27,
+26597,13233,18,27.0,Tella-Kashyap Residency,Beside Sarin-Narayan,Connaught Place,Gandhinagar,Gujarat,329684,"12.299576237642615,79.72832841500296",False,Home,2023-05-01 23:03:47,2025-03-25 21:52:47
+178017,88936,2,31.0,Hayre PLC Complex,"B/h. Khare, Saran and Khare",Rajouri Garden,Mysore,Karnataka,781088,"10.037892568762862,90.84721153637652",False,Work,2025-02-09 12:49:24,
+11510,5748,20,6.0,"Kalla, Mander and Jain Complex",Gole PLC,South Extension,Kota,Rajasthan,775822,"36.91753237069364,70.34378019537849",True,Other,2025-01-29 07:24:52,2025-03-11 06:58:28
+63686,31801,50,,Sharaf Ltd Heights,Beside Rege-Edwin,Janakpuri,Gandhinagar,Gujarat,329684,"35.90797181754479,82.80647938946865",True,Home,2021-11-27 07:07:36,2024-05-09 09:08:39
+195671,97719,9,18.0,Rau-Dara Residency,Behind Mangal-Khare,Rajouri Garden,Hubli,Karnataka,594714,"9.45935874213005,79.68069856639147",True,Home,2025-02-22 22:15:50,
+112177,56075,8,16.0,Kaul Ltd Complex,"Walia, Dave and Ranganathan",South Extension,Kota,Rajasthan,775822,"21.824619031726264,96.99296337379963",True,Home,2025-03-10 15:00:20,
+198622,99173,46,26.0,Rajagopalan-Kanda Towers,Devan Inc,Connaught Place,Anand,Gujarat,776563,"37.12623035697117,95.61010229287393",False,Work,2023-03-18 01:06:15,2024-08-03 10:48:07
+78369,39213,12,15.0,"Varkey, Majumdar and Wagle Residency",Opp. Raval-Aurora,Rajouri Garden,Aurangabad,Maharashtra,803384,"33.02962850945922,70.54447737149563",False,Work,2023-07-29 22:05:58,2024-05-03 10:03:46
+118574,59250,36,,Soni PLC Apartments,"Behind Basak, Palan and Chand",Rajouri Garden,Morbi,Gujarat,508591,"33.24327861879443,71.23472499956345",False,Work,2025-02-21 18:37:33,2025-03-09 09:59:15
+78450,39256,32,22.0,"Hora, Bhatt and Lanka Heights",Behind Dewan LLC,Mayur Vihar,Bangalore,Karnataka,344053,"33.2712470387776,86.21070270740705",False,Other,2024-10-08 10:10:14,2025-01-23 20:34:26
+2740,1374,21,37.0,Setty PLC Towers,Malhotra PLC,Hauz Khas,Lucknow,Uttar Pradesh,791453,"36.44164406657884,69.44197467568512",False,Home,2024-05-05 11:18:59,2024-11-24 21:15:22
+66700,33320,4,8.0,"Gara, Bora and Sami Towers",B/h. Narasimhan-Kapur,Dwarka,Kolkata,West Bengal,552417,"37.484468321267265,78.81252933567565",False,Other,2024-12-19 10:18:16,
+19975,9968,18,,"Sant, Vohra and Rege Towers","B/h. Nazareth, D’Alia and Atwal",Lajpat Nagar,Thane,Maharashtra,387370,"22.178297012951916,71.98651379242449",True,Other,2023-03-21 10:47:40,2024-07-07 20:58:42
+163115,81465,13,31.0,"Shukla, Mammen and Mandal Complex",Near Grewal Group,South Extension,Ahmedabad,Gujarat,639903,"24.139342504446066,92.75258168573066",False,Work,2025-01-08 03:55:33,2025-01-22 19:59:32
+170500,85161,5,6.0,Warrior Ltd Towers,Beside Shetty-Bhalla,Malviya Nagar,Hubli,Karnataka,594714,"30.13229534758065,73.54460659657701",True,Home,2024-07-05 21:38:09,2024-12-26 01:19:44
+126075,62965,9,,"Bath, Arora and Arora Apartments",Beside Srinivasan-Solanki,Hauz Khas,Kochi,Kerala,277414,"26.216344586448365,80.56043877832136",False,Work,2024-01-05 19:25:00,2024-12-20 05:20:37
+176560,88214,40,12.0,Tank PLC Residency,Bera-Srinivas,Connaught Place,Nadiad,Gujarat,280555,"17.77175885555124,72.30828957106654",True,Home,2024-10-31 08:50:40,2024-12-05 14:14:14
+52503,26221,10,36.0,Gara-Bhalla Residency,"Near Prakash, Chandra and Patla",Pitampura,Bhopal,Madhya Pradesh,727889,"14.35442104001897,90.3571146563294",False,Other,2025-01-20 20:46:21,2025-02-21 23:33:33
+47593,23722,24,24.0,"Basak, Barad and Setty Residency",Behind Das-Chanda,Mayur Vihar,Faridabad,Haryana,506922,"32.20819252146851,69.37173893096387",False,Work,2025-03-22 20:06:00,2025-04-04 22:29:09
+90421,45211,21,37.0,Tata-Banik Complex,Beside Sandal-Nigam,Mayur Vihar,Indore,Madhya Pradesh,466778,"8.7846658525856,74.04020304005462",False,Home,2024-11-15 05:54:50,2024-12-11 07:40:32
+116736,58342,26,22.0,"Oza, Nadkarni and Sandhu Heights",Opp. Korpal-Dube,Connaught Place,Anand,Gujarat,776563,"19.768824200321486,91.39383274563554",False,Work,2023-07-10 11:05:27,2025-02-09 18:53:29
+53938,26937,12,8.0,Date Group Towers,B/h. Barad and Sons,Mayur Vihar,Kolkata,West Bengal,552417,"34.44652057123905,85.47900102591446",False,Other,2023-12-04 19:26:21,2024-12-09 06:06:11
+95806,47913,37,,Pandit-Lal Heights,Behind Dhillon-Dube,Connaught Place,Himatnagar,Gujarat,789514,"25.607460489935043,77.48727600343017",True,Other,2024-12-01 16:16:48,2024-12-09 07:13:44
+173000,86426,31,14.0,Muni Group Towers,"Opp. Vig, Seshadri and Raman",Rohini,Varanasi,Uttar Pradesh,489201,"25.522029987932356,83.85165668775367",False,Other,2023-08-02 14:56:40,
+45468,22652,42,,Nagarajan Group Towers,Behind Tailor-Halder,Rajouri Garden,Gandhinagar,Gujarat,329684,"35.27041137580116,78.30480033604904",False,Home,2024-09-16 23:11:50,2025-04-22 22:35:40
+59573,29737,6,15.0,Saha-Nanda Apartments,"Behind Peri, Yogi and Prakash",Malviya Nagar,Mysore,Karnataka,781088,"35.38410126073105,94.77335321704271",False,Other,2024-11-17 17:59:28,2025-04-04 07:49:12
+129232,64534,37,,"Badami, Shetty and Bath Residency",Near Dube LLC,Hauz Khas,Jaipur,Rajasthan,698508,"10.287849475414854,92.08872039703911",False,Work,2025-03-10 03:24:47,2025-04-20 09:41:57
+80379,40221,23,,Bail-Narang Apartments,"Das, Pillay and Chaudhry",Dwarka,Nadiad,Gujarat,280555,"28.637374332956284,77.56813915245628",False,Home,2023-09-06 07:19:22,
+114881,57412,8,40.0,Chandran and Sons Towers,"Near Dhawan, Mann and Balay",South Extension,Himatnagar,Gujarat,789514,"8.526696264915103,94.88120680266107",True,Home,2025-01-02 23:35:05,2025-03-20 21:06:14
+95963,47993,8,8.0,Gade-Dass Towers,Thakkar LLC,Hauz Khas,Nagpur,Maharashtra,462944,"28.51791216015468,70.9480423483753",True,Other,2023-11-29 23:48:02,2025-03-31 08:25:05
+140426,70119,29,,Chada-Madan Heights,"Dasgupta, Chokshi and Guha",Karol Bagh,Anand,Gujarat,776563,"19.151051618289916,85.04431983224549",True,Home,2022-12-02 00:21:47,2025-01-11 12:44:30
+108346,54152,15,38.0,"Prabhakar, Pradhan and Kale Apartments",Behind Bhatia Group,Pitampura,Chennai,Tamil Nadu,681858,"10.892428057312273,84.09355192849225",True,Work,2023-09-28 03:40:15,
+38577,19169,39,36.0,Pillay-Keer Complex,B/h. Bassi-Kohli,South Extension,Gandhinagar,Gujarat,329684,"35.39080900774486,74.27841033414995",True,Home,2024-07-22 21:56:47,2024-12-10 21:26:16
+59392,29656,40,24.0,Gola-Aurora Towers,"Kari, Varkey and Deol",Vasant Kunj,Porbandar,Gujarat,845911,"9.090679433410276,93.37027106509149",False,Other,2023-06-22 11:04:39,2024-08-06 23:24:28
+105158,52557,11,,"Mutti, Walia and Walla Apartments","Kale, Bora and Sule",Rajouri Garden,Agra,Uttar Pradesh,875179,"8.84913313546704,85.5848734989413",True,Work,2024-09-24 07:21:45,2025-04-22 05:49:21
+75526,37774,48,25.0,Sampath and Sons Towers,Near Babu-Anne,Rajouri Garden,Aurangabad,Maharashtra,803384,"15.991132116429176,68.92217770271675",True,Home,2023-10-23 10:14:23,2024-03-18 02:27:02
+194977,97371,28,7.0,Dube-Grover Residency,Beside Naik-Brar,Rohini,Chandigarh,Punjab,549898,"16.67055832031023,72.27406299425331",True,Work,2023-07-11 17:55:27,2024-06-23 14:28:58
+91971,45994,15,,"Badal, Varkey and Merchant Towers",Agrawal Inc,Saket,Dhanbad,Jharkhand,413445,"15.346979166141786,71.2387458117469",False,Other,2023-05-23 03:48:39,
+176465,88167,23,,Sur-Karpe Apartments,Opp. Hans-Narasimhan,Pitampura,Faridabad,Haryana,506922,"20.517583333773658,89.48040404584825",False,Home,2025-02-18 10:53:10,2025-04-06 05:51:04
+200157,99939,13,38.0,Pandya-Balasubramanian Complex,"Beside Babu, Mangat and Menon",Karol Bagh,Amritsar,Punjab,354098,"20.363539350460737,96.86707474846634",False,Work,2024-06-16 07:51:53,2025-04-04 04:54:02
+116048,57989,23,,Mangat Inc Residency,Behind Joshi PLC,Hauz Khas,Ahmedabad,Gujarat,639903,"19.471739237229787,78.70933328778972",True,Home,2024-10-11 17:06:36,2025-01-13 10:01:31
+100704,50345,15,,Lad-Sharma Complex,Opp. Memon and Sons,Connaught Place,Varanasi,Uttar Pradesh,489201,"37.22155342962151,79.697499282558",True,Work,2025-03-19 05:30:34,
+127108,63478,23,13.0,"Narayan, Singh and Yadav Complex",Beside Singhal Ltd,Pitampura,Chennai,Tamil Nadu,681858,"27.12927908508275,78.3303604942026",False,Other,2024-05-04 17:19:22,2024-12-30 03:06:21
+138704,69261,24,7.0,Sandal-Shere Residency,B/h. Tak Group,Connaught Place,Porbandar,Gujarat,845911,"24.73938688349896,95.55125486602357",True,Work,2025-03-28 15:24:37,2025-04-29 23:18:53
+152438,76143,1,,Dhillon LLC Heights,Kohli-Wadhwa,Hauz Khas,Chennai,Tamil Nadu,681858,"10.004522896244094,83.40384998614259",True,Home,2024-07-29 22:05:44,2024-11-23 04:47:54
+88580,44289,22,,Bhatti LLC Complex,Near Patla-Shroff,Saket,Kota,Rajasthan,775822,"9.462325791471148,69.60643242430413",False,Other,2025-04-26 19:02:22,2025-04-27 00:09:10
+116749,58348,22,30.0,Bhargava LLC Towers,Near Jhaveri-Saha,Dwarka,Varanasi,Uttar Pradesh,489201,"18.572861076158127,72.67767019827004",True,Work,2024-05-20 22:33:14,
+92223,46122,37,18.0,Goda-Vig Towers,Beside Sha PLC,Malviya Nagar,Kolkata,West Bengal,552417,"22.870815913563867,78.96265603819478",False,Work,2023-08-28 01:02:05,2025-04-19 17:48:58
+6376,3191,33,15.0,"Chawla, Sawhney and Chaudhari Complex","Behind Singh, Mital and Mitter",Dwarka,Kolkata,West Bengal,552417,"14.262417452815583,78.48960337482175",False,Other,2023-01-03 08:39:03,2023-03-08 01:56:00
+104777,52373,33,,"Chaudhuri, Randhawa and Sarkar Complex",Behind Vig-Kuruvilla,Malviya Nagar,Himatnagar,Gujarat,789514,"34.38506292920851,85.40212715329265",True,Work,2024-04-12 11:37:38,2024-05-26 07:20:17
+24942,12421,16,9.0,Nagi-Kuruvilla Residency,"B/h. Ray, Choudhury and Talwar",Connaught Place,Bhopal,Madhya Pradesh,727889,"8.479386293582618,94.75800399554629",False,Work,2024-02-09 19:08:33,2024-10-07 06:12:10
+92688,46353,4,31.0,More LLC Residency,B/h. Chowdhury Inc,Mayur Vihar,Surat,Gujarat,335772,"12.447692810344716,81.54953008921122",False,Other,2024-04-28 14:16:56,2024-08-07 08:45:48
+193196,96502,12,18.0,Khanna and Sons Residency,Near Parekh and Sons,Malviya Nagar,Mumbai,Maharashtra,887572,"26.564081526739265,70.39532209442835",True,Work,2024-07-20 11:21:37,2024-08-13 13:47:39
+149720,74770,36,18.0,Handa PLC Apartments,Behind Shere-Mitra,Saket,Himatnagar,Gujarat,789514,"20.231902870136416,80.9331941740877",False,Other,2024-03-05 15:19:20,2025-03-07 20:20:22
+194604,97192,43,,Goswami LLC Heights,"Beside Upadhyay, Mangal and Rajagopal",Vasant Kunj,Mysore,Karnataka,781088,"26.122751217138493,87.82352580320723",False,Home,2023-06-18 00:53:34,
+167372,83578,14,11.0,"Vasa, Tella and Pathak Complex","Hans, Bumb and Char",Greater Kailash,Meerut,Uttar Pradesh,417419,"25.549527098217318,85.46339805873941",True,Other,2023-03-03 12:33:10,2024-01-13 14:21:24
+113734,56843,21,39.0,Gokhale-Chatterjee Heights,Roy-Kale,Lajpat Nagar,Guwahati,Assam,116814,"9.047697644254907,83.17746361288988",False,Other,2021-11-27 22:28:18,2023-09-11 22:59:38
+124449,62165,33,7.0,Barad-Jain Residency,Garde-Kala,Hauz Khas,Chandigarh,Punjab,549898,"36.97541447387607,80.44421280788768",True,Other,2025-04-25 14:26:44,2025-04-28 22:59:08
+199411,99580,36,10.0,Oza LLC Towers,Beside Hans PLC,South Extension,Nadiad,Gujarat,280555,"26.149800085080756,88.75945680304031",False,Other,2025-01-22 08:54:11,2025-02-24 04:42:35
+77974,39006,13,28.0,Ranganathan PLC Apartments,"B/h. Bora, Yadav and Loyal",Connaught Place,Surat,Gujarat,335772,"37.30999110752246,86.5284699361569",True,Home,2022-06-13 23:59:01,
+85718,42895,14,,Murthy and Sons Residency,"B/h. Mani, Saha and Doshi",Mayur Vihar,Nadiad,Gujarat,280555,"28.50030414339394,85.12635526762432",True,Other,2020-11-30 23:42:48,2023-06-01 14:08:09
+138484,69153,40,33.0,Kashyap Inc Complex,Behind Mallick Ltd,Saket,Ahmedabad,Gujarat,639903,"31.391086035110888,80.99773344483208",True,Home,2024-03-24 22:04:06,2024-10-24 14:53:44
+831,416,34,11.0,Raju-Sarma Apartments,"Beside Chandran, Balakrishnan and Mitter",Greater Kailash,Faridabad,Haryana,506922,"18.876106905903576,75.58473907597785",True,Home,2021-06-04 18:44:58,2023-07-13 02:09:48
+180147,89997,25,,Naik-Jhaveri Apartments,Beside Dutt Inc,Greater Kailash,Chennai,Tamil Nadu,681858,"29.790457757007132,91.31623123975126",True,Other,2023-07-02 10:06:18,
+184997,92432,35,24.0,Dugal-Batta Residency,"Beside Kalla, Tank and Dayal",Janakpuri,Dhanbad,Jharkhand,413445,"28.687529475274772,90.78988181715609",False,Other,2024-03-08 01:41:04,2024-06-07 02:31:27
+98588,49299,47,13.0,Reddy Group Heights,"Opp. Doshi, Kamdar and Purohit",Janakpuri,Agra,Uttar Pradesh,875179,"19.083131271906595,88.49491508757404",False,Home,2023-05-06 23:57:20,2023-12-13 11:46:53
+47490,23669,46,16.0,Gopal-Khatri Apartments,Near Chaudhry-Chakrabarti,Lajpat Nagar,Bhopal,Madhya Pradesh,727889,"21.613019228630133,97.218252651949",True,Other,2025-03-15 15:08:26,2025-03-16 07:43:40
+54970,27462,22,37.0,Nadig-Tara Apartments,B/h. Sane PLC,Pitampura,Dhanbad,Jharkhand,413445,"9.842387036554527,77.70818932412578",True,Work,2023-07-03 02:00:30,2024-05-07 18:44:22
+95175,47612,28,5.0,Subramaniam PLC Heights,B/h. Brahmbhatt Ltd,Rajouri Garden,Mysore,Karnataka,781088,"32.4315019356643,86.8186651289663",False,Other,2023-07-27 16:05:34,
+188163,94001,45,,Kapur-Kala Heights,Sekhon-Oza,Dwarka,Nadiad,Gujarat,280555,"8.959157266805468,93.78141223780456",True,Home,2023-09-18 03:25:54,2024-07-31 02:29:22
+160024,79929,28,26.0,"Dewan, Hayre and Arora Residency",Opp. Kumer-Talwar,Lajpat Nagar,Faridabad,Haryana,506922,"11.919195297337891,69.43036546490762",False,Home,2023-09-11 12:36:59,2024-10-05 02:47:07
+97901,48943,50,29.0,Lata-Sekhon Complex,Reddy-Deol,Dwarka,Jaipur,Rajasthan,698508,"33.933973419086584,87.42087029426574",False,Home,2024-10-09 02:23:41,
+124457,62169,31,5.0,Sagar-Mitter Apartments,"B/h. Rana, Srivastava and D’Alia",Pitampura,Chandigarh,Punjab,549898,"36.26353395865976,73.41430379931849",True,Other,2024-07-14 20:14:02,2024-08-01 07:43:59
+133255,66589,13,40.0,Parmar Group Complex,Behind Kar PLC,Lajpat Nagar,Morbi,Gujarat,508591,"30.36042531032855,70.6825071603942",False,Work,2025-04-09 13:59:24,
+4793,2406,16,9.0,Varma Group Heights,B/h. Som Ltd,Pitampura,Mysore,Karnataka,781088,"27.153246275630742,69.65069311771867",False,Other,2025-04-14 12:25:33,2025-04-23 13:45:21
+89430,44715,50,12.0,Kaur-Kota Heights,Opp. Goel-Mahajan,Vasant Kunj,Amritsar,Punjab,354098,"20.940848667597706,69.64767751834027",False,Work,2024-03-25 04:31:36,
+85957,43016,12,,Desai-Kala Towers,Beside Biswas Inc,Karol Bagh,Agra,Uttar Pradesh,875179,"16.83666615238949,94.27157251253418",True,Work,2024-04-02 10:52:29,2024-11-18 04:12:30
+177149,88510,8,22.0,"Pathak, Thakur and Mittal Towers","Rajagopalan, Pai and Jhaveri",Vasant Kunj,Kota,Rajasthan,775822,"35.812145832955906,78.79029450112337",True,Work,2024-05-24 04:35:58,
+22060,11008,46,,Seth-Randhawa Towers,B/h. Bhat-Kashyap,Janakpuri,Gandhinagar,Gujarat,329684,"18.384458890962552,89.7493121517809",True,Home,2021-09-26 05:23:43,2023-03-25 20:02:51
+45143,22478,30,19.0,Behl-Pillai Complex,"Bassi, Vig and Sekhon",Saket,Dhanbad,Jharkhand,413445,"24.20168077010584,80.78090663382845",False,Home,2023-12-16 22:42:39,2024-06-28 00:49:31
+181626,90745,6,15.0,Dutta-Gulati Heights,"Beside Kurian, Kothari and Krish",Vasant Kunj,Hubli,Karnataka,594714,"8.425565923295029,77.63715691011222",True,Other,2021-04-11 14:33:11,
+48129,23992,1,28.0,Badal Ltd Towers,Opp. Sandhu-Gara,Dwarka,Nadiad,Gujarat,280555,"8.791042926539959,68.887700840688",False,Work,2024-04-14 13:14:37,2025-04-19 09:28:06
+137361,68609,49,40.0,Kar-Bandi Apartments,Behind Dalal PLC,Vasant Kunj,Nashik,Maharashtra,240889,"15.413195589917642,75.19889226300464",True,Home,2024-11-25 11:27:16,2025-01-28 03:57:39
+34640,17237,19,35.0,"Mohan, Sami and Shukla Towers",Opp. Mander PLC,Vasant Kunj,Kochi,Kerala,277414,"32.593700603379176,69.28177319001328",True,Other,2025-03-22 11:00:12,
+23107,11525,33,37.0,Sabharwal-Dass Towers,Near Bumb Ltd,Rajouri Garden,Meerut,Uttar Pradesh,417419,"9.158155951322628,79.19480616917461",False,Other,2024-02-01 16:43:42,
+102887,51424,29,33.0,Hegde PLC Towers,Near Vig PLC,Rajouri Garden,Hyderabad,Telangana,217473,"34.268505418024844,93.14313815099915",True,Other,2024-02-08 16:29:11,
+109779,54869,36,,Konda Group Towers,"Behind Narain, Brar and Chowdhury",Karol Bagh,Hyderabad,Telangana,217473,"14.668847888968873,72.4521627512339",True,Work,2024-06-05 06:25:36,2025-01-15 03:19:26
+90468,45234,15,39.0,"Golla, Vig and Saha Heights",Beside Gour-Shere,Janakpuri,Lucknow,Uttar Pradesh,791453,"9.994100640118962,79.74691710165968",True,Work,2024-03-21 20:21:30,2024-08-10 06:08:51
+24069,11989,7,18.0,"Madan, Gole and Prabhakar Residency","Behind Dash, Gade and Wason",Vasant Kunj,Anand,Gujarat,776563,"8.882661077158215,74.88582808490604",True,Other,2025-01-06 16:43:24,
+86075,43072,13,,"Chandran, Wable and Anne Towers",B/h. Golla Inc,Rajouri Garden,Himatnagar,Gujarat,789514,"34.94230603537831,91.85200039616919",True,Work,2022-10-03 09:23:14,2023-10-11 18:43:47
+172222,86045,26,8.0,Oak Group Heights,Misra-Modi,Vasant Kunj,Nadiad,Gujarat,280555,"15.388578965301189,86.21054968444165",False,Other,2024-06-07 10:53:04,
+188809,94326,3,,Khurana-Dhingra Apartments,B/h. Grover LLC,Rajouri Garden,Nadiad,Gujarat,280555,"26.14079747409496,83.15722475404414",True,Home,2024-01-19 14:24:01,2025-03-07 12:45:38
+120252,60093,42,20.0,Nagy-Borah Towers,"B/h. Gaba, Nanda and Sanghvi",South Extension,Thane,Maharashtra,387370,"35.65096042853522,78.60320805035288",True,Home,2023-05-06 10:53:28,2024-08-12 08:08:33
+127335,63597,47,32.0,Basak-Mital Apartments,Behind Jaggi LLC,Rajouri Garden,Rajkot,Gujarat,758564,"24.507750247871137,84.55599034558956",False,Home,2025-03-04 19:45:05,2025-04-07 16:57:04
+34865,17344,34,,"Ghose, Prabhu and Mukherjee Residency","Beside Mammen, Gera and Vala",Hauz Khas,Porbandar,Gujarat,845911,"15.667331237777756,75.07497942910823",False,Other,2025-01-13 09:43:41,
+21877,10915,22,25.0,Saha PLC Complex,"Behind Wadhwa, Mahal and Kaul",Vasant Kunj,Meerut,Uttar Pradesh,417419,"27.005375135140483,75.10467144140377",False,Home,2025-01-03 15:25:25,2025-02-23 06:24:18
+135705,67785,21,3.0,"Chakrabarti, Bal and Sama Heights",Opp. Lalla-Deep,Greater Kailash,Jaipur,Rajasthan,698508,"33.39156228929594,92.40415266512835",False,Other,2023-07-17 14:03:15,
+64609,32273,41,27.0,Sastry-Palla Residency,Behind Kibe-Narang,Mayur Vihar,Chennai,Tamil Nadu,681858,"21.667975196683543,74.10542762086878",False,Other,2023-12-28 06:48:36,2024-12-28 20:19:28
+87649,43833,3,14.0,Sastry LLC Apartments,Beside Hegde and Sons,Dwarka,Porbandar,Gujarat,845911,"17.00801397723992,80.55947763525222",True,Home,2023-07-30 03:30:34,2024-04-24 12:21:52
+56543,28252,29,,Garde LLC Towers,Near Dube Ltd,Saket,Nagpur,Maharashtra,462944,"33.8074098920596,69.8475811123682",False,Other,2022-02-09 20:45:24,2024-08-30 19:10:34
+184244,92048,46,40.0,Chahal LLC Towers,Near Wason-Aurora,Vasant Kunj,Varanasi,Uttar Pradesh,489201,"32.24479761363078,72.37716230922489",True,Other,2024-08-21 12:22:31,2024-12-31 04:44:21
+108441,54198,45,32.0,Shankar and Sons Complex,B/h. Bail-Rout,South Extension,Pune,Maharashtra,208246,"24.04721883729141,82.66511230358",False,Other,2025-03-21 05:40:13,
+129324,64583,23,8.0,Chawla-Thakur Heights,Sankar-Sidhu,Rohini,Surat,Gujarat,335772,"21.35530804560709,95.95845159201052",False,Work,2024-11-11 06:49:21,2025-01-25 05:35:56
+196960,98357,45,13.0,"Mital, Goswami and Handa Heights","B/h. Gour, Swamy and Bandi",Karol Bagh,Anand,Gujarat,776563,"17.688920897584225,83.68129375817435",True,Other,2023-11-23 21:42:38,2024-09-21 11:11:52
+161753,80802,7,36.0,Bumb and Sons Towers,Near Bava Ltd,Karol Bagh,Delhi,Delhi,780487,"34.410326662059646,71.40038929917812",False,Other,2025-03-29 23:55:10,
+193910,96849,11,12.0,Saha PLC Towers,"Beside Hora, Dani and Vyas",Saket,Guwahati,Assam,116814,"10.961090056440902,89.56698739421606",True,Work,2024-12-20 07:37:43,2025-02-26 15:34:47
+38499,19132,45,20.0,Lanka-Karan Residency,B/h. Choudhry LLC,Janakpuri,Hubli,Karnataka,594714,"9.653808620629155,85.83889496726127",True,Home,2024-08-20 21:22:38,
+122427,61179,10,37.0,"Sama, Cheema and Bali Residency",Near Chanda Ltd,South Extension,Hubli,Karnataka,594714,"30.632139971443898,80.57019890581152",False,Home,2022-03-31 02:41:50,
+161889,80870,37,2.0,"Mane, Gaba and Trivedi Heights",Near Rajagopal-Tara,Dwarka,Mysore,Karnataka,781088,"29.695873063045404,96.97717198128267",False,Other,2024-07-01 13:03:30,
+33970,16904,45,29.0,Sahota-Jhaveri Apartments,B/h. Bir Inc,Connaught Place,Anand,Gujarat,776563,"11.572995507287928,74.08464318586427",False,Home,2024-09-30 04:41:56,2025-01-09 07:54:59
+133902,66903,42,13.0,Bora and Sons Towers,Beside Gopal-Luthra,Janakpuri,Hubli,Karnataka,594714,"15.33948069171306,88.59545112481933",False,Home,2024-11-13 10:51:29,
+166742,83254,23,18.0,"Arya, Desai and Sankaran Complex",Behind Sen-Virk,Vasant Kunj,Chennai,Tamil Nadu,681858,"23.712396775001302,69.29175829573747",False,Home,2024-10-10 06:59:31,
+6548,3275,19,,"Tiwari, Cherian and Sharaf Heights","Beside Swaminathan, Bhavsar and Goel",Greater Kailash,Thane,Maharashtra,387370,"35.47304124485163,92.37280619219544",False,Home,2023-03-15 09:18:14,
+49048,24446,3,14.0,Solanki Inc Apartments,Near Bassi-Bora,Janakpuri,Nashik,Maharashtra,240889,"25.311080747556986,74.58652863947913",True,Other,2024-11-13 10:17:13,
+46287,23064,43,17.0,Pandya-Uppal Heights,Beside Chaudhry and Sons,Hauz Khas,Vadodara,Gujarat,998662,"24.482141452675954,87.59617855505837",True,Work,2022-03-19 23:49:37,
+43007,21395,25,17.0,Pant Group Heights,"Bala, Garg and Karpe",Connaught Place,Indore,Madhya Pradesh,466778,"37.456577382894594,75.38084529158944",False,Other,2023-06-15 14:49:20,2024-07-23 17:46:50
+130334,65120,34,16.0,"Narang, Dugar and Rege Apartments",Near Wagle-Narayanan,Karol Bagh,Meerut,Uttar Pradesh,417419,"36.551397209964854,86.68965093200487",False,Home,2024-11-17 18:20:51,2025-02-23 00:44:57
+77185,38597,28,32.0,Rajagopal PLC Heights,Mall LLC,Hauz Khas,Guwahati,Assam,116814,"32.68056440795592,82.39186544035435",False,Other,2024-12-22 04:33:35,2025-01-08 09:04:15
+14297,7141,13,10.0,Sangha-Jani Heights,"Deshpande, Nayar and Batta",Rajouri Garden,Agra,Uttar Pradesh,875179,"15.356188255438802,94.06290125149812",False,Work,2024-03-29 02:53:58,2024-11-14 15:07:57
+20427,10190,2,29.0,Kibe and Sons Heights,Beside Sangha Inc,Pitampura,Porbandar,Gujarat,845911,"14.755123372654676,90.5240911537974",False,Home,2023-09-18 15:40:32,
+124792,62334,10,22.0,Krish-Deshmukh Heights,Near De-Golla,Janakpuri,Pune,Maharashtra,208246,"11.265085690580378,84.45937495872796",False,Other,2024-12-26 09:11:52,2025-03-04 07:39:16
+5856,2936,45,3.0,"Sinha, Prasad and Wali Complex",Ben LLC,South Extension,Nashik,Maharashtra,240889,"10.288952913268542,81.79885890874607",False,Home,2022-06-29 13:24:43,2024-04-18 09:18:49
+10293,5135,1,6.0,Lanka Ltd Towers,"B/h. Sidhu, Karpe and Gopal",Janakpuri,Thane,Maharashtra,387370,"13.739283966069557,92.76218134445625",True,Work,2025-04-22 23:58:10,2025-05-01 07:04:12
+180265,90057,23,,Kaul Inc Apartments,"Opp. Dixit, Thaker and Ray",Saket,Jaipur,Rajasthan,698508,"34.487934176355125,89.91216373960415",False,Work,2022-12-01 04:57:49,2024-03-21 05:26:43
+70480,35228,15,4.0,"Chauhan, Ray and Malhotra Towers","Opp. Ravel, Mani and Chaudhuri",Dwarka,Hubli,Karnataka,594714,"32.48078294832921,82.46982429775032",False,Work,2024-10-10 12:51:51,2024-11-08 06:47:45
+155963,77894,14,19.0,Bains-Nanda Heights,"B/h. Rout, Kar and Memon",Saket,Surat,Gujarat,335772,"29.212567157213158,94.12703907079796",True,Work,2024-09-15 13:54:49,2024-11-01 20:16:58
+179606,89736,22,,Tank PLC Heights,"Uppal, Choudhary and Prabhu",Pitampura,Surat,Gujarat,335772,"16.486401726126086,71.05784189696129",True,Home,2023-12-04 07:13:38,2024-04-06 19:15:11
+168730,84267,41,,"Chadha, Saraf and Krishnan Heights",Beside Gour LLC,Dwarka,Patna,Bihar,508382,"25.294735224289433,93.36918426041296",False,Other,2024-08-05 12:32:55,2025-02-18 20:27:39
+9246,4629,1,2.0,"Patil, Patla and Sandhu Complex",B/h. Toor Group,South Extension,Faridabad,Haryana,506922,"14.329028888250226,88.78442684207891",False,Work,2023-08-18 09:31:54,2024-04-12 08:17:20
+66182,33051,39,7.0,Dass Group Residency,Opp. Edwin-Char,Connaught Place,Bhopal,Madhya Pradesh,727889,"12.128672828205003,74.50221196024731",True,Other,2025-03-21 22:06:12,
+173124,86493,19,27.0,"Dhar, Sarraf and Patel Complex",Bir-Deo,Rohini,Pune,Maharashtra,208246,"18.937162931769016,69.60212232047823",True,Work,2024-12-23 08:43:28,2025-03-09 05:11:06
+28855,14349,5,20.0,Sinha-Saxena Residency,Beside Borra-Purohit,Rajouri Garden,Himatnagar,Gujarat,789514,"32.866929471670176,81.59822756951176",False,Home,2022-11-21 11:02:24,
+189205,94522,42,21.0,"Solanki, Mallick and Sangha Heights",Near Chander Group,Vasant Kunj,Bhopal,Madhya Pradesh,727889,"11.122052254804514,69.98447448993332",True,Other,2025-02-27 19:13:34,2025-03-26 11:43:40
+115366,57643,28,12.0,Wali-Yadav Complex,"Opp. Bali, Bahl and Keer",Janakpuri,Morbi,Gujarat,508591,"33.63958636186099,91.06423360612837",True,Work,2021-05-02 09:11:04,
+146666,73244,27,16.0,Devi-Gour Heights,Beside Dalal-Kant,Hauz Khas,Chennai,Tamil Nadu,681858,"31.99761641271113,75.78325025320326",True,Other,2024-07-30 21:32:21,
+170276,85043,40,37.0,Chaudhary LLC Heights,Near Gola Group,Lajpat Nagar,Kota,Rajasthan,775822,"25.736214724354397,82.28484098115518",True,Work,2022-12-28 04:01:31,2024-07-16 13:37:57
+56194,28071,26,19.0,Parikh Inc Complex,"Solanki, Basu and Shankar",Malviya Nagar,Kochi,Kerala,277414,"15.885652110225475,85.40263855033326",True,Home,2023-06-04 04:26:14,
+131048,65488,29,,Narain-Prabhu Residency,Zacharia-Vig,Malviya Nagar,Kota,Rajasthan,775822,"30.413745408361983,70.37738719233677",True,Other,2023-06-03 19:06:05,2024-11-23 00:12:48
+163342,81580,37,,"Tailor, Korpal and Banik Towers",Near Purohit-Thaman,Connaught Place,Ahmedabad,Gujarat,639903,"17.927466813435082,93.33660723915321",True,Other,2024-08-22 03:15:30,2024-10-18 21:33:08
+189548,94688,11,7.0,Bora and Sons Residency,"B/h. Guha, Dhar and Hayer",Dwarka,Patna,Bihar,508382,"14.678985671119737,71.04973369759219",False,Work,2022-07-10 01:58:35,2022-11-27 14:59:11
+95751,47888,42,,"Pall, Pandya and Kapadia Apartments",Behind Minhas Group,Lajpat Nagar,Varanasi,Uttar Pradesh,489201,"14.615419394507235,79.0691818221525",True,Other,2024-11-05 22:55:59,2025-01-02 22:20:42
+91061,45540,41,31.0,Tailor and Sons Complex,"Opp. Sibal, Rajagopalan and Balan",Lajpat Nagar,Faridabad,Haryana,506922,"35.24439436391739,72.01805866703813",True,Work,2024-03-14 19:12:14,2024-05-19 22:24:21
+72618,36293,15,,Karnik-Batta Heights,Opp. Trivedi Group,Karol Bagh,Varanasi,Uttar Pradesh,489201,"31.21661006512668,84.27088456810539",True,Other,2021-04-28 04:41:22,
+8277,4138,50,37.0,"Keer, Barad and Oza Towers",Beside Jayaraman-Khurana,Karol Bagh,Dhanbad,Jharkhand,413445,"30.134864760869412,73.2798116069477",True,Other,2022-10-24 04:34:49,2022-11-05 21:33:19
+140743,70275,6,,Banerjee-Gade Complex,Beside Bhalla and Sons,Mayur Vihar,Nashik,Maharashtra,240889,"21.289116125393406,96.79638771756288",False,Home,2024-10-07 15:33:18,2025-01-05 11:13:50
+99362,49683,17,27.0,Swaminathan and Sons Apartments,Behind Tak Ltd,Janakpuri,Dhanbad,Jharkhand,413445,"12.026022479264697,79.2045256161571",False,Home,2024-05-13 07:32:41,2024-06-10 21:10:42
+36348,18072,43,39.0,"Balakrishnan, Roy and Chowdhury Heights","B/h. Ganesan, Pant and Chadha",Janakpuri,Bangalore,Karnataka,344053,"29.43937079446996,85.32640421811706",False,Other,2022-04-18 11:23:22,2022-11-30 01:33:57
+45605,22717,44,,Srinivas-Bhattacharyya Complex,Behind Patel-Kothari,South Extension,Chandigarh,Punjab,549898,"8.567009386233048,72.12708668955396",False,Work,2023-03-03 15:50:34,2024-08-15 06:26:18
+2656,1331,36,19.0,"Kapadia, Ramaswamy and Master Heights","Behind Patel, Ramachandran and Bhagat",Dwarka,Agra,Uttar Pradesh,875179,"34.64477333494563,75.40017840192249",False,Other,2024-01-16 21:10:28,2024-01-28 04:17:33
+134055,66978,48,28.0,Behl Group Residency,Opp. Balasubramanian Group,Rohini,Agra,Uttar Pradesh,875179,"14.402810729016348,89.95084523481279",False,Other,2025-01-19 11:25:10,2025-01-21 02:16:12
+111146,55566,4,3.0,"Guha, Bhagat and Borde Towers",Near Gandhi and Sons,Janakpuri,Aurangabad,Maharashtra,803384,"20.737267190562278,69.53531861510612",True,Work,2023-04-19 03:18:00,
+24323,12106,14,,Lalla-Rau Towers,B/h. Khatri Inc,Rajouri Garden,Indore,Madhya Pradesh,466778,"8.825367429004883,89.07094204124814",False,Work,2024-09-11 15:18:39,2025-04-12 00:23:56
+198687,99206,33,3.0,Bumb and Sons Complex,"Opp. Shroff, Borra and Narula",Connaught Place,Aurangabad,Maharashtra,803384,"23.758622668328613,87.35819385482446",False,Home,2024-09-10 19:44:14,2025-01-25 01:31:14
+159618,79724,19,15.0,"Joshi, Vohra and Rau Complex",Nigam-Bora,Malviya Nagar,Faridabad,Haryana,506922,"28.502212533543712,75.52206331089452",False,Other,2022-06-22 06:30:53,2024-01-01 22:14:25
+14883,7435,30,,Bhasin PLC Residency,Beside Sagar-Tella,Pitampura,Amritsar,Punjab,354098,"16.972603346989274,91.64578534212511",True,Home,2025-02-07 17:47:31,
+128056,63957,47,14.0,"Pillay, Ratti and Bali Towers",Kulkarni Inc,Pitampura,Porbandar,Gujarat,845911,"12.909962744718005,78.46479367801547",True,Other,2022-07-20 08:38:01,2024-09-21 15:52:30
+93992,47014,15,,Tank and Sons Residency,B/h. Menon-Peri,Rohini,Hubli,Karnataka,594714,"35.3417862347154,69.64083623653225",False,Home,2025-04-11 20:15:10,2025-04-13 02:06:23
+171604,85731,16,23.0,Aurora Ltd Complex,Near Oommen-Dasgupta,Mayur Vihar,Srinagar,Jammu and Kashmir,848797,"23.214800685270802,74.2798694628548",False,Other,2023-07-10 21:59:35,2023-07-24 12:07:07
+78962,39511,20,36.0,"Sarma, Bora and Upadhyay Towers","Tara, Chaudry and Mall",Janakpuri,Himatnagar,Gujarat,789514,"15.931095771310375,88.36253836894228",False,Home,2023-05-20 22:23:45,
+36614,18212,22,35.0,"Sha, Merchant and Bobal Heights","Near Swamy, Seshadri and Bansal",Pitampura,Rajkot,Gujarat,758564,"10.16521229824475,73.32292575145735",True,Other,2021-02-23 03:54:15,2024-12-21 18:27:07
+156053,77937,27,,Lal-Bajwa Complex,Behind Bhasin LLC,Dwarka,Hubli,Karnataka,594714,"29.20819216004368,86.50130677738535",True,Home,2024-10-22 13:39:31,
+65664,32789,8,14.0,"Dua, Tata and Bhardwaj Towers",Opp. Bhandari Ltd,Rajouri Garden,Kolkata,West Bengal,552417,"36.82937950950641,96.18075018326293",False,Home,2024-12-02 07:48:07,
+69404,34687,50,,"Balasubramanian, Bhandari and Behl Heights","Opp. Kale, Gara and Dora",Connaught Place,Dhanbad,Jharkhand,413445,"23.46217304898841,84.26435636546333",True,Work,2024-08-08 06:22:34,2025-04-18 02:45:57
+175901,87885,5,20.0,Vora Inc Complex,B/h. Srivastava LLC,Pitampura,Surat,Gujarat,335772,"28.437613257558546,74.67857563914227",True,Other,2022-07-11 14:49:39,
+185178,92515,21,15.0,Kant-Basak Residency,Near Munshi-Issac,Pitampura,Faridabad,Haryana,506922,"28.2523367912598,78.81804777811563",True,Home,2021-07-07 06:47:37,2024-09-16 15:23:16
+116427,58188,44,,Nazareth LLC Apartments,Opp. Kumer LLC,Janakpuri,Vijayawada,Andhra Pradesh,874544,"10.92362991538727,80.21150519772937",True,Work,2022-08-22 05:24:13,2024-02-17 13:38:36
+97476,48745,22,23.0,Sagar and Sons Apartments,B/h. Rai-Dave,Pitampura,Kolkata,West Bengal,552417,"29.792123665412085,91.11995466922737",False,Home,2024-12-24 19:41:38,2025-04-01 01:51:22
+56856,28411,4,,Cheema-Chad Apartments,Opp. Chaudhuri Ltd,Pitampura,Chennai,Tamil Nadu,681858,"20.414187117203824,92.73104578744301",True,Work,2024-05-29 19:32:09,2024-12-21 23:48:46
+168054,83927,5,,Maharaj Inc Residency,Beside Kade-Hari,Rohini,Surat,Gujarat,335772,"15.443466658066896,88.0186123019025",False,Other,2025-04-20 03:32:47,2025-05-01 01:07:03
+108442,54198,40,23.0,"Dhar, Bhat and Kumar Heights",Behind Ghose-Devi,Pitampura,Bhopal,Madhya Pradesh,727889,"24.21279864776946,87.30206902065123",False,Other,2025-04-12 21:37:06,2025-04-21 22:22:29
+51251,25580,20,7.0,Chopra-Suresh Residency,Behind Patil LLC,Mayur Vihar,Srinagar,Jammu and Kashmir,848797,"12.353453132594298,94.80979159614901",True,Home,2025-04-09 21:55:16,2025-04-26 08:59:57
+32568,16205,32,27.0,"Walia, Baria and Apte Towers",Near Bobal and Sons,Karol Bagh,Kolkata,West Bengal,552417,"21.975012183282217,94.40619233423976",False,Home,2023-07-13 20:39:37,
+48130,23992,29,,Sanghvi-Pau Towers,Beside Choudhry Ltd,Malviya Nagar,Agra,Uttar Pradesh,875179,"18.66920849017606,95.0398920159348",False,Other,2023-10-30 00:48:39,2025-03-28 01:53:08
+62356,31133,25,12.0,"Baral, Rout and Brahmbhatt Residency","Behind Goswami, Loke and Palla",Vasant Kunj,Vadodara,Gujarat,998662,"31.34618429981701,79.50226430169585",False,Work,2023-08-05 18:14:18,2025-03-17 00:37:58
+127507,63679,21,,"Pillai, Kant and Mishra Heights",Near Edwin-Kohli,Vasant Kunj,Chandigarh,Punjab,549898,"35.980410503334866,80.9060591585043",True,Work,2022-01-27 23:32:28,2023-10-01 16:44:15
+181624,90743,23,,Tank-Lal Apartments,Near Sani Inc,Lajpat Nagar,Jaipur,Rajasthan,698508,"23.928230063182113,95.6232635992116",False,Home,2023-10-06 08:26:30,
+53031,26485,6,39.0,"Garde, Rajan and Maharaj Towers","Buch, Borah and De",Hauz Khas,Ahmedabad,Gujarat,639903,"24.77719075824278,79.01601679917914",False,Work,2023-06-12 23:52:01,2025-01-18 11:26:07
+174646,87242,28,24.0,Dara PLC Apartments,Near Dhaliwal PLC,Dwarka,Rajkot,Gujarat,758564,"35.39154211167702,87.88785226980227",True,Work,2024-09-08 19:02:54,2025-01-03 09:34:49
+115481,57703,19,12.0,"Krishnamurthy, Parikh and Rama Towers","Opp. Bandi, Arya and Mane",Mayur Vihar,Srinagar,Jammu and Kashmir,848797,"27.852071133354798,72.28419653275027",True,Home,2023-12-25 14:41:35,2024-06-24 12:48:06
+77667,38846,9,,Varughese LLC Heights,Opp. D’Alia-Nanda,Dwarka,Patna,Bihar,508382,"31.637376815327222,95.01635173618473",True,Other,2025-03-06 01:01:32,2025-04-13 02:12:46
+25812,12849,39,38.0,Lad PLC Towers,"Near Natt, Minhas and Pant",Dwarka,Varanasi,Uttar Pradesh,489201,"11.899028067846821,85.62654003265307",False,Other,2024-10-30 03:20:14,2025-03-15 21:25:07
+128829,64337,46,26.0,Pant PLC Complex,Behind Contractor and Sons,South Extension,Hubli,Karnataka,594714,"8.710850719534823,95.34955322728179",False,Work,2024-10-01 02:12:55,2025-02-22 07:14:11
+84946,42509,27,22.0,Chaudhary Inc Complex,Opp. Nayak Inc,Greater Kailash,Dhanbad,Jharkhand,413445,"33.90719447649742,77.54008901526488",True,Other,2023-08-19 01:20:36,2023-12-29 04:06:47
+149544,74683,4,,"Ramachandran, Chopra and Sane Apartments",Saha Group,Karol Bagh,Varanasi,Uttar Pradesh,489201,"8.601293240666555,96.14055614120753",False,Other,2022-05-24 19:42:25,
+193328,96563,18,19.0,Keer LLC Complex,B/h. Deo-Krish,Rohini,Porbandar,Gujarat,845911,"32.987391970376336,95.0135096143755",True,Other,2024-06-24 22:38:36,
+94330,47185,16,,Puri-Sampath Complex,"Opp. Mitter, Rao and Modi",Malviya Nagar,Chennai,Tamil Nadu,681858,"23.624197601301557,75.29794241406894",False,Other,2021-12-27 16:05:21,2024-12-21 13:05:19
+84571,42321,38,3.0,"Bath, Dara and Tak Apartments","Beside Sastry, Samra and Bali",Rohini,Surat,Gujarat,335772,"13.959048722508987,80.20333588137112",True,Work,2021-10-16 17:58:34,2021-10-28 04:31:11
+93596,46812,34,,Munshi and Sons Residency,"Near Sastry, Dhar and Sanghvi",Rohini,Varanasi,Uttar Pradesh,489201,"9.888334132692615,79.1230362287797",True,Home,2022-08-28 07:28:41,2024-09-30 09:35:14
+167107,83445,45,,"Ghosh, Ravi and Misra Heights",Near Nagar Inc,Malviya Nagar,Indore,Madhya Pradesh,466778,"36.266805273347885,70.01424966445991",False,Work,2024-07-11 23:16:02,2025-02-24 10:15:58
+196264,98019,37,,Borra-Jain Residency,B/h. Divan-Vala,Malviya Nagar,Ahmedabad,Gujarat,639903,"9.461660320186493,96.29295929952681",False,Other,2024-09-18 13:38:22,2025-01-13 10:53:51
+194476,97127,35,4.0,"Choudhry, Swaminathan and Parsa Towers",Behind Amble-Singhal,South Extension,Vijayawada,Andhra Pradesh,874544,"12.206506667751563,83.01940847970063",False,Home,2024-10-03 18:10:26,2025-04-10 14:31:52
+62449,31181,46,25.0,Palla LLC Heights,"Near Saran, Halder and Viswanathan",South Extension,Gandhinagar,Gujarat,329684,"36.59811879129115,91.18167790657014",True,Other,2023-12-24 16:21:13,2025-03-23 21:57:32
+148999,74410,13,,Lall-Dey Residency,Near Rajagopal-Gera,Pitampura,Nashik,Maharashtra,240889,"34.36858754429365,94.21617339289278",False,Other,2023-01-02 18:56:37,2023-08-20 17:59:00
+34846,17336,44,,"Doshi, Bir and Barad Heights",Near Lalla-Khanna,Karol Bagh,Gandhinagar,Gujarat,329684,"13.468613459750408,89.59789710488307",False,Home,2023-02-04 01:28:46,2024-11-26 21:28:59
+62374,31142,3,28.0,Khatri Group Residency,Near Zacharia-Sanghvi,Malviya Nagar,Vijayawada,Andhra Pradesh,874544,"12.2182351264563,82.73224851560448",False,Other,2024-07-18 21:01:06,2024-12-10 08:19:49
+63258,31586,31,35.0,Rao Ltd Heights,Near Chaudhuri PLC,Dwarka,Pune,Maharashtra,208246,"24.032395855845415,77.84014468418214",False,Work,2024-10-10 08:19:38,
+184736,92301,40,7.0,Anand Group Residency,Behind Mannan-Kalla,Rajouri Garden,Ahmedabad,Gujarat,639903,"32.62177459700939,83.34298315608778",False,Home,2024-03-12 05:18:14,2025-01-18 14:47:48
+88681,44338,47,23.0,"Kaur, Ahluwalia and Nath Apartments",Behind Nath-Boase,Vasant Kunj,Meerut,Uttar Pradesh,417419,"20.71336063104875,89.40358368006457",True,Other,2024-12-22 05:10:16,2025-01-06 18:48:13
+123252,61574,27,,Kara and Sons Apartments,Beside Dutta LLC,Karol Bagh,Agra,Uttar Pradesh,875179,"34.27412392777084,69.94023464409331",False,Work,2025-01-19 08:30:33,2025-02-20 04:08:53
+112602,56282,31,20.0,"Sharaf, Salvi and Sem Apartments",Opp. Sankar-Keer,Lajpat Nagar,Hubli,Karnataka,594714,"15.550166043224763,88.5828018628473",False,Other,2023-04-16 13:31:44,2023-09-05 00:06:40
+97132,48573,32,37.0,"Gaba, Saran and Ramesh Towers",Palla PLC,Rohini,Kolkata,West Bengal,552417,"32.37679226536873,68.82656396366936",True,Home,2025-03-15 09:57:07,2025-04-16 10:28:27
+31017,15438,45,11.0,Lall-Varkey Complex,"Opp. Murty, Palla and Vaidya",Connaught Place,Delhi,Delhi,780487,"32.623872907851236,78.05679892301144",True,Other,2024-05-28 23:09:42,2025-02-10 01:47:59
+164984,82399,1,10.0,Thaman-Kakar Residency,"Behind Roy, Vig and Aurora",Saket,Aurangabad,Maharashtra,803384,"22.962981999283016,72.12834310685535",True,Work,2025-04-14 20:26:53,
+113743,56847,42,30.0,Nayar-Kamdar Heights,"Opp. Narang, Chad and Kadakia",Lajpat Nagar,Amritsar,Punjab,354098,"35.45346066208697,93.97688041114922",False,Home,2025-03-20 21:46:25,
+84032,42054,32,19.0,"Prabhakar, Majumdar and Ratti Heights",Near Bedi-Gandhi,Vasant Kunj,Hubli,Karnataka,594714,"32.186102638478026,84.27320959680682",False,Work,2023-04-18 11:36:20,2024-08-30 21:53:54
+198734,99228,30,,Dar Group Apartments,B/h. Sha-Prabhakar,Saket,Guwahati,Assam,116814,"19.816541503632898,69.91688525003738",False,Home,2024-09-05 12:01:41,
+154181,77021,34,18.0,"Kalla, Chander and Balakrishnan Residency",Opp. Walla-Lalla,Mayur Vihar,Vijayawada,Andhra Pradesh,874544,"13.823861779436783,72.85066828958155",False,Other,2024-05-13 05:03:32,2025-02-11 05:39:06
+34608,17222,10,13.0,Kumer-Bala Towers,B/h. Dara Group,Dwarka,Srinagar,Jammu and Kashmir,848797,"24.094704243521285,69.82163831414593",False,Home,2024-10-04 13:36:23,
+156758,78283,13,34.0,Talwar-Dada Apartments,B/h. Dasgupta-Badal,Dwarka,Kochi,Kerala,277414,"26.098325117541265,92.01419135979364",True,Work,2024-01-12 13:22:38,2025-03-10 03:12:32
+25209,12556,10,,"Prabhakar, Babu and Chaudhari Heights","Near Mall, Deshmukh and Vohra",Dwarka,Amritsar,Punjab,354098,"27.228819951583844,92.52422843836914",True,Home,2023-10-23 14:59:00,2024-01-14 09:09:15
+28654,14248,3,23.0,Choudhary-Chaudhry Towers,Behind Venkataraman-Manne,Karol Bagh,Patna,Bihar,508382,"21.145686266503894,69.92767683995606",False,Other,2022-10-13 12:38:02,2024-06-22 03:30:59
+35698,17757,44,15.0,Subramaniam LLC Apartments,"Raja, Pillay and Garde",Rajouri Garden,Anand,Gujarat,776563,"8.924565530023763,89.72379720890144",False,Home,2025-04-27 06:22:31,2025-04-27 10:07:59
+90978,45496,45,6.0,"Jaggi, Basak and Randhawa Complex","Behind Chatterjee, Krish and Jhaveri",Malviya Nagar,Kolkata,West Bengal,552417,"32.300361060981444,80.58225379973902",False,Other,2022-10-18 11:01:09,
+5723,2874,1,34.0,Ravi-Doshi Apartments,Opp. Dani-Munshi,Greater Kailash,Thane,Maharashtra,387370,"32.8610862673898,85.07968064016538",False,Home,2025-03-11 01:58:07,2025-03-25 17:34:26
+180115,89982,33,,Mani-Mody Residency,Oak-Pradhan,Lajpat Nagar,Ahmedabad,Gujarat,639903,"29.022654464376302,80.90104140802319",True,Other,2023-10-08 09:45:48,2025-01-05 07:49:24
+22430,11185,26,,Dasgupta LLC Heights,"Behind Raj, Joshi and De",Mayur Vihar,Surat,Gujarat,335772,"20.966950018472595,82.9265008666801",True,Other,2024-11-12 03:33:13,2025-03-27 21:34:29
+143658,71753,20,,Varma LLC Towers,Beside More Inc,Hauz Khas,Varanasi,Uttar Pradesh,489201,"15.570691574258724,81.25482530106197",False,Work,2023-07-23 08:40:10,2024-10-19 02:10:04
+22585,11260,43,31.0,Raju Ltd Towers,"Behind Gole, Mukhopadhyay and Pall",Greater Kailash,Bangalore,Karnataka,344053,"12.647708476144231,74.60979517715133",False,Home,2021-11-03 00:34:17,2022-11-03 09:13:09
+13315,6649,18,,Bandi and Sons Apartments,"Upadhyay, Sura and Parmer",Malviya Nagar,Rajkot,Gujarat,758564,"17.64397965075416,74.28891938474176",False,Work,2023-05-01 04:10:49,2024-05-14 19:30:06
+88009,44002,29,22.0,Sridhar-Khosla Heights,"Near Upadhyay, Prabhakar and Kalita",Connaught Place,Rajkot,Gujarat,758564,"25.245653504354152,75.25180667161219",False,Other,2023-04-09 16:50:58,2025-01-10 19:45:26
+19293,9616,11,,"Date, Subramaniam and Chander Apartments",Behind Yadav PLC,Malviya Nagar,Hyderabad,Telangana,217473,"10.534556705678348,85.65748435671358",False,Work,2024-08-03 17:30:14,2024-12-17 10:16:52
+124772,62325,9,4.0,Krish Ltd Towers,Beside Ray-Doshi,Dwarka,Meerut,Uttar Pradesh,417419,"9.51122675220558,90.57572684978753",True,Home,2023-08-12 09:33:43,2024-05-30 10:19:09
+122910,61411,23,,Mukhopadhyay-Taneja Heights,Ganesh Ltd,Malviya Nagar,Nadiad,Gujarat,280555,"27.86182667283184,86.91285555440294",False,Work,2024-11-27 13:30:13,2025-04-20 21:33:38
+186054,92942,12,34.0,Ramesh-Jha Towers,Opp. Sidhu-Bala,Pitampura,Hyderabad,Telangana,217473,"31.33657116451429,92.29780621066406",True,Work,2022-05-17 14:36:09,
+111770,55877,15,24.0,Choudhry-Bahri Heights,Beside Mallick and Sons,Rajouri Garden,Porbandar,Gujarat,845911,"24.166760236611523,82.57241660535408",True,Other,2023-01-11 15:12:15,2023-05-17 09:45:22
+118897,59413,45,15.0,"Ramakrishnan, Hegde and Gulati Residency",Kaur Group,Pitampura,Anand,Gujarat,776563,"29.3679303049259,74.99804985750558",False,Home,2024-01-22 15:19:17,
+194635,97207,48,,Bera-Kant Heights,Behind Chanda-Wali,Greater Kailash,Indore,Madhya Pradesh,466778,"34.04765144902943,79.72712589131477",False,Other,2023-03-01 08:43:12,
+168728,84267,3,40.0,Vyas-Jain Residency,Opp. Nazareth Group,Rohini,Srinagar,Jammu and Kashmir,848797,"27.41375252260209,76.01963323632395",True,Other,2024-12-25 10:03:42,2025-02-07 04:15:55
+148552,74188,48,36.0,Balay-Shah Towers,Opp. Om and Sons,Lajpat Nagar,Porbandar,Gujarat,845911,"24.069255738108637,94.34345373554292",True,Home,2023-05-09 15:08:41,
+159578,79705,45,36.0,Naidu and Sons Towers,"Opp. Rau, Vasa and Dayal",Connaught Place,Mysore,Karnataka,781088,"16.979184718857738,87.29355713371591",False,Other,2024-04-20 08:43:46,
+15582,7791,38,25.0,"Nayak, Chada and Shere Complex","Near Kibe, Joshi and Kamdar",Lajpat Nagar,Meerut,Uttar Pradesh,417419,"29.41820913987644,81.5199797857654",False,Other,2023-10-13 11:35:47,2024-08-10 01:12:59
+107141,53541,13,26.0,"Ben, Bose and Bobal Residency","Behind D’Alia, Bassi and Deshpande",Rajouri Garden,Surat,Gujarat,335772,"19.813043329284447,83.12475832778463",True,Work,2023-06-04 02:21:42,
+72382,36180,6,22.0,Doshi-Prasad Residency,"Near Reddy, Krishnan and Khanna",Greater Kailash,Surat,Gujarat,335772,"30.386192363005996,83.04191837231009",True,Work,2023-11-28 15:33:59,
+32418,16128,34,,"Gole, Dugal and Lanka Towers","Near Sunder, Nazareth and Shenoy",Janakpuri,Indore,Madhya Pradesh,466778,"9.853360573415353,82.17181276575596",True,Home,2024-08-05 03:43:24,
+71800,35890,34,23.0,Guha and Sons Residency,B/h. Naidu Inc,Karol Bagh,Mysore,Karnataka,781088,"9.76405562667506,96.73378069134367",True,Home,2023-11-05 07:48:06,
+147930,73868,46,,Wable-Master Towers,Near Manne-Ganesan,Saket,Hyderabad,Telangana,217473,"21.928163413559222,74.29470980636506",True,Other,2024-08-17 00:35:09,2024-10-22 09:14:03
+41421,20582,13,39.0,Shroff-Trivedi Heights,Opp. Krishna PLC,Dwarka,Hubli,Karnataka,594714,"15.004666923326084,92.03270764392221",False,Work,2024-08-04 22:52:29,
+198282,99006,31,38.0,"Pau, Dave and Kohli Heights",B/h. Nayak-Comar,Pitampura,Chandigarh,Punjab,549898,"23.486019219538548,79.42481943892125",False,Other,2024-07-25 06:59:01,2025-01-12 09:45:43
+1769,879,23,13.0,Comar Group Residency,Opp. Choudhry-Hayre,Karol Bagh,Dhanbad,Jharkhand,413445,"15.150616666380245,76.58264076515474",False,Home,2025-04-05 15:44:16,2025-04-11 09:22:06
+149267,74548,45,22.0,Murthy Group Towers,"Behind Ratta, Soni and Narayan",Janakpuri,Hubli,Karnataka,594714,"35.27149571875033,75.41564970884845",False,Home,2024-06-26 12:25:56,
+132408,66156,27,2.0,"Mohan, Kapoor and Choudhury Heights","B/h. Sundaram, Mohan and Bains",Greater Kailash,Kolkata,West Bengal,552417,"13.339239111045336,77.98062839895427",False,Work,2025-04-12 23:53:30,2025-04-30 19:09:57
+119352,59651,49,18.0,"Borde, Bhargava and Narain Heights","Near Grover, Khurana and Sinha",Vasant Kunj,Chennai,Tamil Nadu,681858,"37.244627474033045,89.72102129354695",True,Work,2024-12-01 04:34:27,2025-01-15 10:51:20
+101883,50919,46,2.0,"Sarma, Randhawa and Sahni Apartments","B/h. Krishnamurthy, Babu and Bala",Rohini,Faridabad,Haryana,506922,"28.63451686937467,86.22190042432605",False,Home,2024-08-26 04:16:53,2025-02-18 20:37:31
+29056,14444,38,15.0,Mangat Inc Residency,Beside Balay and Sons,Connaught Place,Hubli,Karnataka,594714,"21.532396216314936,91.39694772400223",False,Work,2025-04-01 02:52:00,
+92970,46494,10,4.0,Kota-Subramanian Residency,"B/h. Mallick, Chand and Munshi",Pitampura,Ahmedabad,Gujarat,639903,"33.4897282402361,92.48830361167202",True,Work,2025-04-15 08:36:27,2025-04-15 13:43:28
+1894,942,27,,Chad Inc Heights,B/h. Kala LLC,Mayur Vihar,Hubli,Karnataka,594714,"33.64657763822664,93.2622192137593",False,Other,2023-12-23 10:46:11,
+71558,35766,30,38.0,Viswanathan Group Residency,B/h. Lall LLC,Saket,Agra,Uttar Pradesh,875179,"37.3123785006774,69.43305603807525",True,Other,2022-06-02 15:19:51,2024-11-08 19:06:51
+8541,4277,29,14.0,"Chand, Sangha and Andra Apartments","Beside Rege, Deshpande and Om",Rajouri Garden,Guwahati,Assam,116814,"24.00313233663387,92.14590480089777",False,Work,2025-02-05 19:23:49,2025-03-02 19:44:48
+509,252,21,,Goyal Inc Complex,Behind Barad Group,South Extension,Srinagar,Jammu and Kashmir,848797,"17.29513796591628,74.37641746072289",False,Work,2024-10-10 03:06:07,2025-03-09 06:15:59
+66908,33427,17,,Bora-Dey Residency,"Beside Nigam, Raj and Shukla",Malviya Nagar,Vadodara,Gujarat,998662,"15.514580361006917,89.80719608788074",False,Home,2025-04-19 22:17:05,2025-04-27 19:37:08
+169750,84775,35,6.0,Padmanabhan Inc Residency,Opp. Magar LLC,Rajouri Garden,Mysore,Karnataka,781088,"27.785794481942588,82.77696203016917",True,Other,2021-08-31 12:27:09,2025-01-03 23:37:41
+151768,75793,3,10.0,Ahuja and Sons Apartments,"Oak, Lalla and Sethi",Connaught Place,Meerut,Uttar Pradesh,417419,"34.58287472706236,73.20286743758234",False,Home,2025-03-10 21:49:49,
+129524,64689,9,,Amble Inc Heights,Opp. Sunder-Bajaj,South Extension,Surat,Gujarat,335772,"35.89893450379715,87.07673498255551",False,Other,2025-03-22 17:28:23,2025-04-20 06:06:07
+168316,84059,16,,Puri PLC Heights,Near Morar-Om,Pitampura,Rajkot,Gujarat,758564,"37.49770644153712,86.95496003554382",False,Other,2023-10-04 10:31:54,2024-06-27 13:24:21
+194049,96914,47,25.0,"Bhattacharyya, Keer and Sant Towers",Near Pandey-Dhar,Saket,Guwahati,Assam,116814,"36.44935410972292,89.30798774918145",True,Work,2024-02-17 19:43:12,
+61070,30479,24,,Uppal PLC Apartments,Near Sheth Inc,Hauz Khas,Jaipur,Rajasthan,698508,"22.835978730515233,87.19690317166159",False,Work,2024-11-30 13:13:28,
+87207,43620,6,,Doshi-Trivedi Heights,B/h. Sankaran PLC,Rajouri Garden,Chennai,Tamil Nadu,681858,"16.894492603271722,77.2976045267598",False,Work,2024-08-25 16:15:14,2025-02-28 03:01:43
+117309,58630,19,12.0,Jani Group Apartments,Near Radhakrishnan Ltd,Mayur Vihar,Kolkata,West Bengal,552417,"30.120579946866123,93.72649375199673",False,Work,2024-05-29 13:16:16,2025-02-05 16:51:03
+2296,1146,31,20.0,Uppal and Sons Residency,Opp. Badami-Chawla,Karol Bagh,Varanasi,Uttar Pradesh,489201,"30.129359762992316,82.94913507795245",False,Home,2024-04-01 16:34:46,2024-10-26 02:28:53
+44382,22089,40,36.0,Dave PLC Towers,"Beside Sehgal, Kant and Bansal",Janakpuri,Nagpur,Maharashtra,462944,"19.578261952803054,72.50574227318006",True,Home,2022-08-17 22:14:00,2024-11-10 18:50:03
+101240,50598,17,28.0,Walia-Chadha Residency,Behind Misra-Bala,Connaught Place,Pune,Maharashtra,208246,"29.971714960718373,77.48755765719842",False,Home,2022-03-22 22:29:54,2024-06-23 05:36:19
+31036,15447,20,10.0,Ranganathan Ltd Apartments,Mohan-Morar,Saket,Bangalore,Karnataka,344053,"26.99429766492372,88.76194781780161",True,Other,2023-05-23 11:32:53,
+186716,93275,2,,Badami PLC Heights,Beside Dora PLC,Hauz Khas,Kota,Rajasthan,775822,"12.41443397289774,75.42569737357165",False,Work,2021-11-22 16:09:39,
+26618,13241,16,2.0,Shan and Sons Heights,"Nair, Pradhan and Narayan",Lajpat Nagar,Gandhinagar,Gujarat,329684,"16.619248496404502,71.91801923290674",False,Work,2021-01-17 22:37:36,
+2957,1491,24,,"Karan, Dugar and Golla Apartments",Beside Sant-Bhattacharyya,South Extension,Himatnagar,Gujarat,789514,"26.553717905896605,92.88783222251712",False,Home,2025-01-08 10:57:27,2025-02-22 02:54:45
+173407,86635,16,36.0,Suresh and Sons Apartments,Beside Kadakia LLC,Connaught Place,Ahmedabad,Gujarat,639903,"14.163280024319892,90.11206061352337",True,Other,2023-10-07 07:57:43,2024-08-15 20:13:03
+69579,34781,44,,"Bandi, Sarna and Chana Apartments","Opp. Deol, Bajaj and Pal",South Extension,Porbandar,Gujarat,845911,"22.379248813659586,84.48597471786908",True,Work,2024-07-31 05:42:50,2025-02-11 19:01:48
+35759,17785,29,23.0,Shere-Saraf Complex,Beside Nayak and Sons,Connaught Place,Kochi,Kerala,277414,"20.86970232831284,89.46286758075021",False,Home,2025-04-29 12:57:52,
+133543,66731,16,38.0,Murty Inc Towers,Behind Sankaran Ltd,Janakpuri,Rajkot,Gujarat,758564,"17.951106558898665,94.76809979044654",False,Other,2024-04-12 10:40:26,2024-10-26 10:16:46
+158948,79393,22,,Bajwa-Om Apartments,"Near Basu, Sen and Sura",Saket,Mysore,Karnataka,781088,"26.196196908609494,69.63149205304047",False,Home,2024-02-18 12:08:59,2024-03-11 02:27:38
+150292,75053,12,26.0,Ravel Ltd Residency,"B/h. Anne, Jaggi and Mukherjee",Rohini,Bhopal,Madhya Pradesh,727889,"34.721008380400804,71.16997927677029",True,Home,2024-07-04 17:12:09,2024-11-16 08:25:49
+188928,94392,22,32.0,"Kannan, Warrior and Dhingra Residency",Opp. Prabhu-Vohra,Pitampura,Bangalore,Karnataka,344053,"22.666866467548434,94.4854289859314",True,Home,2022-11-19 02:56:42,
+21894,10925,20,21.0,Palan-Kamdar Complex,Bobal Ltd,Malviya Nagar,Jaipur,Rajasthan,698508,"25.938662754437793,71.92276823607675",True,Work,2023-06-26 22:06:31,
+114683,57318,19,17.0,"Mander, Kar and Sastry Apartments",Opp. Dhar-Bhatia,Connaught Place,Kolkata,West Bengal,552417,"13.846206578891636,96.07704100237248",True,Home,2020-08-06 08:21:25,2022-12-29 20:07:10
+122764,61346,4,28.0,"Chauhan, Bhatt and Bhakta Heights",Beside Konda Group,Rajouri Garden,Srinagar,Jammu and Kashmir,848797,"20.765943697404197,92.70198833648145",False,Home,2022-10-17 23:45:30,2024-01-24 14:53:33
+7281,3631,21,19.0,"Raman, Rout and Taneja Residency",Beside Dhaliwal-Nayak,South Extension,Srinagar,Jammu and Kashmir,848797,"8.643624639931538,97.14176913851247",True,Work,2022-09-23 17:29:23,2023-12-22 10:38:48
+865,431,47,11.0,Palan-Dass Towers,Opp. Vora-Raval,Malviya Nagar,Amritsar,Punjab,354098,"11.807205430749406,92.56737663163135",True,Other,2022-03-05 04:36:06,2022-09-26 02:27:32
+44341,22065,10,1.0,Muni-Pradhan Complex,Beside Raman-Amble,Pitampura,Lucknow,Uttar Pradesh,791453,"20.97431856597467,68.81558192220245",True,Other,2024-09-15 11:46:15,2024-12-14 03:02:05
+4250,2138,35,,"Bal, Dave and Amble Residency",Opp. Divan Ltd,South Extension,Rajkot,Gujarat,758564,"25.571220406303397,93.95509486599052",False,Other,2025-01-02 22:41:01,
+83187,41638,28,21.0,Bose Group Complex,Near Bassi and Sons,Rohini,Amritsar,Punjab,354098,"21.768835250381677,91.71161519120153",True,Home,2024-09-23 21:20:19,2024-11-07 17:17:22
+5335,2678,28,27.0,Devan Group Heights,"Near Sachar, Chacko and Mangat",Mayur Vihar,Chennai,Tamil Nadu,681858,"23.755666734167946,73.61863808022316",False,Home,2024-11-25 20:13:09,
+180872,90361,21,,Saraf-Pathak Complex,Opp. Nazareth-Rana,South Extension,Varanasi,Uttar Pradesh,489201,"8.456654789270308,68.8956681774678",False,Work,2024-05-15 02:14:19,2024-08-18 19:31:11
+29531,14688,26,37.0,"Gala, Sandal and Dhaliwal Heights",Near Goel-Mutti,Malviya Nagar,Meerut,Uttar Pradesh,417419,"28.691250394807113,86.13915271536413",False,Home,2023-11-01 09:59:07,2025-01-12 01:19:22
+192479,96152,34,,"D’Alia, Kulkarni and Keer Residency",Near Jhaveri-Chandran,Rohini,Surat,Gujarat,335772,"35.744301095810414,84.93981674816531",False,Work,2025-03-24 07:01:30,2025-04-23 03:42:56
+42355,21060,36,,Varghese-Choudhury Heights,B/h. Bhavsar Inc,Saket,Kolkata,West Bengal,552417,"17.872477356165703,86.59832523405801",False,Work,2022-10-21 15:55:48,2025-04-13 22:38:24
+144761,72307,9,39.0,"Vora, Viswanathan and Mohanty Heights",Opp. Prabhakar LLC,Hauz Khas,Dhanbad,Jharkhand,413445,"33.359691021723904,78.98187089849321",False,Work,2024-12-12 20:07:17,
+86699,43375,49,26.0,Gopal-Kapoor Apartments,"Opp. Malhotra, Saraf and Bansal",Pitampura,Vijayawada,Andhra Pradesh,874544,"20.869784171214775,94.42929708652343",False,Home,2023-01-18 08:32:27,2024-09-02 22:20:41
+4127,2073,14,,Naidu-Raval Towers,Opp. Chandra Inc,Karol Bagh,Chandigarh,Punjab,549898,"34.65315360539471,87.02426862394316",False,Work,2025-03-27 00:39:11,2025-04-04 17:44:28
+179868,89869,3,,"Sani, Dutta and Minhas Complex",Peri Group,Lajpat Nagar,Kolkata,West Bengal,552417,"10.731972453699244,91.35508738700098",False,Other,2024-05-09 21:25:45,2024-05-24 06:18:20
+192988,96406,8,,Sinha Inc Towers,"Opp. Kapur, Butala and Tak",Janakpuri,Hyderabad,Telangana,217473,"32.09584393187246,80.89179064948073",False,Other,2022-06-12 21:58:47,
+161504,80679,41,,Brar-Brahmbhatt Heights,Behind Bajaj Inc,Karol Bagh,Vadodara,Gujarat,998662,"13.472020879677162,80.10764964875592",True,Home,2023-04-03 17:37:22,2025-04-23 02:23:09
+84860,42466,28,20.0,Kara LLC Towers,Behind Prabhu-Uppal,Vasant Kunj,Lucknow,Uttar Pradesh,791453,"36.023796518619584,78.17493017391737",False,Home,2024-05-16 21:58:25,2024-06-07 06:19:16
+111748,55865,32,40.0,Jhaveri Inc Heights,"Opp. Kumer, Bhattacharyya and Bail",Lajpat Nagar,Agra,Uttar Pradesh,875179,"16.434767025294484,77.2657505131489",False,Home,2024-12-30 13:50:54,2025-04-08 19:04:03
+162629,81238,42,9.0,Varughese-Dayal Heights,B/h. Pau-Loke,Rajouri Garden,Nagpur,Maharashtra,462944,"36.09667816774567,69.11532915478864",False,Other,2025-03-26 16:29:51,
+78811,39437,17,5.0,Batra-Sundaram Heights,Beside Doctor-Rattan,Rohini,Meerut,Uttar Pradesh,417419,"27.287593228597693,78.02992011108124",False,Other,2024-02-18 18:41:03,2024-10-14 13:47:50
+113850,56901,9,13.0,Dora Ltd Towers,Opp. Kapadia-Verma,Rajouri Garden,Vadodara,Gujarat,998662,"23.758327082500827,87.88093440717475",False,Work,2025-02-11 18:58:22,
+83354,41718,44,28.0,"Solanki, Shetty and Bir Residency",Behind Sachar Group,Dwarka,Mysore,Karnataka,781088,"25.520405308588394,84.92325227017425",False,Other,2025-02-12 10:52:55,2025-03-04 13:06:59
+5166,2601,21,,Toor-Bumb Heights,B/h. Pathak and Sons,Lajpat Nagar,Nadiad,Gujarat,280555,"18.4193826390746,82.99325940481624",True,Other,2025-01-19 16:44:21,2025-03-24 03:59:37
+187175,93498,29,,Chadha Inc Heights,"B/h. Sagar, Patla and Dalal",Hauz Khas,Hubli,Karnataka,594714,"12.239642653063106,74.39431670907301",False,Home,2023-03-09 15:58:30,2024-02-21 05:23:06
+169808,84804,12,31.0,Chahal-Bahri Heights,Near Prasad LLC,Vasant Kunj,Hyderabad,Telangana,217473,"31.18677669460103,80.43195347718189",True,Home,2023-06-02 17:12:30,2025-03-18 15:44:54
+132179,66048,28,27.0,"Yadav, Hayre and Deshpande Residency","Behind Jani, Jha and Dhingra",Mayur Vihar,Nadiad,Gujarat,280555,"19.828636295025163,73.55048336592954",False,Home,2024-02-16 09:13:41,2024-07-24 18:41:04
+154908,77374,4,30.0,Majumdar-Kumar Towers,Near Apte and Sons,Pitampura,Meerut,Uttar Pradesh,417419,"32.618429461065254,74.0629744289563",True,Work,2024-12-23 01:23:46,2025-02-09 16:53:08
+160177,80007,5,2.0,Ganguly LLC Residency,"Opp. Sanghvi, Savant and Bumb",Vasant Kunj,Meerut,Uttar Pradesh,417419,"29.88687701301228,85.5872677302117",False,Home,2025-02-02 03:23:25,
+21345,10641,47,27.0,Seth Inc Apartments,B/h. Sami and Sons,Rajouri Garden,Hyderabad,Telangana,217473,"20.087045695769536,77.36721399429497",False,Work,2025-04-23 04:00:24,2025-04-26 17:10:40
+183716,91795,30,4.0,"Kalita, Sagar and Deol Residency",Opp. Mohan Inc,Saket,Himatnagar,Gujarat,789514,"33.89483898631649,79.65914090038085",False,Home,2022-01-20 10:28:31,2025-03-26 13:52:33
+86626,43339,37,32.0,Dhaliwal-Badal Complex,"Opp. Tripathi, Narain and Chowdhury",Pitampura,Anand,Gujarat,776563,"10.713250750206825,81.7889980282488",True,Other,2024-01-11 22:41:03,2024-05-31 06:53:40
+60104,29999,37,27.0,Sawhney Ltd Heights,Andra PLC,Malviya Nagar,Vijayawada,Andhra Pradesh,874544,"27.756343482552225,74.29054008287848",True,Home,2024-02-10 05:31:05,2024-06-14 08:10:16
+186841,93333,9,3.0,Acharya-Nagarajan Apartments,Beside Aggarwal-Joshi,Vasant Kunj,Lucknow,Uttar Pradesh,791453,"23.027843628997516,76.23677620571226",False,Other,2024-05-24 07:15:50,
+54475,27201,4,30.0,Barman-Bhatti Towers,Badami Group,South Extension,Srinagar,Jammu and Kashmir,848797,"36.8163773933312,80.73203384946768",False,Other,2024-12-31 16:36:47,
+53256,26595,46,,Tailor LLC Apartments,Wali Group,Lajpat Nagar,Pune,Maharashtra,208246,"16.73943623450223,79.92412709421602",False,Work,2023-08-31 14:41:35,
+32679,16260,14,21.0,"Ramachandran, Balasubramanian and Sagar Towers",Bhalla-Iyengar,Mayur Vihar,Jaipur,Rajasthan,698508,"11.935353431913688,92.98093219692882",False,Work,2021-11-09 00:14:43,
+192174,96004,32,21.0,Nath-Sachdev Residency,Near Pillai LLC,Pitampura,Meerut,Uttar Pradesh,417419,"25.217949477262856,72.88412256310633",False,Other,2025-01-18 03:23:24,2025-04-20 21:54:41
+125241,62562,5,,Walia PLC Heights,B/h. Raghavan-Natarajan,Dwarka,Indore,Madhya Pradesh,466778,"37.38208252508319,85.85258696565666",True,Work,2021-07-05 23:28:21,
+171340,85592,20,24.0,"Merchant, Tiwari and Prabhu Complex",B/h. Arya Inc,Connaught Place,Agra,Uttar Pradesh,875179,"37.43459162369787,90.44894337003953",False,Home,2021-08-31 11:12:23,
+84284,42178,5,39.0,Chand and Sons Heights,Sharaf-Ramanathan,Hauz Khas,Agra,Uttar Pradesh,875179,"31.017255604224893,75.13054185927999",False,Other,2024-12-21 16:00:59,2025-02-06 01:24:32
+156398,78111,30,,Saran Group Residency,Borde-Pillay,Karol Bagh,Hyderabad,Telangana,217473,"25.29959849130335,95.71595733074514",False,Work,2024-05-13 15:10:13,2025-02-17 23:37:23
+82344,41211,26,,"Bera, Thakur and Sheth Apartments","B/h. Pai, Mangat and D’Alia",Vasant Kunj,Meerut,Uttar Pradesh,417419,"23.481463947917383,95.36121619722101",False,Home,2023-12-09 03:29:51,2024-11-27 13:19:01
+101307,50630,35,15.0,"Gade, Dave and Atwal Towers",Behind Choudhury Ltd,Pitampura,Kota,Rajasthan,775822,"24.239514432581643,87.78148288645744",False,Other,2022-01-19 04:32:42,2023-07-10 21:20:44
+174858,87344,20,19.0,"Balakrishnan, Dalal and Chad Complex","Opp. Dhaliwal, Devan and Parikh",Vasant Kunj,Srinagar,Jammu and Kashmir,848797,"13.599308466608624,80.22908174899064",True,Work,2024-12-28 14:24:53,2025-02-27 22:36:55
+61658,30779,25,34.0,Rao PLC Complex,"B/h. Sen, Borra and Kumer",Greater Kailash,Chandigarh,Punjab,549898,"18.74474432515875,73.8775646914777",True,Home,2024-08-08 00:17:06,
+175219,87536,19,5.0,"Dyal, Raja and Ghose Heights",Beside Batra LLC,Hauz Khas,Surat,Gujarat,335772,"14.326641819063656,76.42584170151183",False,Home,2024-10-05 06:40:10,2025-01-11 00:43:34
+1712,850,27,,Sha Inc Apartments,"Beside Atwal, Jhaveri and Pandit",Vasant Kunj,Agra,Uttar Pradesh,875179,"23.06831427681928,96.75278166823617",False,Home,2024-01-14 09:06:31,2024-10-05 09:41:10
+190986,95416,12,15.0,"Shetty, Barad and Keer Residency","Opp. Zacharia, More and De",Saket,Kolkata,West Bengal,552417,"9.521524784133886,88.48052745483723",True,Home,2022-10-02 03:01:05,2025-01-22 05:30:23
+139934,69873,27,1.0,"Pillai, Borde and Morar Complex",Behind Rao Ltd,Pitampura,Himatnagar,Gujarat,789514,"15.620025919217191,82.46012759920131",False,Home,2025-02-16 21:27:00,2025-02-24 10:33:03
+72127,36051,16,30.0,Hayer LLC Complex,Opp. Bhavsar Inc,Malviya Nagar,Srinagar,Jammu and Kashmir,848797,"17.129540925793705,93.5144142558033",True,Work,2021-10-16 11:38:23,2022-08-01 21:34:23
+151800,75810,38,11.0,Karan-Walia Heights,Grewal-Chowdhury,Connaught Place,Vadodara,Gujarat,998662,"26.647563999507746,89.23333599365618",False,Home,2024-11-28 22:17:12,
+84341,42208,33,,"Bhakta, Sridhar and Bhargava Complex","Near Kapur, Barman and Lad",Lajpat Nagar,Hyderabad,Telangana,217473,"36.13867841579167,92.57288007067633",True,Work,2023-06-18 11:07:05,2024-10-19 19:42:03
+140422,70115,17,,"Manda, Rastogi and Arya Heights",Rai LLC,Connaught Place,Bangalore,Karnataka,344053,"35.69737777188651,86.99873437533725",False,Home,2024-02-10 18:45:35,
+150722,75270,47,39.0,Jain-Varkey Residency,B/h. Barad and Sons,Saket,Kota,Rajasthan,775822,"25.781002791078805,70.57989690806833",True,Other,2023-07-09 23:00:24,2024-07-14 03:18:54
+102562,51256,33,9.0,Parikh-Dora Residency,Beside Sura-Sathe,South Extension,Nadiad,Gujarat,280555,"34.167550681065755,95.28497583392148",False,Home,2023-11-05 12:10:18,2024-04-28 01:23:03
+76763,38391,30,,Malhotra Group Complex,"Rajagopal, Doctor and Raju",South Extension,Srinagar,Jammu and Kashmir,848797,"19.687407166034262,88.11486315675728",True,Other,2023-04-19 18:47:05,2023-08-25 13:30:11
+171115,85480,6,32.0,Mody LLC Complex,"Nanda, Bhandari and Sharma",Dwarka,Nashik,Maharashtra,240889,"14.050115213515134,73.58036415639889",True,Home,2024-09-16 08:51:48,
+22617,11276,20,18.0,Roy-Menon Residency,"Menon, Bassi and Sachar",Rajouri Garden,Bhopal,Madhya Pradesh,727889,"23.766780282939422,77.62924706810936",False,Work,2023-08-27 07:40:24,2023-11-24 11:59:18
+13514,6751,42,37.0,Madan Ltd Residency,Opp. Grewal-Merchant,Mayur Vihar,Jaipur,Rajasthan,698508,"31.750831169548967,77.66972992198937",False,Work,2025-04-30 09:10:11,2025-04-30 22:19:42
+122615,61277,7,14.0,Prabhakar Inc Residency,Barad-Tata,Rohini,Chennai,Tamil Nadu,681858,"29.459409723774144,94.0648817056136",False,Work,2024-05-07 23:05:48,2024-05-26 15:33:58
+56565,28263,32,,Pall LLC Towers,Near Keer Group,Mayur Vihar,Ahmedabad,Gujarat,639903,"15.350718545397195,79.59162177203706",True,Other,2023-08-15 22:31:38,
+199315,99530,21,,Sahni-Kala Heights,Atwal LLC,Greater Kailash,Faridabad,Haryana,506922,"26.722952312530154,69.66586769677384",False,Work,2024-01-07 21:24:46,
+121071,60508,5,14.0,Garg and Sons Apartments,"Near Pathak, Pall and Jha",Dwarka,Nashik,Maharashtra,240889,"30.231292661518275,95.19297016463754",False,Home,2024-10-18 21:25:31,2024-12-24 18:38:24
+76846,38434,13,,Rege-Gala Towers,Opp. Dara-Modi,Rajouri Garden,Bhopal,Madhya Pradesh,727889,"34.73668866029704,86.22718943871104",True,Other,2024-04-30 03:46:26,2024-06-08 15:03:37
+181524,90693,16,11.0,Sani-Kant Apartments,Opp. Bajaj Ltd,Rajouri Garden,Guwahati,Assam,116814,"14.36137434556569,72.99029442608233",False,Other,2024-02-07 02:09:53,
+160517,80181,18,38.0,Narayan Ltd Apartments,"Dara, Mukherjee and Sama",Hauz Khas,Mumbai,Maharashtra,887572,"22.573010203732537,77.63149002547675",False,Work,2022-12-10 21:09:47,
+162831,81336,7,3.0,Chakrabarti Ltd Residency,Near Doctor Inc,Karol Bagh,Kolkata,West Bengal,552417,"13.513901478731023,95.89734340211874",False,Work,2023-12-18 19:11:15,
+15073,7527,6,,Chakraborty PLC Residency,B/h. Basak-Saxena,Greater Kailash,Hubli,Karnataka,594714,"9.332281126906402,72.79859974084721",False,Work,2023-04-03 12:36:28,2024-08-23 02:49:26
+123703,61799,24,35.0,"Sachdeva, Bhatt and Bath Towers",B/h. Kuruvilla Ltd,South Extension,Indore,Madhya Pradesh,466778,"19.742808660520513,75.39561704916122",True,Home,2024-01-17 10:37:57,2024-11-28 10:41:23
+79793,39929,38,,Chada-Mody Residency,B/h. Dugal PLC,Lajpat Nagar,Porbandar,Gujarat,845911,"18.889248865306122,86.92445039151553",True,Other,2023-05-08 09:05:57,2024-06-13 23:28:01
+164662,82239,40,,"Jani, Gopal and Char Towers",Muni-Grover,Karol Bagh,Agra,Uttar Pradesh,875179,"29.264985325189592,81.40560879683093",True,Home,2024-12-25 02:37:01,
+63415,31666,31,,Lad Group Complex,Beside Kala LLC,Saket,Meerut,Uttar Pradesh,417419,"15.939720969805393,69.31190443252875",False,Home,2024-08-11 18:55:01,2025-03-07 09:28:14
+108452,54202,22,,"Sandhu, Buch and Ben Towers",Behind Devi LLC,Dwarka,Chennai,Tamil Nadu,681858,"36.01110663557439,85.22457171051366",False,Home,2023-10-28 21:33:38,2024-01-19 07:19:50
+139919,69867,43,,"Palan, Rajan and Sharma Complex",B/h. Das PLC,Malviya Nagar,Lucknow,Uttar Pradesh,791453,"20.95623925882672,79.828563866316",False,Work,2022-11-04 09:30:34,
+145487,72660,11,8.0,Tripathi-Ahluwalia Apartments,Behind Kunda-Khanna,Mayur Vihar,Delhi,Delhi,780487,"22.37497759190207,81.04782905384965",True,Home,2024-09-11 07:54:45,2024-09-21 19:26:29
+28240,14048,9,20.0,Dugar Group Heights,Beside Varma-Bajwa,Malviya Nagar,Varanasi,Uttar Pradesh,489201,"28.2914630613545,75.58621639791649",True,Home,2023-01-28 12:43:52,2023-03-04 22:14:38
+121898,60911,40,31.0,Bandi-Raghavan Complex,"Beside Salvi, Shah and Sarma",Karol Bagh,Anand,Gujarat,776563,"12.57692690217054,93.22963791274624",False,Work,2024-12-29 01:57:43,
+6924,3458,10,22.0,Bala Group Apartments,B/h. Soman-Kant,Mayur Vihar,Kota,Rajasthan,775822,"28.06890836940608,91.87245695344308",True,Home,2025-04-24 04:26:14,2025-04-24 19:02:05
+169334,84566,4,,Devan-Sha Complex,"Behind Mand, Upadhyay and Rege",Janakpuri,Surat,Gujarat,335772,"10.06065840834643,79.26340797477962",True,Other,2024-11-30 23:02:58,2025-04-10 03:41:32
+127179,63517,19,40.0,Korpal Ltd Heights,"Behind Das, Lal and Som",Janakpuri,Vadodara,Gujarat,998662,"37.05978041872321,74.31148200456576",False,Work,2022-05-03 02:55:42,2024-12-23 14:51:00
+127303,63579,17,20.0,"Wali, Chanda and Ganguly Towers",Beside Dugal PLC,Janakpuri,Indore,Madhya Pradesh,466778,"23.541383344045716,79.46416807487131",False,Work,2022-09-19 11:53:10,
+164061,81942,24,2.0,"Dixit, Kibe and Reddy Complex",Wable PLC,Rohini,Thane,Maharashtra,387370,"36.99523443703103,78.98765283858991",False,Other,2024-11-20 12:10:52,2024-12-11 08:12:07
+66004,32960,14,7.0,Loke Group Apartments,"Opp. Dar, Sandal and Ram",Karol Bagh,Delhi,Delhi,780487,"27.904365124380057,71.53982837854723",True,Other,2022-03-14 14:29:25,2024-01-02 11:26:21
+120954,60451,8,2.0,"Sachdev, Mann and Bera Complex",Bandi-Pai,Dwarka,Chandigarh,Punjab,549898,"31.619139976643062,76.85500281602965",True,Work,2024-09-23 14:51:34,2025-02-19 15:26:38
+186294,93068,18,22.0,"Deshmukh, Suri and Mukhopadhyay Complex",Behind Arya Group,Pitampura,Dhanbad,Jharkhand,413445,"36.19122219593587,89.3778701357092",True,Other,2025-02-26 06:34:03,2025-03-27 11:59:08
+93808,46917,34,6.0,Pandey LLC Complex,Rajan and Sons,Hauz Khas,Nadiad,Gujarat,280555,"15.092954587069421,93.32696461209699",True,Home,2022-04-14 12:48:19,
+9181,4597,22,18.0,Mukherjee-Das Heights,"Opp. Dalal, Shah and Hegde",Rohini,Mysore,Karnataka,781088,"16.481890919967398,92.22526770145599",False,Work,2025-03-05 01:36:47,2025-03-23 21:50:47
+125980,62921,40,,Saraf-Badami Heights,Near Bail-Wali,Mayur Vihar,Delhi,Delhi,780487,"20.063420569327832,81.08921857706352",False,Other,2025-01-23 05:24:03,2025-04-14 13:33:54
+191389,95618,43,,Sule Group Complex,Behind Vaidya-Pandit,Dwarka,Rajkot,Gujarat,758564,"30.843639860565794,75.20664888795493",False,Home,2022-08-02 21:44:26,2025-01-17 00:39:49
+109106,54521,37,31.0,Mukhopadhyay PLC Heights,Beside Bala and Sons,Hauz Khas,Ahmedabad,Gujarat,639903,"21.327125453892805,89.42141558232326",False,Home,2024-02-23 02:09:22,
+107701,53816,40,,Goda-Comar Towers,Munshi-Buch,Karol Bagh,Amritsar,Punjab,354098,"36.58281578369175,81.12957139064316",False,Home,2024-03-07 19:50:25,2024-10-11 00:15:15
+524,262,33,,"Karan, Tara and Luthra Heights",Near Mohan-Kamdar,Connaught Place,Pune,Maharashtra,208246,"33.389947460169964,70.67817859342021",True,Home,2023-10-19 04:44:28,2023-12-01 02:46:01
+8715,4359,11,34.0,"Gour, Kulkarni and Madan Residency",Near Balakrishnan PLC,Lajpat Nagar,Lucknow,Uttar Pradesh,791453,"24.646183709832044,88.52869650134008",True,Other,2023-10-26 12:13:46,2023-11-30 00:33:05
+30678,15268,7,26.0,Gulati and Sons Heights,Behind Kade Inc,Dwarka,Pune,Maharashtra,208246,"24.29762109811589,86.04601119674754",False,Other,2023-07-03 18:29:16,2024-07-22 10:50:30
+173893,86869,47,5.0,Kant PLC Heights,"Beside Dalal, Lala and Mitra",Malviya Nagar,Hubli,Karnataka,594714,"12.90510601926409,87.56672101745986",True,Other,2023-05-06 05:59:09,2025-03-28 17:03:32
+128066,63962,33,37.0,Shroff LLC Towers,Opp. Uppal-Borde,Janakpuri,Lucknow,Uttar Pradesh,791453,"9.644799169790895,70.65646442173937",False,Work,2025-04-21 06:08:37,2025-04-26 14:00:55
+20900,10422,38,27.0,"Mann, Hans and Bail Residency",Behind Deol-Dubey,Karol Bagh,Porbandar,Gujarat,845911,"14.98834507682924,90.11787319127028",True,Home,2024-05-31 22:58:42,2025-02-25 13:25:31
+101985,50973,36,1.0,Balasubramanian Group Complex,Behind Chana-Shetty,Rajouri Garden,Ahmedabad,Gujarat,639903,"25.939175446771664,96.12780656433131",True,Home,2022-06-25 03:26:51,2023-01-28 11:07:22
+121173,60563,4,,"Shah, Andra and Kant Heights",Beside Jani Ltd,Karol Bagh,Bhopal,Madhya Pradesh,727889,"14.7544770527325,81.31644179229475",True,Work,2022-10-23 01:28:59,2023-10-21 22:28:42
+135522,67694,14,23.0,Rama Group Complex,Beside Sridhar Inc,Vasant Kunj,Bhopal,Madhya Pradesh,727889,"15.662207429604154,78.8957810868077",True,Work,2025-01-31 19:41:27,2025-04-09 18:34:47
+154061,76959,42,29.0,"Subramanian, Lall and Chand Apartments",Near Minhas and Sons,Saket,Rajkot,Gujarat,758564,"14.447393340910534,95.46015227332741",True,Other,2024-11-20 14:20:54,
+121549,60739,9,2.0,"Dada, Bir and Bhatti Towers",Near Choudhary Inc,Pitampura,Meerut,Uttar Pradesh,417419,"27.687438182659285,96.97313704916793",True,Other,2022-02-08 12:55:38,2022-05-25 19:47:59
+151590,75702,6,,"Banik, Murty and Bora Towers",Beside Balakrishnan Group,South Extension,Ahmedabad,Gujarat,639903,"18.973815513274122,83.35562644111513",True,Home,2022-08-13 21:18:05,
+116930,58435,14,26.0,Mandal Group Heights,"Beside Dara, Pillai and Devi",Karol Bagh,Kolkata,West Bengal,552417,"10.40836499422895,70.2300395976895",False,Home,2023-02-22 23:49:42,2023-10-29 13:05:34
+87595,43806,9,18.0,Pathak-Thaman Towers,"Kari, Bhardwaj and Shetty",Karol Bagh,Himatnagar,Gujarat,789514,"11.870161811843827,69.9033449774014",True,Home,2022-02-15 19:24:07,2024-06-29 03:20:27
+198550,99140,28,40.0,Chowdhury-Chawla Residency,Behind Verma Inc,Connaught Place,Guwahati,Assam,116814,"18.113029074377714,69.14764028741327",False,Home,2022-12-11 17:45:51,2023-04-24 01:38:18
+106979,53460,22,15.0,Prabhakar PLC Complex,"Kannan, Kohli and Dhaliwal",Vasant Kunj,Agra,Uttar Pradesh,875179,"31.71925957438517,93.08267434178573",False,Home,2024-01-13 01:51:39,2025-02-11 10:37:18
+173418,86640,19,36.0,Pandey-Grover Towers,"Behind Gupta, Batra and Shere",Rohini,Agra,Uttar Pradesh,875179,"11.387717513814897,73.82927433295477",True,Home,2022-05-26 09:14:44,2024-06-30 09:19:19
+56577,28269,1,2.0,"Sahni, Morar and Sood Apartments","Opp. Dada, Chokshi and Bajaj",Greater Kailash,Nagpur,Maharashtra,462944,"22.013652332436507,71.65976322022999",True,Work,2023-11-02 12:53:10,2024-01-01 09:22:22
+16160,8077,15,39.0,Pall-Mukherjee Towers,"Opp. Patil, Sandhu and Aggarwal",Mayur Vihar,Kochi,Kerala,277414,"10.200338140342254,75.40624169652659",False,Home,2024-12-24 16:57:09,2025-03-29 19:26:50
+79450,39754,37,,"Muni, Deshmukh and Datta Complex",Near Kar Inc,South Extension,Bhopal,Madhya Pradesh,727889,"21.276318183091234,91.97118650164339",False,Work,2024-07-15 23:40:02,2024-07-17 11:06:36
+99901,49940,33,,Tandon-Vyas Apartments,Behind Gandhi LLC,Malviya Nagar,Meerut,Uttar Pradesh,417419,"33.0097244395484,81.86603940976428",True,Other,2024-06-16 00:49:22,2025-04-21 12:30:04
+196337,98052,23,,"Ahuja, Sehgal and Kalla Apartments",Behind Balasubramanian-Lata,Lajpat Nagar,Anand,Gujarat,776563,"11.96821081808112,70.91935156126223",True,Work,2024-04-08 03:30:56,
+169923,84863,20,22.0,Sastry PLC Apartments,"Behind Bhakta, Kar and Kant",Malviya Nagar,Amritsar,Punjab,354098,"16.573297642957634,97.21949189098989",False,Other,2021-11-23 09:31:17,
+3101,1561,18,,Dugar-Sur Heights,"Behind Devan, Nayak and Samra",Vasant Kunj,Himatnagar,Gujarat,789514,"26.69865926255889,94.04618081107313",False,Home,2024-03-17 14:25:25,2024-05-21 16:54:39
+109575,54764,27,4.0,Dey-Hora Apartments,Beside Chander-Chawla,Vasant Kunj,Gandhinagar,Gujarat,329684,"35.538919693705616,85.00235630112725",False,Other,2025-04-24 11:23:21,
+73972,36986,13,,Raman-Mani Complex,"Behind Grewal, Mall and Sidhu",Pitampura,Nagpur,Maharashtra,462944,"30.391637491832554,73.71640667558094",False,Home,2024-11-09 23:51:54,
+151166,75490,27,,"Dani, Prashad and Suri Apartments","Behind Sem, Desai and Dhar",Janakpuri,Srinagar,Jammu and Kashmir,848797,"20.19261063524266,83.99852479110216",False,Work,2024-02-10 22:01:23,
+140447,70128,38,22.0,Sethi Group Apartments,"Sarraf, Goda and Varty",Rohini,Srinagar,Jammu and Kashmir,848797,"36.54774916580679,85.42034846202466",False,Other,2023-11-24 19:16:39,2025-04-01 01:56:22
+94538,47292,41,5.0,Ganesan and Sons Heights,Beside Bajaj Inc,South Extension,Vadodara,Gujarat,998662,"31.467328495212193,78.04398407644604",True,Other,2023-10-25 17:35:49,2024-08-30 04:46:44
+44431,22111,16,18.0,Lall-Parikh Heights,Opp. Sengupta-Saran,Connaught Place,Pune,Maharashtra,208246,"19.415978023772098,93.79094408497801",True,Other,2025-04-28 20:50:08,
+60739,30315,13,11.0,Mane-Sahota Heights,Kakar PLC,Greater Kailash,Kolkata,West Bengal,552417,"25.609048842889955,85.59122299883812",True,Work,2024-01-04 05:14:13,2024-08-15 04:04:46
+136361,68105,1,14.0,Thaker LLC Complex,"Bala, Dhar and Pingle",Rajouri Garden,Srinagar,Jammu and Kashmir,848797,"32.87673923193629,87.57035974403735",True,Work,2021-05-25 09:20:52,
+11045,5512,12,9.0,Kamdar-Kunda Residency,Grewal Ltd,Connaught Place,Bangalore,Karnataka,344053,"11.53975750230398,80.63910644835858",False,Home,2023-07-31 06:18:14,2024-09-11 12:17:27
+188047,93941,46,37.0,Agarwal-Rajagopal Towers,Behind Kibe-Ganesan,Greater Kailash,Surat,Gujarat,335772,"18.17316636451618,91.14785441162601",True,Work,2025-01-31 19:50:09,2025-04-25 11:54:44
+121351,60645,27,36.0,Kumer-Bakshi Residency,Beside Babu Ltd,Connaught Place,Hubli,Karnataka,594714,"8.489354930149721,86.31754000240264",False,Work,2025-04-14 00:58:14,2025-04-26 06:48:13
+140416,70113,49,26.0,Toor Group Residency,Behind Ramaswamy-Ratta,Connaught Place,Hubli,Karnataka,594714,"12.8305745316671,94.67690973772109",False,Home,2024-09-01 12:44:14,
+128659,64254,43,19.0,"Johal, Contractor and Nigam Heights",Near Pathak-Chakrabarti,Malviya Nagar,Nagpur,Maharashtra,462944,"27.542028916789555,89.8379397336292",False,Home,2023-10-23 20:33:26,2024-10-02 21:44:27
+58967,29448,4,2.0,"Dara, Nigam and Lala Apartments",Opp. Kanda-Tata,Hauz Khas,Ahmedabad,Gujarat,639903,"11.885559360007834,78.0055749123779",False,Other,2025-03-01 03:25:37,2025-04-07 08:27:18
+20188,10072,32,32.0,"Korpal, Mander and Iyengar Residency","Behind Purohit, Manda and Nadig",South Extension,Jaipur,Rajasthan,698508,"22.854606904421914,83.97551104142428",False,Home,2025-02-19 09:52:22,2025-03-02 22:11:36
+114766,57357,28,,Menon PLC Heights,Opp. Sant Group,Connaught Place,Porbandar,Gujarat,845911,"30.380175133885636,82.15168298171771",True,Work,2023-09-12 01:04:59,
+180210,90030,12,36.0,Sunder Ltd Residency,Behind Bansal-Agarwal,Malviya Nagar,Amritsar,Punjab,354098,"28.915399445819368,77.72961015724152",True,Other,2024-08-08 03:03:22,2024-08-30 08:13:54
+2532,1267,29,,"Kaur, Dewan and D’Alia Complex","Opp. Ravel, Dayal and Sundaram",Rohini,Delhi,Delhi,780487,"35.41746478216534,75.61112562922492",True,Work,2023-07-29 07:45:45,2023-12-12 11:28:47
+14380,7178,41,23.0,Wagle-Lal Residency,"Behind Barad, Sharma and Mall",Hauz Khas,Pune,Maharashtra,208246,"31.60795531102621,76.6094594807095",True,Other,2024-08-13 04:11:17,2024-12-15 09:30:27
+170360,85087,10,,"Trivedi, Dhingra and Sane Apartments","Near Sharma, Sabharwal and Sodhi",Rajouri Garden,Kolkata,West Bengal,552417,"25.826404192972554,82.34194142088545",True,Work,2023-03-16 13:08:55,2023-08-01 14:16:07
+161460,80658,34,,Dora Inc Heights,Opp. Kannan Group,Rajouri Garden,Thane,Maharashtra,387370,"31.003389195858432,93.95693293206908",False,Home,2021-06-27 23:50:16,2024-07-02 03:17:21
+34056,16948,42,,"Prakash, Jani and Murty Heights","Behind Pillay, Mohanty and Hayer",Mayur Vihar,Nashik,Maharashtra,240889,"18.02752881489075,75.84714606236966",True,Other,2021-03-02 14:37:13,2024-07-21 15:22:16
+23114,11529,25,,Pandya and Sons Apartments,Opp. Kade Inc,Vasant Kunj,Morbi,Gujarat,508591,"36.02959928055831,84.80795474808681",True,Work,2024-09-07 10:21:28,
+195747,97762,8,,Mitra-Doctor Heights,"Beside Chatterjee, Gupta and Virk",Malviya Nagar,Chandigarh,Punjab,549898,"19.229505643982762,71.24934192067333",True,Other,2025-02-05 17:04:20,2025-02-17 19:36:10
+38792,19280,34,,"Shankar, Dani and Tandon Complex",Walia LLC,Karol Bagh,Bhopal,Madhya Pradesh,727889,"34.762988853460485,87.65080414615657",False,Home,2025-02-15 21:18:15,
+60659,30273,37,13.0,Shanker and Sons Residency,Behind Buch-Palla,Dwarka,Hubli,Karnataka,594714,"10.49772264940909,95.52068361825738",False,Other,2023-07-21 00:28:25,2025-04-22 04:44:07
+153539,76697,32,17.0,Khurana Inc Complex,Mann-Contractor,Saket,Agra,Uttar Pradesh,875179,"19.985516203212253,79.42357751466129",True,Home,2023-07-10 17:14:14,
+101806,50882,49,,"Prasad, Choudhury and Deshmukh Heights",Choudhary Group,Rajouri Garden,Chandigarh,Punjab,549898,"13.123432067792125,70.83400920133252",True,Home,2022-10-06 16:25:54,
+175097,87468,35,9.0,Sanghvi-Ben Residency,Beside Iyengar Inc,Rohini,Anand,Gujarat,776563,"16.26997485873623,75.31910817563676",False,Home,2024-08-20 18:50:56,
+164105,81963,50,40.0,Rastogi Group Complex,B/h. Chaudhary Group,Pitampura,Chandigarh,Punjab,549898,"11.865015776974825,95.5054409285739",False,Work,2024-07-29 19:22:30,2025-04-05 08:58:31
+113083,56518,49,38.0,"Ghosh, Krishnamurthy and Karpe Apartments","Opp. Ratta, Balakrishnan and Parmer",Pitampura,Vadodara,Gujarat,998662,"23.77815225972683,81.7239749962732",False,Home,2024-02-13 06:31:56,
+21745,10850,28,,"Goda, Mutti and Kala Apartments",Opp. Sinha-Joshi,Pitampura,Varanasi,Uttar Pradesh,489201,"30.538957960307478,76.11662960521403",True,Work,2024-11-10 01:23:43,2025-02-14 13:24:33
+44776,22294,4,40.0,Pradhan Ltd Towers,"Opp. Mody, Srivastava and Mand",Hauz Khas,Chennai,Tamil Nadu,681858,"12.32162388974474,72.69236734914533",False,Other,2025-03-17 06:45:18,2025-04-18 08:25:54
+187561,93689,2,,"Jaggi, Deshmukh and Nori Residency",Beside Koshy Group,Malviya Nagar,Agra,Uttar Pradesh,875179,"21.40777341324804,78.07341681700063",True,Work,2024-01-06 16:41:09,
+116136,58031,7,23.0,Manda and Sons Heights,B/h. Bora PLC,Lajpat Nagar,Srinagar,Jammu and Kashmir,848797,"34.52734440821015,69.47680930621543",True,Work,2020-08-14 20:38:43,2025-04-21 01:25:21
+181051,90449,48,32.0,Varghese LLC Towers,Beside Wagle Inc,Pitampura,Hubli,Karnataka,594714,"34.14483808637766,92.06529424830072",False,Work,2025-04-12 12:15:06,2025-04-28 01:39:37
+190391,95116,5,5.0,"Solanki, Buch and Seshadri Residency",B/h. Chacko LLC,Connaught Place,Lucknow,Uttar Pradesh,791453,"29.991028782681944,77.77127682862454",True,Other,2021-02-07 12:02:37,2025-03-04 01:51:39
+2050,1024,37,35.0,Mukherjee-Dua Apartments,B/h. Mitra-Dubey,Mayur Vihar,Agra,Uttar Pradesh,875179,"24.365442281264546,92.99878537079621",False,Home,2024-06-18 02:57:42,2025-01-12 14:27:02
+149593,74707,12,17.0,Venkataraman Group Apartments,B/h. Varty LLC,Rohini,Srinagar,Jammu and Kashmir,848797,"17.956915133933798,80.98643465649967",False,Work,2023-10-15 11:43:23,2024-09-09 07:41:06
+80518,40291,1,4.0,"Deshmukh, Palla and Som Heights",Manda Group,Connaught Place,Lucknow,Uttar Pradesh,791453,"34.13684145210137,90.88104429787809",False,Work,2022-03-28 17:39:09,2023-11-18 11:58:37
+191162,95504,24,29.0,Sathe and Sons Apartments,"Beside Dada, Kothari and Ramaswamy",Connaught Place,Guwahati,Assam,116814,"33.36038887623044,76.10941294963082",False,Home,2024-12-07 14:54:04,
+61074,30481,28,19.0,"Bera, Chandra and Gokhale Towers",B/h. Khurana Group,Janakpuri,Bhopal,Madhya Pradesh,727889,"11.727136878279115,88.31241923229578",True,Home,2024-02-10 09:50:00,2024-05-26 03:40:17
+11559,5775,14,,"Mallick, Goswami and Mangal Residency",Behind Anand-Sant,Greater Kailash,Dhanbad,Jharkhand,413445,"23.410250206801535,70.18478666333829",True,Home,2024-12-19 18:40:35,2025-03-23 11:15:01
+82124,41098,4,3.0,"Tank, Sundaram and Hayer Heights",Behind Sha LLC,South Extension,Bhopal,Madhya Pradesh,727889,"36.279550834291165,90.3841071276545",True,Home,2024-02-27 19:37:43,2024-07-03 18:43:44

@@ -13,34 +13,36 @@ Our goal is to:
 3). Visualize insights in Power BI.
 
 🛠️ Tech Stack
-| Tool/Tech  | Role                                               |
-| ---------- | -------------------------------------------------- |
-| Python     | For Data Generation     
-| SQL        | For transformations and data modeling              |
-| Snowflake  | Cloud data warehouse for storing and querying data |
-| AWS S3     | Data lake to store raw and processed files         |
-| Power BI   | Dashboard for insights and KPIs                    |
-| Git/GitHub | Version control and collaboration                  |
+| Tool/Tech       | Role                                               |
+| ----------      | -------------------------------------------------- |
+| Python          | For Data Generation     
+| SQL             | For transformations and data modeling              |
+| Snowflake       | Cloud data warehouse for storing and querying data |
+| AWS S3          | Data lake to store raw and processed files         |
+| Power BI        | Dashboard for insights and KPIs                    |
+| Git/GitHub      | Version control and collaboration                  |
+| Pandas          | Data Manipulation                                  |
+| Jupyter Notebook| Interactive Data Analysis
 
  📁 Folder Structure  
  Internship_project/
 ├── data_generation/ 
 │   ├── main
-     │   ├── Data Generation - https://github.com/Falsi3007/Internship_project/blob/main/data-generation/Main/Main_DG.py
-     │   ├── Uploading data into s3 -https://github.com/Falsi3007/Internship_project/blob/main/data-generation/Main/s3_upload.py
-     |   ├── AWS authentication credentials -https://github.com/Falsi3007/Internship_project/blob/main/data-generation/Main/.env.local
+     │   ├── Data Generation 
+     │   ├── Uploading data into s3 
+     |   ├── AWS authentication credentials 
 ├──snowflake-code/
-   ├──customer table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/customer.txt
-   ├──customer_address code logic-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/customer_address.txt
-   ├──delivery table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/delivery.txt
-   ├──delivery agent code logic-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/delivery_agent.txt
-   ├──location table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/location.txt
-   ├──menu table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/menu.txt
-   ├──orders table code -https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/order.txt
-   ├──order_items table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/order_item.txt
-   ├──restaurant table code-https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code/restaurant.txt
+   ├──customer table code
+   ├──customer_address code 
+   ├──delivery table code
+   ├──delivery agent code 
+   ├──location table code
+   ├──menu table code
+   ├──orders table code
+   ├──order_items table code
+   ├──restaurant table code
 ├──snowflake-code-v2/
-   ├──sql_Scripts - creation of database,schema,file_format -https://github.com/Falsi3007/Internship_project/blob/main/snowflake-code-v2/sql_scripts/create_db_schema.sql
+   ├──sql_Scripts - creation of database,schema,file_format 
 ├──snowflake-code-v3/
    ├──procedure_Scripts/
       ├──customer_address_proc-procedure of customer_address code
@@ -82,8 +84,12 @@ Tables and Column Names 🍲
 | Login_Audit     | LoginID,CustomerID,LoginType,DeviceInterface,MobileDeviceName,WebInterface,LastLogin
 | Menu_Items      | MenuItemID,RestaurantID,ItemName,Description,Price,Category,Availability,ItemType,Ratings,CreatedDate,ModifiedDate
 | Order_items     | OrderItemID,OrderID,MenuItemID,Quantity,Price,Subtotal,Ratings,CreatedDate,ModifiedDate
-| Orders          | OrderID,CustomerID,RestaurantID,OrderDate,TotalAmount,DiscountAmount,DeliveryCharges,FinalAmount,Status,PaymentMethod,IsFirstOrder,CouponCode,CreatedDate,ModifiedDate
-| Restaurant      | RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address
+| Orders          | OrderID,CustomerID,RestaurantID,OrderDate,TotalAmount,DiscountAmount,DeliveryCharges,FinalAmount,Status,PaymentMethod,IsFirstOrder,Coupon Applied,CouponCode,CreatedDate,ModifiedDate
+| Restaurant      | RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address,ratings,coupons,
+                    latitude,longitude,createddate,modifieddate
+Relationships:
+https://dbdiagram.io/d/internship_project-67acceb1263d6cf9a0ef3a03
+
 
 KPIs:
 1) Total Revenue generated- Gives total generated revenue till date.
@@ -112,6 +118,11 @@ KPIs:
 24) Avg delivery Partner rating - guives the average rating of a delivery partner
 25) No. Of deliveries per different hours of a day: gives no. of deliveries done during different hours of a day
 26) Delivery status rate - shows the portion of deliveries successful, returned and failed to deliver
+
+    
+
+References:-
+S3 --> Snowflake connection: https://snowflakewiki.medium.com/connecting-snowflake-to-aws-ef7b6de1d6aa
 
    
    

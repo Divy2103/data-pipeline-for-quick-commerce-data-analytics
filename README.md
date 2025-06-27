@@ -22,8 +22,7 @@ Our goal is to:
 | AWS S3           | Data lake to store raw and processed files                  |
 | Power BI         | Dashboard for insights and KPIs                             |
 | Git/GitHub       | Version control and collaboration                           |
-| Pandas           | Data Manipulation                                           |
-| Jupyter Notebook | Interactive Data Analysis                                   |
+| Airflow          | Automating whole process                                    |
 
 ## 📁 Folder Structure
 
@@ -64,11 +63,39 @@ Internship_project/
 
 ## 🔄 Project Workflow
 
-- ✅ Step 1: Generate Synthetic Data using `data_generation/Main_DG` and store it as CSV.
-- 🧹 Step 2: Dump the data into S3 using `s3_upload.py` and authenticate with `.env.local`.
-- 📤 Step 3: Load Data into Snowflake external stage using SQL scripts (`snowflake-code-v2`).
-- 📤 Step 4: Create tables and procedures using `snowflake-code-v3/procedure_scripts/`.
-- 📊 Step 5: Connect Power BI Desktop with Snowflake and build dashboards.
+### ✅ Step 1: Initial Data Generation
+- Generate synthetic reference data for all 10 tables using `data_generation/Main_DG.py`
+### ☁️ Step 2: Upload Initial Data to S3
+- Use `s3_upload.py` (with credentials from `.env.local`) to upload generated data to S3.
+### ❄️ Step 3: Load Initial Data to Snowflake
+- Load S3 files into Snowflake external stage using SQL scripts from `snowflake-code-v2`.
+### 🛠️ Step 4: Create Tables & Procedures in Snowflake
+- Use SQL scripts in `snowflake-code-v3/procedure_scripts/`.
+### 🧠 Step 5: Ongoing Automation Using Airflow
+#### 🔁 Step 5.1: Load Latest Reference Data
+- Pulls the latest data for all 10 tables from S3.
+#### 🧬 Step 5.2: Generate New Data
+- Executes `generate_new_orders.py` to generate new daily records for:
+- `restaurant`
+- `menu`
+- `orders`
+- `order_items`
+- `delivery`
+#### 🔄 Step 5.3: Update Reference Files
+- Merges new data into reference files.
+- Re-uploads the updated files to S3.
+#### 📥 Step 5.4: Execute Final Snowflake Procedure
+- Triggers `FINAL_PROCEDURE()` using Airflow which:
+- Loads new daily records for the 5 dynamic tables.
+- Skips static tables:
+  - `location`
+  - `customer`
+  - `customer_address`
+  - `login_audit`
+  - `delivery_agent`
+### 📈 Step 6: Power BI Integration
+- Power BI connects directly to **Snowflake** for live reporting.
+- Dashboards use transformed data from the **consumption layer** to provide insights and KPIs.
 
 ## 🔍 Features
 
@@ -137,3 +164,5 @@ Access here: [Swiggy_Report_2025.pbix](https://github.com/Falsi3007/Internship_p
 ## 📚 References
 
 - AWS S3 to Snowflake Integration: [Medium Article](https://snowflakewiki.medium.com/connecting-snowflake-to-aws-ef7b6de1d6aa)
+- Snowflake : https://docs.snowflake.com/en/)
+- SCDs : https://www.datacamp.com/tutorial/mastering-slowly-changing-dimensions-scd
